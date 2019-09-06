@@ -1,0 +1,89 @@
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe.config
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.pdb
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csprojResolveAssemblyReference.cache
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Properties.Resources.resources
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.GenerateResource.Cache
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.dll
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.dll
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.pdb
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.pdb
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Form1.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe.config
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Form1.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Properties.Resources.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.GenerateResource.Cache
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe.config
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.pdb
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.dll
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.dll
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.pdb
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.pdb
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Form1.resources
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Properties.Resources.resources
+E:\Githubs\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.GenerateResource.Cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe.config
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Properties.Resources.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.GenerateResource.Cache
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe.config
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.pdb
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.dll
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.pdb
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csprojResolveAssemblyReference.cache
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Properties.Resources.resources
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.GenerateResource.Cache
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmDangNhap.resources
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Main.resources
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmNhanVien.resources
+<<<<<<< HEAD
+E:\Clone\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmHuongDan.resources
+=======
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmNhanVien.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmDangNhap.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Main.resources
+>>>>>>> b365847d23f64c4327c6ed1f1ab182af36215a78
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe.config
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csprojResolveAssemblyReference.cache
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmHuongDan.resources
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmNhanVien.resources
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmDangNhap.resources
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Main.resources
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Properties.Resources.resources
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.GenerateResource.Cache

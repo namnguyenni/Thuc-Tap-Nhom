@@ -1,0 +1,20 @@
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\OBJ\bin\Debug\OBJ.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\OBJ\bin\Debug\OBJ.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.pdb
+E:\Clone\Bai1_QLNhanSu\OBJ\bin\Debug\OBJ.dll
+E:\Clone\Bai1_QLNhanSu\OBJ\bin\Debug\OBJ.pdb
+E:\Clone\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.csprojResolveAssemblyReference.cache
+E:\Clone\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.dll
+E:\Clone\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\OBJ\bin\Debug\OBJ.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\OBJ\bin\Debug\OBJ.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\OBJ\bin\Debug\OBJ.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\OBJ\bin\Debug\OBJ.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.csprojResolveAssemblyReference.cache
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\OBJ\obj\Debug\OBJ.pdb

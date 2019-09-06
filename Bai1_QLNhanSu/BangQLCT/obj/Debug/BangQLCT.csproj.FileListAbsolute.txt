@@ -1,0 +1,42 @@
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojResolveAssemblyReference.cache
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.dll
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.pdb
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.dll
+c:\users\hoanganh\documents\visual studio 2013\Projects\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb
+E:\Githubs\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.dll
+E:\Githubs\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.pdb
+E:\Githubs\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.dll
+E:\Githubs\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.pdb
+E:\Githubs\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
+E:\Githubs\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb
+E:\Clone\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.dll
+E:\Clone\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.pdb
+E:\Clone\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojResolveAssemblyReference.cache
+E:\Clone\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
+E:\Clone\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojResolveAssemblyReference.cache
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb
