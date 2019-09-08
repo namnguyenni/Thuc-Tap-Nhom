@@ -87,3 +87,21 @@ G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\ob
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Main.resources
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Properties.Resources.resources
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.GenerateResource.Cache
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe.config
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.pdb
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.dll
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.dll
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\BangQLCT.pdb
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\KetNoiDB.pdb
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csprojAssemblyReference.cache
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmHuongDan.resources
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmNhanVien.resources
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.frmDangNhap.resources
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Main.resources
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.Properties.Resources.resources
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.GenerateResource.cache
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.CopyComplete
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb

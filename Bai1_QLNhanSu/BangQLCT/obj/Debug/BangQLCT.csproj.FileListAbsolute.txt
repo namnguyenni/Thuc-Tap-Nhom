@@ -40,3 +40,12 @@ G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\bin\Deb
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojResolveAssemblyReference.cache
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.dll
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.pdb
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.dll
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.pdb
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojAssemblyReference.cache
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csproj.CoreCompileInputs.cache
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csproj.CopyComplete
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb

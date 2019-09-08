@@ -33,7 +33,6 @@
             this.label13 = new System.Windows.Forms.Label();
             this.txtUserName = new System.Windows.Forms.TextBox();
             this.txtPass = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.btnDangNhap = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnThoat = new System.Windows.Forms.Button();
@@ -69,17 +68,6 @@
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(150, 20);
             this.txtPass.TabIndex = 3;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(-64, 9);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(670, 25);
-            this.label1.TabIndex = 4;
-            this.label1.Text = "                   Design by Hoang Anh, Hoa Long, Tien Dung, Van Luong";
             // 
             // btnDangNhap
             // 
@@ -145,7 +133,7 @@
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label3.Location = new System.Drawing.Point(29, 74);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(308, 22);
+            this.label3.Size = new System.Drawing.Size(307, 22);
             this.label3.TabIndex = 10;
             this.label3.Text = "Đăng nhập hệ thống quản lý nhân sự";
             // 
@@ -160,7 +148,6 @@
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnDangNhap);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.txtPass);
             this.Controls.Add(this.txtUserName);
             this.Controls.Add(this.label13);
@@ -179,7 +166,6 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.TextBox txtUserName;
         private System.Windows.Forms.TextBox txtPass;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnDangNhap;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnThoat;

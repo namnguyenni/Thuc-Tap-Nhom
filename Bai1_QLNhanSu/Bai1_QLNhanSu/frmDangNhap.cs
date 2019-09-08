@@ -47,17 +47,22 @@ namespace Bai1_QLNhanSu
         }
         private void timer1_Tick(object sender, EventArgs e)
         {
-            label1.Text = label1.Text.Substring(2, label1.Text.Length - 2) + label1.Text.Substring(0, 2);
+           // label1.Text = label1.Text.Substring(2, label1.Text.Length - 2) + label1.Text.Substring(0, 2);
         }
 
         private void timer2_Tick(object sender, EventArgs e)
         {
-            label1.ForeColor = Color.Yellow;
+           // label1.ForeColor = Color.Yellow;
         }
 
         private void timer3_Tick(object sender, EventArgs e)
         {
-            label1.ForeColor = Color.Red;
+           // label1.ForeColor = Color.Red;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

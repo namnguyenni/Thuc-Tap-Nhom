@@ -27,3 +27,9 @@ G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\KetNoiDB\bin\Deb
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\KetNoiDB\bin\Debug\KetNoiDB.pdb
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.dll
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.pdb
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\bin\Debug\KetNoiDB.dll
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\bin\Debug\KetNoiDB.pdb
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.csprojAssemblyReference.cache
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.dll
+C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.pdb
