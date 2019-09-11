@@ -1,0 +1,34 @@
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb
+<<<<<<< HEAD
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb
+=======
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb
+>>>>>>> 32a10882999b2f7300d078052a93c2e4fbe79f3a
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb
+>>>>>>> c440d652707baefcd3b80e71f1d260e2cb8d6347
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csprojAssemblyReference.cache
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb

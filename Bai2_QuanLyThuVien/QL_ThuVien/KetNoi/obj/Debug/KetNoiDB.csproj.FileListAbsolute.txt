@@ -1,0 +1,5 @@
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoi\bin\Debug\KetNoi.dll
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoi\bin\Debug\KetNoi.pdb
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoi\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoi\obj\Debug\KetNoi.dll
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\KetNoi\obj\Debug\KetNoi.pdb

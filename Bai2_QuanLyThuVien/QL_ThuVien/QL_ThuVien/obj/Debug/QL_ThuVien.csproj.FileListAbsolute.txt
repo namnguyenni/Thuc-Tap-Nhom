@@ -1,0 +1,159 @@
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Form1.resources
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\dung\Kì I - Năm 4\CN WEB\demo_programs\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Form1.resources
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+E:\Clone\QL_ThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai3_QLThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+<<<<<<< HEAD
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+=======
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+>>>>>>> 32a10882999b2f7300d078052a93c2e4fbe79f3a
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+>>>>>>> c440d652707baefcd3b80e71f1d260e2cb8d6347
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.MuonSach.resources
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmQLThuVien.resources
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmHuongDan.resources
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmHuongDan.resources
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.MuonSach.resources
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmQLThuVien.resources
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+E:\Githubs\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.HuongDan.resources
+C:\Users\PhamVanLuong^^\Documents\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.HuongDan.resources
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.HuongDan.resources
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.MuonSach.resources
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmQLThuVien.resources
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+C:\Users\PhamVanLuong^^\Documents\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDangNhap.resources
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.HuongDan.resources
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.MuonSach.resources
+E:\Clone\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmQLThuVien.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojAssemblyReference.cache
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDangNhap.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.HuongDan.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.MuonSach.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmQLThuVien.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CopyComplete
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
