@@ -1,0 +1,70 @@
+E:\Githubs\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.exe.config
+E:\Githubs\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.exe
+E:\Githubs\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.pdb
+E:\Githubs\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Form1.resources
+E:\Githubs\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Properties.Resources.resources
+E:\Githubs\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+E:\Githubs\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.exe
+E:\Githubs\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.pdb
+<<<<<<< HEAD
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.exe.config
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Form1.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Giao_Vien.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Hoc_Sinh.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Properties.Resources.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+=======
+E:\Clone\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.exe.config
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.exe
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.pdb
+>>>>>>> origin/master
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.exe.config
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Form1.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Giao_Vien.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Hoc_Sinh.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Properties.Resources.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\bin\Debug\BUS.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\bin\Debug\BUS.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.TT_GiangDay.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.QLGD.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\bin\Debug\BUS.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai2_TruongTHPT\Main\Main\bin\Debug\BUS.pdb
+C:\Users\PhamVanLuong^^\Documents\Main\Main\bin\Debug\Main.exe.config
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.exe
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.pdb
+C:\Users\PhamVanLuong^^\Documents\Main\Main\bin\Debug\Main.exe
+C:\Users\PhamVanLuong^^\Documents\Main\Main\bin\Debug\Main.pdb
+C:\Users\PhamVanLuong^^\Documents\Main\Main\bin\Debug\BUS.dll
+C:\Users\PhamVanLuong^^\Documents\Main\Main\bin\Debug\BUS.pdb
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.Form1.resources
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.Giao_Vien.resources
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.Hoc_Sinh.resources
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.QLGD.resources
+C:\Users\PhamVanLuong^^\Documents\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+E:\Clone\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.exe
+E:\Clone\Bai2_TruongTHPT\Main\Main\bin\Debug\Main.pdb
+E:\Clone\Bai2_TruongTHPT\Main\Main\bin\Debug\BUS.dll
+E:\Clone\Bai2_TruongTHPT\Main\Main\bin\Debug\BUS.pdb
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Form1.resources
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Giao_Vien.resources
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Hoc_Sinh.resources
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.Properties.Resources.resources
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.QLGD.resources
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.frmHuongDan.resources
+E:\Clone\Bai2_TruongTHPT\Main\Main\obj\Debug\Main.frmDangNhap.resources

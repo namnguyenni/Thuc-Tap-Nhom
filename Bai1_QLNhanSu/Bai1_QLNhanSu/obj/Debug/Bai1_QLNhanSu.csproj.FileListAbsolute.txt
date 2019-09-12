@@ -105,3 +105,6 @@ C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.cspr
 C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.csproj.CopyComplete
 C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
 C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb
+D:\github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\bin\Debug\Bai1_QLNhanSu.exe.config
+D:\github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.exe
+D:\github\Thuc-Tap-Nhom\Bai1_QLNhanSu\Bai1_QLNhanSu\obj\Debug\Bai1_QLNhanSu.pdb
