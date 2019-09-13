@@ -10,9 +10,9 @@ namespace BUS
     public class DangNhap
     {
 
-        public bool DangNhapHT(string Username, string Pass)
+        public bool DangNhapHT(string UserName, string Pass)
         {
-            string sql = "SELECT * FROM tblDangNhap WHERE UserName='" + Username + "' AND Pass='" + Pass + "'";
+            string sql = "SELECT * FROM dbo.DangNhap WHERE UserName='" + UserName + "' AND Pass='" + Pass + "'";
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             DataTable dt = new DataTable();
             SqlDataAdapter da = new SqlDataAdapter(sql, con);

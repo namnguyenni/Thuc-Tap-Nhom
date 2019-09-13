@@ -28,19 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("Đăng nhập");
-            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("Màn hình chính");
-            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("Quản lý giáo viên");
-            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("Quản lý học sinh");
-            System.Windows.Forms.TreeNode treeNode12 = new System.Windows.Forms.TreeNode("Quản lý giảng dạy");
-            System.Windows.Forms.TreeNode treeNode13 = new System.Windows.Forms.TreeNode("Các chức năng", new System.Windows.Forms.TreeNode[] {
-            treeNode8,
-            treeNode9,
-            treeNode10,
-            treeNode11,
-            treeNode12});
-            System.Windows.Forms.TreeNode treeNode14 = new System.Windows.Forms.TreeNode("Giới thiệu phần mềm", new System.Windows.Forms.TreeNode[] {
-            treeNode13});
+            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("Đăng nhập");
+            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("Màn hình chính");
+            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("Quản lý giáo viên");
+            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("Quản lý học sinh");
+            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("Quản lý giảng dạy");
+            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("Các chức năng", new System.Windows.Forms.TreeNode[] {
+            treeNode1,
+            treeNode2,
+            treeNode3,
+            treeNode4,
+            treeNode5});
+            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("Giới thiệu phần mềm", new System.Windows.Forms.TreeNode[] {
+            treeNode6});
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.txtGioiThieu = new System.Windows.Forms.TextBox();
@@ -52,22 +52,22 @@
             this.treeView1.Dock = System.Windows.Forms.DockStyle.Left;
             this.treeView1.Location = new System.Drawing.Point(0, 0);
             this.treeView1.Name = "treeView1";
-            treeNode8.Name = "gtDangNhap";
-            treeNode8.Text = "Đăng nhập";
-            treeNode9.Name = "gtManHinhChinh";
-            treeNode9.Text = "Màn hình chính";
-            treeNode10.Name = "gtGiaoVien";
-            treeNode10.Text = "Quản lý giáo viên";
-            treeNode11.Name = "gtHocSinh";
-            treeNode11.Text = "Quản lý học sinh";
-            treeNode12.Name = "gtQLGD";
-            treeNode12.Text = "Quản lý giảng dạy";
-            treeNode13.Name = "gtChucNang";
-            treeNode13.Text = "Các chức năng";
-            treeNode14.Name = "gtPhanMem";
-            treeNode14.Text = "Giới thiệu phần mềm";
+            treeNode1.Name = "gtDangNhap";
+            treeNode1.Text = "Đăng nhập";
+            treeNode2.Name = "gtManHinhChinh";
+            treeNode2.Text = "Màn hình chính";
+            treeNode3.Name = "gtGiaoVien";
+            treeNode3.Text = "Quản lý giáo viên";
+            treeNode4.Name = "gtHocSinh";
+            treeNode4.Text = "Quản lý học sinh";
+            treeNode5.Name = "gtQLGD";
+            treeNode5.Text = "Quản lý giảng dạy";
+            treeNode6.Name = "gtChucNang";
+            treeNode6.Text = "Các chức năng";
+            treeNode7.Name = "gtPhanMem";
+            treeNode7.Text = "Giới thiệu phần mềm";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode14});
+            treeNode7});
             this.treeView1.Size = new System.Drawing.Size(172, 424);
             this.treeView1.TabIndex = 1;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.trViewGioiThieu_AfterSelect);
@@ -90,6 +90,7 @@
             this.txtGioiThieu.Name = "txtGioiThieu";
             this.txtGioiThieu.Size = new System.Drawing.Size(546, 147);
             this.txtGioiThieu.TabIndex = 3;
+            this.txtGioiThieu.TextChanged += new System.EventHandler(this.txtGioiThieu_TextChanged);
             // 
             // frmHuongDan
             // 

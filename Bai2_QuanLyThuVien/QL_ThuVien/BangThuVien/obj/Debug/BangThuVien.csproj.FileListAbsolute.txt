@@ -60,3 +60,12 @@ E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangT
 E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csproj.CopyComplete
 E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.dll
 E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.pdb
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\BangThuVien.dll
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\BangThuVien.pdb
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\KetNoiDB.dll
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\KetNoiDB.pdb
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csprojAssemblyReference.cache
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csproj.CoreCompileInputs.cache
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csproj.CopyComplete
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.dll
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.pdb

@@ -209,11 +209,11 @@
             // 
             // btnTim
             // 
-            this.btnTim.Location = new System.Drawing.Point(309, 14);
+            this.btnTim.Location = new System.Drawing.Point(383, 13);
             this.btnTim.Name = "btnTim";
             this.btnTim.Size = new System.Drawing.Size(75, 23);
             this.btnTim.TabIndex = 2;
-            this.btnTim.Text = "Tìm";
+            this.btnTim.Text = "Tìm Kiếm";
             this.btnTim.UseVisualStyleBackColor = true;
             this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
