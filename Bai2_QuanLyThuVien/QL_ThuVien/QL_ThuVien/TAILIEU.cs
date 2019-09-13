@@ -139,6 +139,9 @@ namespace QL_ThuVien
             dgvTaiLieu.DataSource = tk.TKTL_NhanDe(txttk_NhanDe.Text);
         }
 
-       
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -104,5 +104,10 @@ namespace QL_ThuVien
                 MessageBox.Show("Trả Sách Thất Bại.");
 
         }
+
+        private void panelBanDoc_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

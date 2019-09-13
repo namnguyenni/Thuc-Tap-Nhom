@@ -151,5 +151,10 @@ namespace QL_ThuVien
                 }
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
