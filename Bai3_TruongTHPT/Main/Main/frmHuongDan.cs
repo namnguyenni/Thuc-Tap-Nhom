@@ -73,5 +73,10 @@ namespace Main
             Form1 f = new Form1();
             f.Show();
         }
+
+        private void txtGioiThieu_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

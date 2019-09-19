@@ -157,3 +157,24 @@ E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_Thu
 E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CopyComplete
 E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
 E:\Clone-Hoang Anh-Thi\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojAssemblyReference.cache
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDangNhap.resources
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.HuongDan.resources
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.MuonSach.resources
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmQLThuVien.resources
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CopyComplete
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+C:\Github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
