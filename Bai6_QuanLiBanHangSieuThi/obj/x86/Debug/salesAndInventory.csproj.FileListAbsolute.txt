@@ -1,0 +1,2 @@
+F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.exe
+F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.pdb
