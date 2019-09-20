@@ -80,5 +80,10 @@ namespace Bai5_QLKhachSan
                 pictureBox1.BackgroundImage = img;
             }
         }
+
+        private void txtGioiThieu_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

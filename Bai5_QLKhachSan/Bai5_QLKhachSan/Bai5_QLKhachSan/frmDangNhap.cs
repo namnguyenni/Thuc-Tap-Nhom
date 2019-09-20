@@ -22,7 +22,7 @@ namespace Bai5_QLKhachSan
         {
             if (dn.DangNhap(txtUserName.Text, txtPass.Text) == true)
             {
-                // bool x = false;
+               
                 MessageBox.Show("Bạn đăng nhập thành công ^^", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 frmQuanLyKhachSan frm = new frmQuanLyKhachSan();
                 frm.Show();
@@ -46,17 +46,21 @@ namespace Bai5_QLKhachSan
         }
         private void timer1_Tick(object sender, EventArgs e)
         {
-            label3.Text = label3.Text.Substring(2, label3.Text.Length - 2) + label3.Text.Substring(0, 2);
-        }
 
+        }
         private void timer2_Tick(object sender, EventArgs e)
         {
-            label3.ForeColor = Color.Yellow;
+            
         }
 
         private void timer3_Tick(object sender, EventArgs e)
         {
-            label3.ForeColor = Color.Red;
+            
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

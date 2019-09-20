@@ -102,6 +102,7 @@
             this.txtGioiThieu.Name = "txtGioiThieu";
             this.txtGioiThieu.Size = new System.Drawing.Size(469, 54);
             this.txtGioiThieu.TabIndex = 4;
+            this.txtGioiThieu.TextChanged += new System.EventHandler(this.txtGioiThieu_TextChanged);
             // 
             // frmHuongDan
             // 
