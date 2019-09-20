@@ -1,0 +1,69 @@
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe.config
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Properties.Resources.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.GenerateResource.Cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhapXuat.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPN.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe.config
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.exe
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.pdb
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.pdb
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.dll
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.pdb
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csprojResolveAssemblyReference.cache
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhapXuat.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPN.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Properties.Resources.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.GenerateResource.Cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Main.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmHangHoa.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhaCungCap.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmKhachHang.resources
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe.config
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.exe
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.pdb
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.pdb
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.dll
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.pdb
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmHangHoa.resources
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmKhachHang.resources
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhaCungCap.resources
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhapXuat.resources
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPN.resources
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Main.resources
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Properties.Resources.resources
+E:\Githubs\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.GenerateResource.Cache
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmDangNhap.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmHangHoa.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmKhachHang.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhaCungCap.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Main.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe.config
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmDangNhap.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmHangHoa.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmKhachHang.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhaCungCap.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhapXuat.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPN.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Main.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Properties.Resources.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.GenerateResource.Cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPX.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmHuongDan.resources
+E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPX.resources
