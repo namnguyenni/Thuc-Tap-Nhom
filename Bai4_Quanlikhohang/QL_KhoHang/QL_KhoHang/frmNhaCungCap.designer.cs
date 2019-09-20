@@ -77,13 +77,13 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(713, 245);
+            this.panel1.Size = new System.Drawing.Size(839, 245);
             this.panel1.TabIndex = 0;
             // 
             // btnLuu
             // 
             this.btnLuu.Enabled = false;
-            this.btnLuu.Location = new System.Drawing.Point(471, 185);
+            this.btnLuu.Location = new System.Drawing.Point(564, 185);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 35);
             this.btnLuu.TabIndex = 83;
@@ -93,7 +93,7 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.Location = new System.Drawing.Point(331, 185);
+            this.btnXoa.Location = new System.Drawing.Point(382, 185);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 35);
             this.btnXoa.TabIndex = 82;
@@ -103,7 +103,7 @@
             // 
             // btnSua
             // 
-            this.btnSua.Location = new System.Drawing.Point(191, 185);
+            this.btnSua.Location = new System.Drawing.Point(209, 185);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 35);
             this.btnSua.TabIndex = 81;
@@ -114,7 +114,7 @@
             // btnHuy
             // 
             this.btnHuy.Enabled = false;
-            this.btnHuy.Location = new System.Drawing.Point(593, 185);
+            this.btnHuy.Location = new System.Drawing.Point(726, 185);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(75, 35);
             this.btnHuy.TabIndex = 80;
@@ -150,7 +150,7 @@
             // 
             // txtTK
             // 
-            this.txtTK.Location = new System.Drawing.Point(404, 17);
+            this.txtTK.Location = new System.Drawing.Point(446, 22);
             this.txtTK.Name = "txtTK";
             this.txtTK.Size = new System.Drawing.Size(264, 29);
             this.txtTK.TabIndex = 76;
@@ -164,7 +164,7 @@
             "Tên NCC",
             "Địa Chỉ",
             "SĐT"});
-            this.cboTK.Location = new System.Drawing.Point(224, 17);
+            this.cboTK.Location = new System.Drawing.Point(170, 22);
             this.cboTK.Name = "cboTK";
             this.cboTK.Size = new System.Drawing.Size(161, 29);
             this.cboTK.TabIndex = 75;
@@ -236,10 +236,10 @@
             this.Column2,
             this.Column3,
             this.Column4});
-            this.dataGridView1.Location = new System.Drawing.Point(12, 245);
+            this.dataGridView1.Location = new System.Drawing.Point(12, 251);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(689, 232);
+            this.dataGridView1.Size = new System.Drawing.Size(815, 232);
             this.dataGridView1.TabIndex = 1;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
@@ -273,9 +273,9 @@
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(593, 483);
+            this.btnThoat.Location = new System.Drawing.Point(716, 489);
             this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(75, 35);
+            this.btnThoat.Size = new System.Drawing.Size(94, 35);
             this.btnThoat.TabIndex = 68;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
@@ -285,7 +285,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(713, 530);
+            this.ClientSize = new System.Drawing.Size(839, 531);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel1);
