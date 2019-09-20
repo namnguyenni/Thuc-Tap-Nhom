@@ -12,17 +12,24 @@ namespace BangQLCT
     {
         public bool DangNhap(string Username, string Pass)
         {
-            string sql = "SELECT * FROM tblDangNhap WHERE UserName='" + Username + "' AND Pass='" + Pass + "'";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            DataTable dt = new DataTable();
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
 
+            string sql = "SELECT * FROM tblDonVi";
+            DataTable dt = new DataTable();
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
             da.Fill(dt);
-            if (dt.Rows.Count > 0)
-            {
-                return true;
-            }
-            return false;
+            return dt;
+            //string sql = "SELECT * FROM tblDangNhap WHERE UserName='" + Username + "' AND Pass='" + Pass + "'";
+            //SqlConnection con = new SqlConnection(KetNoi.connect());
+            //DataTable dt = new DataTable();
+            //SqlDataAdapter da = new SqlDataAdapter(sql, con);
+
+            //da.Fill(dt);
+            //if (dt.Rows.Count > 0)
+            //{
+            //    return true;
+            //}
+            //return false;
         }
     }
 }
