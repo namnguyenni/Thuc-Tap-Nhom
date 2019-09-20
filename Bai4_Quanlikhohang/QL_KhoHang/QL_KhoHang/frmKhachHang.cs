@@ -181,5 +181,15 @@ namespace QL_KhoHang
                 i++;
             }
         }
+
+        private void txtSoDT_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txttenKH_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
