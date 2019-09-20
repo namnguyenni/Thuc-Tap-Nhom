@@ -16,7 +16,7 @@ namespace BangThuVien
         public DataTable TimKiemBDID(string _MaBD)
         {
             DataTable dt = new DataTable();
-            string str = string.Format("Select * from BanDoc where (MaBD = @MaBD)");
+            string str = string.Format("Select * from dbo.BanDoc where (MaBD = @MaBD)");
             SqlParameter[] arrPara = new SqlParameter[1];
             arrPara[0] = new SqlParameter("@MaBD", SqlDbType.NVarChar, 10);
             arrPara[0].Value = _MaBD;
@@ -26,7 +26,7 @@ namespace BangThuVien
         }
         public DataTable HienThiBanDoc()
         {
-            string sql = "SELECT * FROM BanDoc";
+            string sql = "SELECT * FROM dbo.BanDoc";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoi.connect());
             SqlDataAdapter da = new SqlDataAdapter(sql, con);

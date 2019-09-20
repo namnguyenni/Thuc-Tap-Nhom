@@ -52,7 +52,7 @@
             this.hướngDẫnToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(924, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(911, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -70,26 +70,26 @@
             // mượnTàiLiệuToolStripMenuItem1
             // 
             this.mượnTàiLiệuToolStripMenuItem1.Name = "mượnTàiLiệuToolStripMenuItem1";
-            this.mượnTàiLiệuToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.mượnTàiLiệuToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.mượnTàiLiệuToolStripMenuItem1.Text = "Mượn Tài Liệu";
             this.mượnTàiLiệuToolStripMenuItem1.Click += new System.EventHandler(this.mượnTàiLiệuToolStripMenuItem1_Click);
             // 
             // trảTàiLiệuToolStripMenuItem
             // 
             this.trảTàiLiệuToolStripMenuItem.Name = "trảTàiLiệuToolStripMenuItem";
-            this.trảTàiLiệuToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.trảTàiLiệuToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.trảTàiLiệuToolStripMenuItem.Text = "Trả Tài Liệu";
             this.trảTàiLiệuToolStripMenuItem.Click += new System.EventHandler(this.trảTàiLiệuToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(149, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(177, 6);
             // 
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
-            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.thoátToolStripMenuItem.Text = "Thoát";
             this.thoátToolStripMenuItem.Click += new System.EventHandler(this.thoátToolStripMenuItem_Click);
             // 
@@ -105,14 +105,14 @@
             // tàiLiệuToolStripMenuItem
             // 
             this.tàiLiệuToolStripMenuItem.Name = "tàiLiệuToolStripMenuItem";
-            this.tàiLiệuToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
+            this.tàiLiệuToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.tàiLiệuToolStripMenuItem.Text = "Tài Liệu";
             this.tàiLiệuToolStripMenuItem.Click += new System.EventHandler(this.tàiLiệuToolStripMenuItem_Click);
             // 
             // bạnĐọcToolStripMenuItem
             // 
             this.bạnĐọcToolStripMenuItem.Name = "bạnĐọcToolStripMenuItem";
-            this.bạnĐọcToolStripMenuItem.Size = new System.Drawing.Size(118, 22);
+            this.bạnĐọcToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.bạnĐọcToolStripMenuItem.Text = "Bạn Đọc";
             this.bạnĐọcToolStripMenuItem.Click += new System.EventHandler(this.bạnĐọcToolStripMenuItem_Click);
             // 
@@ -131,7 +131,7 @@
             this.picBackground.Dock = System.Windows.Forms.DockStyle.Fill;
             this.picBackground.Location = new System.Drawing.Point(0, 24);
             this.picBackground.Name = "picBackground";
-            this.picBackground.Size = new System.Drawing.Size(924, 431);
+            this.picBackground.Size = new System.Drawing.Size(911, 431);
             this.picBackground.TabIndex = 1;
             this.picBackground.TabStop = false;
             // 
@@ -140,7 +140,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(924, 455);
+            this.ClientSize = new System.Drawing.Size(911, 455);
             this.Controls.Add(this.picBackground);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
