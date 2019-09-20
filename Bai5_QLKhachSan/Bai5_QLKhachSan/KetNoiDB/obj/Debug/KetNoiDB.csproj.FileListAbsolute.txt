@@ -1,0 +1,25 @@
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\Clone\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb
+E:\Githubs\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\Githubs\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\Githubs\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\Githubs\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.pdb
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.dll
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb

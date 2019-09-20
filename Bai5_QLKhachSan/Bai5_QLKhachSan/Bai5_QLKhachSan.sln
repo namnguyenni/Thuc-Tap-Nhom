@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_QLKhachSan", "Bai5_QLKhachSan\Bai5_QLKhachSan.csproj", "{92191299-688A-4712-9EF5-3B3909C6226C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetNoiDB", "KetNoiDB\KetNoiDB.csproj", "{47A932E4-9BE2-4DC6-B92B-0FB314C7302A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangKhachSan", "BangKhachSan\BangKhachSan.csproj", "{B6679DFC-9E0B-4E7D-AF92-2DB99949823F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92191299-688A-4712-9EF5-3B3909C6226C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92191299-688A-4712-9EF5-3B3909C6226C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92191299-688A-4712-9EF5-3B3909C6226C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92191299-688A-4712-9EF5-3B3909C6226C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A932E4-9BE2-4DC6-B92B-0FB314C7302A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A932E4-9BE2-4DC6-B92B-0FB314C7302A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A932E4-9BE2-4DC6-B92B-0FB314C7302A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A932E4-9BE2-4DC6-B92B-0FB314C7302A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6679DFC-9E0B-4E7D-AF92-2DB99949823F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6679DFC-9E0B-4E7D-AF92-2DB99949823F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6679DFC-9E0B-4E7D-AF92-2DB99949823F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6679DFC-9E0B-4E7D-AF92-2DB99949823F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
