@@ -33,3 +33,9 @@ C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.csprojAssembly
 C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
 C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.dll
 C:\Github\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.pdb
+E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\bin\Debug\KetNoiDB.dll
+E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\bin\Debug\KetNoiDB.pdb
+E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.csprojAssemblyReference.cache
+E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
+E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.dll
+E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\KetNoiDB\obj\Debug\KetNoiDB.pdb

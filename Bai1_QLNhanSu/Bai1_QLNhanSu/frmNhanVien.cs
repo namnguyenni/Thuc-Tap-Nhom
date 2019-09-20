@@ -96,12 +96,12 @@ namespace Bai1_QLNhanSu
             if (chon == 1)
             {
                 if (txtTenNV.Text == "" || txtGT.Text == "" || txtHoDem.Text == "" || txtDiaChi.Text == "" || txtSDT.Text == "" || txtLuong.Text == "" || cbMaDV.Text == "" || cbMa_NQL.Text == "")
-                    MessageBox.Show("Mời nhập đầy đủ thông tin!");
+                    MessageBox.Show("Mời nhập đầy đủ tất cả thông tin!");
                 else
-                    if (DialogResult.Yes == MessageBox.Show("Bạn có muốn thêm nhân viên này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
+                    if (DialogResult.Yes == MessageBox.Show("Bạn có chắc chắn muốn thêm nhân viên này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
                     {
                         nhanvien.ThemNhanVien(txtHoDem.Text,txtTenNV.Text,dtpNgaySinh.Text,txtGT.Text,txtLuong.Text,txtDiaChi.Text,cbMa_NQL.Text,cbMaDV.Text,txtChucVu.Text,txtSDT.Text);
-                        MessageBox.Show("Thêm thành công!");
+                        MessageBox.Show(" Đã thêm thành công!");
                         SetNull();
                         frmNhanVien_Load(sender, e);
                     }
@@ -173,6 +173,11 @@ namespace Bai1_QLNhanSu
         {
             if (MessageBox.Show("Ban có chắc muốn thoát ??", "Question", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 this.Close();
+        }
+
+        private void dgvNhanVien_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
