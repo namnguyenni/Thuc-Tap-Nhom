@@ -12,7 +12,7 @@ namespace BUS
     {
         public DataTable Show()
         {
-            string sql = @"select * from tblMonHoc";
+            string sql = @"select * from dbo.MonHoc";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             con.Open();

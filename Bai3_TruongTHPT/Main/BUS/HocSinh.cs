@@ -12,7 +12,7 @@ namespace BUS
     {
         public DataTable Show()
         {
-            string sql = "SELECT hs.MaHS, hs.HovaTen, hs.GT, hs.NgaySinh, hs.DiaChi, hs.PhuHuynh, lop.TenLop FROM tblHocSinh hs, tblLop lop where hs.MaLop = lop.MaLop";
+            string sql = "SELECT hs.MaHS, hs.HovaTen, hs.GT, hs.NgaySinh, hs.DiaChi, hs.PhuHuynh, lop.TenLop FROM dbo.HocSinh hs, dbo.Lop lop where hs.MaLop = lop.MaLop";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             con.Open();
@@ -80,7 +80,7 @@ namespace BUS
         //lay thong tin lop
         public DataTable LayThongTinLop()
         {
-            string sql = "SELECT * FROM tblLop";
+            string sql = "SELECT * FROM dbo.Lop";
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             DataTable dt = new DataTable();
             SqlDataAdapter da = new SqlDataAdapter(sql, con);

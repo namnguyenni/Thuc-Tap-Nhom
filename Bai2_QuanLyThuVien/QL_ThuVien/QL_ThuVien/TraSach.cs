@@ -101,11 +101,16 @@ namespace QL_ThuVien
                     this.Close();
             }
             else
-                MessageBox.Show("Trả Sách Thất Bại.");
+                MessageBox.Show("Trả Sách Thất Bại!. Vui lòng thực hiện lại !");
 
         }
 
         private void panelBanDoc_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void dgvSachDaMuon_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }

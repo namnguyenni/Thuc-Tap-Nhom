@@ -13,7 +13,7 @@ namespace BUS
         public DataTable Show(string tenlop)
         {
             string sql = @"select mh.TenMon, gv.HoTen, NgayDay, Tiet 
-                                from tblCTGD ct, tblMonHoc mh, tblLop l, tblGiaoVien gv
+                                from dbo.CTGD ct, dbo.MonHoc mh, dbo.Lop l, dbo.GiaoVien gv
                                 where ct.MaLop=l.MaLop and ct.MaMon=mh.MaMon and ct.MaGV=gv.MaGV and l.tenlop='" + tenlop + "'";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());

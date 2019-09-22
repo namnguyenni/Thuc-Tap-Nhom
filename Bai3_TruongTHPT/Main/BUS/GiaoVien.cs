@@ -12,7 +12,7 @@ namespace BUS
     {
         public DataTable Show()
         {
-            string sql = "SELECT gv.MaGV, gv.HoTen, gv.GT, gv.NgaySinh, gv.DiaChi, gv.Luong, gv.SDT, mh.TenMon FROM tblGiaoVien gv, tblMonHoc mh where gv.MaMon = mh.MaMon";
+            string sql = "SELECT gv.MaGV, gv.HoTen, gv.GT, gv.NgaySinh, gv.DiaChi, gv.Luong, gv.SDT, mh.TenMon FROM dbo.GiaoVien gv, dbo.MonHoc mh where gv.MaMon = mh.MaMon";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             con.Open();
@@ -24,7 +24,7 @@ namespace BUS
         }
         public DataTable Show(string tenmon)
         {
-            string sql = "SELECT gv.MaGV, gv.HoTen FROM tblGiaoVien gv, tblMonHoc mh where gv.MaMon = mh.MaMon and mh.TenMon=N'" + tenmon + "'";
+            string sql = "SELECT gv.MaGV, gv.HoTen FROM dbo.GiaoVien gv, dbo.MonHoc mh where gv.MaMon = mh.MaMon and mh.TenMon=N'" + tenmon + "'";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             con.Open();
@@ -93,7 +93,7 @@ namespace BUS
         //lay thong tin mon hoc
         public DataTable LayThongTinMonHoc()
         {
-            string sql = "SELECT * FROM tblMonHoc";
+            string sql = "SELECT * FROM dbo.MonHoc";
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             DataTable dt = new DataTable();
             SqlDataAdapter da = new SqlDataAdapter(sql, con);

@@ -12,8 +12,13 @@ namespace BangQLCT
     {
         public bool DangNhap(string Username, string Pass)
         {
+
+
+            // cau lenh trong sql
             string sql = "SELECT * FROM tblDangNhap WHERE UserName='" + Username + "' AND Pass='" + Pass + "'";
+            //tao ket noi sqlconnecttion
             SqlConnection con = new SqlConnection(KetNoi.connect());
+            // tao bang ao luu data
             DataTable dt = new DataTable();
             SqlDataAdapter da = new SqlDataAdapter(sql, con);
 

@@ -12,7 +12,7 @@ namespace BUS
     {
         public DataTable Show()
         {
-            string sql = "SELECT MaLop, TenLop from tblLop";
+            string sql = "SELECT MaLop, TenLop from dbo.Lop";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             con.Open();
@@ -26,7 +26,7 @@ namespace BUS
         public void Sua_Lop(string MaLop, string TenLop, string GVCN)
         {
             string sql = "Sua_Lop";
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
+            sql.AsEnumerable<>
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
