@@ -46,11 +46,11 @@
             this.txtMaNCC = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.btnThoat = new System.Windows.Forms.Button();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.btnThoat = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -150,7 +150,7 @@
             // 
             // txtTK
             // 
-            this.txtTK.Location = new System.Drawing.Point(404, 17);
+            this.txtTK.Location = new System.Drawing.Point(367, 17);
             this.txtTK.Name = "txtTK";
             this.txtTK.Size = new System.Drawing.Size(264, 25);
             this.txtTK.TabIndex = 76;
@@ -164,7 +164,7 @@
             "Tên NCC",
             "Địa Chỉ",
             "SĐT"});
-            this.cboTK.Location = new System.Drawing.Point(224, 17);
+            this.cboTK.Location = new System.Drawing.Point(157, 17);
             this.cboTK.Name = "cboTK";
             this.cboTK.Size = new System.Drawing.Size(161, 25);
             this.cboTK.TabIndex = 75;
@@ -172,7 +172,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(126, 25);
+            this.label9.Location = new System.Drawing.Point(34, 20);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(92, 17);
             this.label9.TabIndex = 74;
@@ -243,16 +243,6 @@
             this.dataGridView1.TabIndex = 1;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
-            // btnThoat
-            // 
-            this.btnThoat.Location = new System.Drawing.Point(593, 483);
-            this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(75, 35);
-            this.btnThoat.TabIndex = 68;
-            this.btnThoat.Text = "Thoát";
-            this.btnThoat.UseVisualStyleBackColor = true;
-            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
-            // 
             // Column1
             // 
             this.Column1.DataPropertyName = "MaNCC";
@@ -280,6 +270,16 @@
             this.Column4.DataPropertyName = "SDT";
             this.Column4.HeaderText = "SĐT";
             this.Column4.Name = "Column4";
+            // 
+            // btnThoat
+            // 
+            this.btnThoat.Location = new System.Drawing.Point(593, 483);
+            this.btnThoat.Name = "btnThoat";
+            this.btnThoat.Size = new System.Drawing.Size(75, 35);
+            this.btnThoat.TabIndex = 68;
+            this.btnThoat.Text = "Thoát";
+            this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // frmNhaCungCap
             // 

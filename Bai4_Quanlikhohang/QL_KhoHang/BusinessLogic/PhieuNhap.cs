@@ -14,7 +14,7 @@ namespace BusinessLogic
 
         public DataTable ShowPN(string DieuKien)
         {
-            string sql = @"SELECT MaPN, MaNCC, NgayNhap FROM PHIEUNHAP " + DieuKien;
+            string sql = @"SELECT MaPN, MaNCC, NgayNhap FROM dbo.PHIEUNHAP " + DieuKien;
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             SqlDataAdapter ad = new SqlDataAdapter(sql, con);
