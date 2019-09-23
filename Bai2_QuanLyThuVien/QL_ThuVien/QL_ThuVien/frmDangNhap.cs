@@ -58,5 +58,10 @@ namespace QL_ThuVien
         {
             //label1.ForeColor = Color.Red;
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

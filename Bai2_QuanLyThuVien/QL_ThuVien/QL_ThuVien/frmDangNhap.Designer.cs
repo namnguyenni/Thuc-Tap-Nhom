@@ -59,7 +59,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(55, 155);
+            this.label2.Location = new System.Drawing.Point(34, 157);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(88, 21);
             this.label2.TabIndex = 16;
@@ -67,7 +67,7 @@
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(127, 295);
+            this.btnThoat.Location = new System.Drawing.Point(131, 286);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 34);
             this.btnThoat.TabIndex = 15;
@@ -78,7 +78,7 @@
             // btnDangNhap
             // 
             this.btnDangNhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDangNhap.Location = new System.Drawing.Point(104, 212);
+            this.btnDangNhap.Location = new System.Drawing.Point(109, 201);
             this.btnDangNhap.Name = "btnDangNhap";
             this.btnDangNhap.Size = new System.Drawing.Size(128, 61);
             this.btnDangNhap.TabIndex = 14;
@@ -88,7 +88,7 @@
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(162, 166);
+            this.txtPass.Location = new System.Drawing.Point(162, 157);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(155, 20);
@@ -96,7 +96,7 @@
             // 
             // txtUserName
             // 
-            this.txtUserName.Location = new System.Drawing.Point(162, 103);
+            this.txtUserName.Location = new System.Drawing.Point(162, 101);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(180, 20);
             this.txtUserName.TabIndex = 12;
@@ -120,6 +120,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(292, 282);
             this.pictureBox1.TabIndex = 18;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // timer1
             // 
