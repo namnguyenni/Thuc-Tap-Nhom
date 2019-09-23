@@ -79,6 +79,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(713, 245);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // btnLuu
             // 
@@ -147,6 +148,7 @@
             this.label3.Size = new System.Drawing.Size(36, 17);
             this.label3.TabIndex = 77;
             this.label3.Text = "SĐT";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // txtTK
             // 
@@ -172,7 +174,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(34, 20);
+            this.label9.Location = new System.Drawing.Point(48, 20);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(92, 17);
             this.label9.TabIndex = 74;
@@ -193,6 +195,7 @@
             this.label1.Size = new System.Drawing.Size(63, 17);
             this.label1.TabIndex = 58;
             this.label1.Text = "Mã NCC";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtTenNCC
             // 

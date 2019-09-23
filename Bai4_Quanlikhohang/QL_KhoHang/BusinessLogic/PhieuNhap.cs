@@ -16,46 +16,46 @@ namespace BusinessLogic
         {
             string sql = @"SELECT MaPN, MaNCC, NgayNhap FROM dbo.PHIEUNHAP " + DieuKien;
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            ad.Fill(dt);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
             return dt;
         }
         public DataTable ShowPN(DateTime _NgayDau, DateTime _NgayCuoi)
         {
             string sql = "ThongKeHDN";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@ngaydau", _NgayDau);
             cmd.Parameters.AddWithValue("@ngaycuoi", _NgayCuoi);
-            SqlDataAdapter ad = new SqlDataAdapter(cmd);
-            ad.Fill(dt);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
             return dt;
         }
 
         public void addTien(string MaPN)
         {
             string sql = "TienNhap";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaPN", MaPN);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public DataTable HT_PN(string ngay1, string ngay2)
         {
             string str = "TK_PN";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
             DataTable dt = new DataTable();
-            SqlCommand cmd = new SqlCommand(str, con);
+            SqlCommand cmd = new SqlCommand(str, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@Ngay1", DateTime.Parse(ngay1));
             cmd.Parameters.AddWithValue("@Ngay2", DateTime.Parse(ngay2));
@@ -67,9 +67,9 @@ namespace BusinessLogic
         public DataTable HT_CTPN(string ngay1, string ngay2)
         {
             string str = "HT_TK_CTPN";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
             DataTable dt = new DataTable();
-            SqlCommand cmd = new SqlCommand(str, con);
+            SqlCommand cmd = new SqlCommand(str, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@Ngay1", DateTime.Parse(ngay1));
             cmd.Parameters.AddWithValue("@Ngay2", DateTime.Parse(ngay2));
@@ -94,22 +94,22 @@ namespace BusinessLogic
         public string InsertPN(string mancc, DateTime ngaynhap)
         {
             string sql = "ThemPN";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
 
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@mancc", mancc);
             cmd.Parameters.AddWithValue("@ngaynhap", ngaynhap);
-            SqlDataAdapter ad = new SqlDataAdapter(cmd);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
 
             DataTable dt = new DataTable();
-            ad.Fill(dt);
+            da.Fill(dt);
             string ma = dt.Rows[0].ItemArray[0].ToString();
 
             cmd.Dispose();
-            con.Close();
+            conn.Close();
             if (ma != null) return ma;
             return "error";
         }
@@ -147,16 +147,16 @@ namespace BusinessLogic
         public string TongTien(string mapn)
         {
             string sql = "TongTien";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@mapn", mapn);
-            SqlDataAdapter ad = new SqlDataAdapter(cmd);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
-            ad.Fill(dt);
+            da.Fill(dt);
             cmd.Dispose();
-            con.Close();
+            conn.Close();
             string tien = dt.Rows[0].ItemArray[0].ToString();
             return tien;
         }

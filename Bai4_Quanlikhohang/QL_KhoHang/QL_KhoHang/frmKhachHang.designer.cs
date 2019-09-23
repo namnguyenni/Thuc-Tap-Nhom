@@ -267,7 +267,7 @@
             // 
             // txtKHDiaChi
             // 
-            this.txtKHDiaChi.Location = new System.Drawing.Point(344, 18);
+            this.txtKHDiaChi.Location = new System.Drawing.Point(334, 16);
             this.txtKHDiaChi.Name = "txtKHDiaChi";
             this.txtKHDiaChi.Size = new System.Drawing.Size(142, 25);
             this.txtKHDiaChi.TabIndex = 5;
@@ -276,7 +276,7 @@
             // lblKHDiaChi
             // 
             this.lblKHDiaChi.AutoSize = true;
-            this.lblKHDiaChi.Location = new System.Drawing.Point(275, 21);
+            this.lblKHDiaChi.Location = new System.Drawing.Point(261, 21);
             this.lblKHDiaChi.Name = "lblKHDiaChi";
             this.lblKHDiaChi.Size = new System.Drawing.Size(53, 17);
             this.lblKHDiaChi.TabIndex = 4;
@@ -385,11 +385,12 @@
             this.label1.BackColor = System.Drawing.Color.Silver;
             this.label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.label1.Location = new System.Drawing.Point(11, 64);
+            this.label1.Location = new System.Drawing.Point(6, 62);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(121, 19);
             this.label1.TabIndex = 2;
             this.label1.Text = "Mua hàng từ ngày ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // btnRefresh
             // 
@@ -413,7 +414,7 @@
             this.btnKH.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnKH.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnKH.ForeColor = System.Drawing.Color.Red;
-            this.btnKH.Location = new System.Drawing.Point(11, 16);
+            this.btnKH.Location = new System.Drawing.Point(160, 16);
             this.btnKH.Name = "btnKH";
             this.btnKH.Size = new System.Drawing.Size(199, 37);
             this.btnKH.TabIndex = 0;
@@ -547,6 +548,7 @@
             this.panelKH.Name = "panelKH";
             this.panelKH.Size = new System.Drawing.Size(1063, 222);
             this.panelKH.TabIndex = 4;
+            this.panelKH.Paint += new System.Windows.Forms.PaintEventHandler(this.panelKH_Paint);
             // 
             // lblTopic
             // 
@@ -555,7 +557,7 @@
             this.lblTopic.ForeColor = System.Drawing.Color.Red;
             this.lblTopic.Location = new System.Drawing.Point(342, 15);
             this.lblTopic.Name = "lblTopic";
-            this.lblTopic.Size = new System.Drawing.Size(239, 27);
+            this.lblTopic.Size = new System.Drawing.Size(238, 27);
             this.lblTopic.TabIndex = 23;
             this.lblTopic.Text = "Thông Tin Khách Hàng";
             // 

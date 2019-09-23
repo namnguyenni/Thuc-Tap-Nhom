@@ -32,7 +32,6 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.btnThoat = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.btnRe = new System.Windows.Forms.Button();
             this.dgvCTPN = new System.Windows.Forms.DataGridView();
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -40,6 +39,7 @@
             this.Column10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column11 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnRe = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnTK = new System.Windows.Forms.Button();
             this.dtp2 = new System.Windows.Forms.DateTimePicker();
@@ -48,10 +48,13 @@
             this.label3 = new System.Windows.Forms.Label();
             this.btnThemPN = new System.Windows.Forms.Button();
             this.dgvPN = new System.Windows.Forms.DataGridView();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.button1 = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.btnReFresh = new System.Windows.Forms.Button();
             this.dgvCTXuat = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -59,6 +62,7 @@
             this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.btnReFresh = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.btnTKX = new System.Windows.Forms.Button();
             this.dtp4 = new System.Windows.Forms.DateTimePicker();
@@ -71,10 +75,6 @@
             this.dataGridViewTextBoxColumn7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -134,16 +134,6 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(527, 569);
             this.panel2.TabIndex = 1;
-            // 
-            // btnRe
-            // 
-            this.btnRe.Location = new System.Drawing.Point(511, 66);
-            this.btnRe.Name = "btnRe";
-            this.btnRe.Size = new System.Drawing.Size(105, 33);
-            this.btnRe.TabIndex = 5;
-            this.btnRe.Text = "Refresh";
-            this.btnRe.UseVisualStyleBackColor = true;
-            this.btnRe.Click += new System.EventHandler(this.btnRe_Click);
             // 
             // dgvCTPN
             // 
@@ -209,6 +199,16 @@
             this.panel1.Size = new System.Drawing.Size(632, 569);
             this.panel1.TabIndex = 0;
             // 
+            // btnRe
+            // 
+            this.btnRe.Location = new System.Drawing.Point(511, 66);
+            this.btnRe.Name = "btnRe";
+            this.btnRe.Size = new System.Drawing.Size(105, 33);
+            this.btnRe.TabIndex = 5;
+            this.btnRe.Text = "Refresh";
+            this.btnRe.UseVisualStyleBackColor = true;
+            this.btnRe.Click += new System.EventHandler(this.btnRe_Click);
+            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.btnTK);
@@ -227,7 +227,7 @@
             // 
             this.btnTK.Location = new System.Drawing.Point(399, 24);
             this.btnTK.Name = "btnTK";
-            this.btnTK.Size = new System.Drawing.Size(60, 65);
+            this.btnTK.Size = new System.Drawing.Size(77, 65);
             this.btnTK.TabIndex = 6;
             this.btnTK.Text = "Thống kê";
             this.btnTK.UseVisualStyleBackColor = true;
@@ -256,7 +256,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(196, 48);
+            this.label4.Location = new System.Drawing.Point(196, 46);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(65, 17);
             this.label4.TabIndex = 3;
@@ -297,6 +297,35 @@
             this.dgvPN.Size = new System.Drawing.Size(630, 455);
             this.dgvPN.TabIndex = 1;
             this.dgvPN.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPN_CellClick);
+            this.dgvPN.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPN_CellContentClick);
+            // 
+            // Column2
+            // 
+            this.Column2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column2.DataPropertyName = "MaPN";
+            this.Column2.HeaderText = "Mã PN";
+            this.Column2.Name = "Column2";
+            // 
+            // Column3
+            // 
+            this.Column3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column3.DataPropertyName = "MaNCC";
+            this.Column3.HeaderText = "Nhà cung cấp";
+            this.Column3.Name = "Column3";
+            // 
+            // Column4
+            // 
+            this.Column4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column4.DataPropertyName = "NgayNhap";
+            this.Column4.HeaderText = "Ngày nhập";
+            this.Column4.Name = "Column4";
+            // 
+            // Column1
+            // 
+            this.Column1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column1.DataPropertyName = "TongTien";
+            this.Column1.HeaderText = "Tổng tiền";
+            this.Column1.Name = "Column1";
             // 
             // tabPage2
             // 
@@ -306,7 +335,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 26);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1176, 631);
+            this.tabPage2.Size = new System.Drawing.Size(1176, 635);
             this.tabPage2.TabIndex = 2;
             this.tabPage2.Text = "Xuất hàng";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -329,16 +358,6 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(527, 569);
             this.panel3.TabIndex = 1;
-            // 
-            // btnReFresh
-            // 
-            this.btnReFresh.Location = new System.Drawing.Point(506, 56);
-            this.btnReFresh.Name = "btnReFresh";
-            this.btnReFresh.Size = new System.Drawing.Size(105, 33);
-            this.btnReFresh.TabIndex = 4;
-            this.btnReFresh.Text = "Refresh";
-            this.btnReFresh.UseVisualStyleBackColor = true;
-            this.btnReFresh.Click += new System.EventHandler(this.btnReFresh_Click);
             // 
             // dgvCTXuat
             // 
@@ -403,6 +422,16 @@
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(632, 569);
             this.panel4.TabIndex = 0;
+            // 
+            // btnReFresh
+            // 
+            this.btnReFresh.Location = new System.Drawing.Point(506, 56);
+            this.btnReFresh.Name = "btnReFresh";
+            this.btnReFresh.Size = new System.Drawing.Size(105, 33);
+            this.btnReFresh.TabIndex = 4;
+            this.btnReFresh.Text = "Refresh";
+            this.btnReFresh.UseVisualStyleBackColor = true;
+            this.btnReFresh.Click += new System.EventHandler(this.btnReFresh_Click);
             // 
             // groupBox2
             // 
@@ -520,34 +549,6 @@
             this.dataGridViewTextBoxColumn9.DataPropertyName = "NgayXuat";
             this.dataGridViewTextBoxColumn9.HeaderText = "Ngày xuất";
             this.dataGridViewTextBoxColumn9.Name = "dataGridViewTextBoxColumn9";
-            // 
-            // Column2
-            // 
-            this.Column2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Column2.DataPropertyName = "MaPN";
-            this.Column2.HeaderText = "Mã PN";
-            this.Column2.Name = "Column2";
-            // 
-            // Column3
-            // 
-            this.Column3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Column3.DataPropertyName = "MaNCC";
-            this.Column3.HeaderText = "Nhà cung cấp";
-            this.Column3.Name = "Column3";
-            // 
-            // Column4
-            // 
-            this.Column4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Column4.DataPropertyName = "NgayNhap";
-            this.Column4.HeaderText = "Ngày nhập";
-            this.Column4.Name = "Column4";
-            // 
-            // Column1
-            // 
-            this.Column1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Column1.DataPropertyName = "TongTien";
-            this.Column1.HeaderText = "Tổng tiền";
-            this.Column1.Name = "Column1";
             // 
             // frmNhapXuat
             // 

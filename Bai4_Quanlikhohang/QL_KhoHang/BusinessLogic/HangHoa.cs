@@ -25,9 +25,9 @@ namespace BusinessLogic
         public string InsertHangHoa(string tenhh, int soluong, long giannhap, long giaxuat, string nsx, string thongtin)
         {
             string sql = "ThemHH";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@tensp", tenhh);
             cmd.Parameters.AddWithValue("@soluong", soluong);
@@ -41,16 +41,16 @@ namespace BusinessLogic
             ad.Fill(dt);
             string ma = dt.Rows[0].ItemArray[0].ToString();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
             return ma;
         }
         public DataTable TKHH_TenHH(string TenHH)
         {
             string sql = "SELECT * FROM dbo.HANGHOA WHERE TenHH LIKE N'%' + @TenHH + '%'";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             SqlDataAdapter da = new SqlDataAdapter();
 
             cmd.Parameters.AddWithValue("@TenHH",TenHH);
@@ -62,9 +62,9 @@ namespace BusinessLogic
         {
             string sql = "SELECT * FROM dbo.HANGHOA WHERE NSX LIKE N'%' + @NSX + '%'";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             SqlDataAdapter da = new SqlDataAdapter();
 
             cmd.Parameters.AddWithValue("@NSX", NSX);

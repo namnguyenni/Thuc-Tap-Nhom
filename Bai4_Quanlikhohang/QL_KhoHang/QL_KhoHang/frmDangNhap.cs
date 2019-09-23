@@ -66,5 +66,10 @@ namespace QL_KhoHang
         {
 
         }
+
+        private void txtPass_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

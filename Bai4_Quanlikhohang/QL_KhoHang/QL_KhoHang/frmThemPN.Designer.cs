@@ -323,7 +323,7 @@
             "Giá",
             "Loại Hàng",
             "NSX"});
-            this.cboTK.Location = new System.Drawing.Point(663, 12);
+            this.cboTK.Location = new System.Drawing.Point(651, 12);
             this.cboTK.Name = "cboTK";
             this.cboTK.Size = new System.Drawing.Size(187, 21);
             this.cboTK.TabIndex = 106;
@@ -331,7 +331,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(565, 20);
+            this.label9.Location = new System.Drawing.Point(562, 15);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(73, 13);
             this.label9.TabIndex = 105;
@@ -379,7 +379,7 @@
             // 
             // txtTK
             // 
-            this.txtTK.Location = new System.Drawing.Point(872, 11);
+            this.txtTK.Location = new System.Drawing.Point(853, 11);
             this.txtTK.Name = "txtTK";
             this.txtTK.Size = new System.Drawing.Size(250, 20);
             this.txtTK.TabIndex = 108;
