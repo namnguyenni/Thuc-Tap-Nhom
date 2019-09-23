@@ -340,7 +340,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(406, 24);
+            this.label11.Location = new System.Drawing.Point(474, 22);
             this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(184, 17);
@@ -349,7 +349,7 @@
             // 
             // txtTimKiem
             // 
-            this.txtTimKiem.Location = new System.Drawing.Point(581, 24);
+            this.txtTimKiem.Location = new System.Drawing.Point(676, 19);
             this.txtTimKiem.Name = "txtTimKiem";
             this.txtTimKiem.Size = new System.Drawing.Size(194, 20);
             this.txtTimKiem.TabIndex = 2;
@@ -363,7 +363,7 @@
             "Họ tên",
             "CMND",
             "Mã lớp"});
-            this.cbTK.Location = new System.Drawing.Point(230, 22);
+            this.cbTK.Location = new System.Drawing.Point(240, 21);
             this.cbTK.Name = "cbTK";
             this.cbTK.Size = new System.Drawing.Size(137, 21);
             this.cbTK.TabIndex = 1;
