@@ -14,11 +14,11 @@ namespace BUS
         {
             string sql = "SELECT MaLop, TenLop from dbo.Lop";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
-            con.Close();
+            conn.Close();
             da.Dispose();
             return dt;
         }
@@ -26,9 +26,9 @@ namespace BUS
         public void Sua_Lop(string MaLop, string TenLop, string GVCN)
         {
             string sql = "Sua_Lop";
-            sql.AsEnumerable<>
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@MaLop",MaLop);
@@ -37,14 +37,14 @@ namespace BUS
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
         public void ThemLop(string TenLop, string GVCN)
         {
             string sql = "ADD_Lop";
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@TenLop", TenLop);
@@ -52,21 +52,21 @@ namespace BUS
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         // Xóa
         public void Xoa_Lop(string MaLop)
         {
             string sql = "Xoa_Lop";
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaLop",MaLop);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
     }
 }

@@ -77,12 +77,14 @@
             // 
             // btnDangNhap
             // 
+            this.btnDangNhap.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnDangNhap.ForeColor = System.Drawing.SystemColors.MenuText;
             this.btnDangNhap.Location = new System.Drawing.Point(134, 167);
             this.btnDangNhap.Name = "btnDangNhap";
             this.btnDangNhap.Size = new System.Drawing.Size(128, 55);
             this.btnDangNhap.TabIndex = 14;
             this.btnDangNhap.Text = "Đăng nhập";
-            this.btnDangNhap.UseVisualStyleBackColor = true;
+            this.btnDangNhap.UseVisualStyleBackColor = false;
             this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
             // 
             // txtPass
