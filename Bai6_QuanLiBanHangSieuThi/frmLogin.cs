@@ -16,7 +16,7 @@ namespace skelot
         SqlCommand cm;
         SqlConnection cn;
         SqlDataReader dr;
-        public string connection = @"Data Source=STI12\STI;Initial Catalog=Database;Integrated Security=True";
+        public string connection = @"Data Source=DESKTOP-2QBJM9N;Initial Catalog=QL_Banhang;Integrated Security=True";
 
 
         public frmLogin()

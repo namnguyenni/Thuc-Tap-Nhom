@@ -17,7 +17,7 @@ namespace skelot
         SqlDataReader dr;
 
         frmLogin login = new frmLogin();
-      //  string connection = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Data.accdb";
+    
 
 
 
@@ -723,7 +723,6 @@ namespace skelot
 
                 InsertTrail();
 
-                // cm.ExecuteNonQuery();
 
                 this.Close();
 
