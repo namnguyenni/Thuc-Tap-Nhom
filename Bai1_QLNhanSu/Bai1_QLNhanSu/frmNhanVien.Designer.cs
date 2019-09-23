@@ -175,11 +175,12 @@
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Times New Roman", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.Yellow;
-            this.label11.Location = new System.Drawing.Point(443, 32);
+            this.label11.Location = new System.Drawing.Point(434, 21);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(246, 24);
             this.label11.TabIndex = 29;
             this.label11.Text = "THÔNG TIN NHÂN VIÊN";
+            this.label11.Click += new System.EventHandler(this.label11_Click);
             // 
             // btnHuy
             // 
