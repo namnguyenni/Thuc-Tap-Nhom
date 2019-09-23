@@ -1,0 +1,321 @@
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLybanHang.csprojResolveAssemblyReference.cache
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLybanHang.csproj.GenerateResource.Cache
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\Entity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonNhap.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\Entity.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonNhap.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+F:\Dung\chuyên\SQL Server\BTL_TTCSDL\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonNhap.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\PhamVanLuong\Desktop\QL_MuaHang02\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.dll
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonNhap.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Visual Studio 2012\Projects\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonNhap.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
+F:\Dung\chuyên\SQL Server\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonNhap.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
+C:\Users\PhamVanLuong\Desktop\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonNhap.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\ok\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.dll
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonNhap.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhaCungCap.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
+E:\hoc\ky5 -I- 2015\CSDL\BTLon_QLBanHang\Dũng - Lượng\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+D:\dung\Kì I - Năm 4\Thực tập nhóm\save\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.cache
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\RdlCompile.compiled
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+E:\Clone\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHuongDan.resources
+E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHuongDan.resources
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
