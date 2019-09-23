@@ -75,26 +75,6 @@ namespace BangThuVien
             con.Close();
         }
 
-        public void Them(string _MaBD)
-        {
-            DataTable dt = new DataTable();
-            string str = string.Format("ThemPhieuMuon");
-            SqlParameter[] arrpara = new SqlParameter[1];
-            arrpara[0] = new SqlParameter("@MaBD", SqlDbType.NVarChar, 10);
-            arrpara[0].Value = _MaBD;
-
-            SqlConnection con = new SqlConnection(AppConfig.connectionString());
-            con.Open();
-
-            SqlCommand cmd = new SqlCommand(str, con);
-            cmd.Parameters.AddRange(arrpara);
-            cmd.CommandType = CommandType.StoredProcedure;
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            da.Fill(dt);
-            con.Close();
-            //dt = dbcon.executeSelectProcedureQuery(str, arrpara);
-           
-        }
         public void XoaBanDoc(string MaBD)
         {
             string sql = "Xoa_BD";
