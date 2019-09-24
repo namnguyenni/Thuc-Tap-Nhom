@@ -92,7 +92,7 @@
             treeNode13.Text = "Giới thiệu phần mềm";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
             treeNode13});
-            this.treeView1.Size = new System.Drawing.Size(172, 402);
+            this.treeView1.Size = new System.Drawing.Size(185, 402);
             this.treeView1.TabIndex = 1;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.trViewGioiThieu_AfterSelect);
             // 
@@ -100,19 +100,19 @@
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pictureBox1.Location = new System.Drawing.Point(172, 0);
+            this.pictureBox1.Location = new System.Drawing.Point(185, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(399, 277);
+            this.pictureBox1.Size = new System.Drawing.Size(386, 271);
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
             // txtGioiThieu
             // 
             this.txtGioiThieu.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtGioiThieu.Location = new System.Drawing.Point(172, 277);
+            this.txtGioiThieu.Location = new System.Drawing.Point(185, 271);
             this.txtGioiThieu.Multiline = true;
             this.txtGioiThieu.Name = "txtGioiThieu";
-            this.txtGioiThieu.Size = new System.Drawing.Size(399, 125);
+            this.txtGioiThieu.Size = new System.Drawing.Size(386, 131);
             this.txtGioiThieu.TabIndex = 3;
             // 
             // frmHuongDan

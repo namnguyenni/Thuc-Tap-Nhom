@@ -15,7 +15,7 @@ namespace BusinessLogic
 
         public DataTable ShowHDN(string DieuKien)
         {
-            string sql = @"SELECT * FROM HOADONNHAP " + DieuKien;
+            string sql = @"SELECT * FROM dbo.HOADONNHAP " + DieuKien;
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             SqlDataAdapter ad = new SqlDataAdapter(sql, con);

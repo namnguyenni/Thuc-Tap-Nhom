@@ -13,7 +13,7 @@ namespace BusinessLogic
 
         public DataTable HienThiKhachHang()
         {
-            string sql = "select * from KhachHang";
+            string sql = "select * from dbo.KhachHang";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
