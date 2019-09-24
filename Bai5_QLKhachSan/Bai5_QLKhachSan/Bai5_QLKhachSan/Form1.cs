@@ -21,6 +21,13 @@ namespace Bai5_QLKhachSan
         BUS_Phong _phong = new BUS_Phong();
         TimKiem tk = new TimKiem();
         int chon = 0;
+        void KhoaDieuKhien()
+        {
+            txtTenphong.Enabled=txtLoaiphong.Enabled= false;
+            btnThem.Enabled = btnSua.Enabled = btnXoa.Enabled = true;
+            btnLuu.Enabled = false;
+            btnDodung.Enabled = false;
+        }
 
         void MoDieuKhien()
         {
