@@ -15,7 +15,7 @@ namespace BusinessLogic
         public DataTable ShowSanPham(string DieuKien)
         {
             string sql = @"SELECT MaSP, TenSP, SoLuong, LoiNhuan, GiaNhap, GiaBan, MoTa, NSX, TenLH
-                                                    FROM SANPHAM sp, LOAIHANG lh
+                                                    FROM dbo.SANPHAM sp, dbo.LOAIHANG lh
                                                     WHERE sp.MaLH = lh.MaLH " + DieuKien;
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());

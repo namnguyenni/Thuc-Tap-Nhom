@@ -12,7 +12,7 @@ namespace BusinessLogic
         KetNoiDB da = new KetNoiDB();
         public DataTable ShowPBH()
         {
-            string sql = @"SELECT * FROM PHIEUBAOHANH " ;
+            string sql = @"SELECT * FROM dbo.PHIEUBAOHANH " ;
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             SqlDataAdapter ad = new SqlDataAdapter(sql, con);

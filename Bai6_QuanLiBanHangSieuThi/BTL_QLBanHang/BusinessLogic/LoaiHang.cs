@@ -13,7 +13,7 @@ namespace BusinessLogic
         KetNoiDB da = new KetNoiDB();
         public DataTable ShowLoaiHang()
         {
-            string sql = @"SELECT * FROM LOAIHANG";
+            string sql = @"SELECT * FROM dbo.LOAIHANG";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             SqlDataAdapter ad = new SqlDataAdapter(sql, con);

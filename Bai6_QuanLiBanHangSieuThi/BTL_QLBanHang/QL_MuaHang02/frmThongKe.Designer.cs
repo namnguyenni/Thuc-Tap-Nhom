@@ -174,11 +174,12 @@
             this.dateTimePicker2.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker2.Enabled = false;
             this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker2.Location = new System.Drawing.Point(379, 95);
+            this.dateTimePicker2.Location = new System.Drawing.Point(406, 95);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(113, 25);
             this.dateTimePicker2.TabIndex = 5;
             this.dateTimePicker2.Value = new System.DateTime(2015, 4, 27, 0, 0, 0, 0);
+            this.dateTimePicker2.ValueChanged += new System.EventHandler(this.dateTimePicker2_ValueChanged);
             // 
             // dateTimePicker1
             // 
@@ -194,7 +195,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(308, 101);
+            this.label4.Location = new System.Drawing.Point(323, 101);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(65, 17);
             this.label4.TabIndex = 3;
@@ -220,7 +221,7 @@
             "nửa năm qua",
             "1 năm qua",
             "Chọn ngày"});
-            this.comboBox1.Location = new System.Drawing.Point(326, 40);
+            this.comboBox1.Location = new System.Drawing.Point(347, 40);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(199, 25);
             this.comboBox1.TabIndex = 1;

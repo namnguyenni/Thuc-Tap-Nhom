@@ -57,5 +57,10 @@ namespace QuanLyBanHang
             }
             for (int i = 0; i < dataGridView1.RowCount - 1; i++) dataGridView1.Rows[i].Cells[0].Value = (i + 1).ToString();
         }
+
+        private void dateTimePicker2_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

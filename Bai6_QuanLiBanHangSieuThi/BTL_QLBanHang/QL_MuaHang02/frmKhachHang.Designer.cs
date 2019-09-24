@@ -267,7 +267,7 @@
             // 
             // txtKHDiaChi
             // 
-            this.txtKHDiaChi.Location = new System.Drawing.Point(344, 18);
+            this.txtKHDiaChi.Location = new System.Drawing.Point(326, 21);
             this.txtKHDiaChi.Name = "txtKHDiaChi";
             this.txtKHDiaChi.Size = new System.Drawing.Size(142, 25);
             this.txtKHDiaChi.TabIndex = 5;
@@ -276,7 +276,7 @@
             // lblKHDiaChi
             // 
             this.lblKHDiaChi.AutoSize = true;
-            this.lblKHDiaChi.Location = new System.Drawing.Point(275, 21);
+            this.lblKHDiaChi.Location = new System.Drawing.Point(267, 26);
             this.lblKHDiaChi.Name = "lblKHDiaChi";
             this.lblKHDiaChi.Size = new System.Drawing.Size(53, 17);
             this.lblKHDiaChi.TabIndex = 4;
@@ -397,7 +397,7 @@
             this.btnRefresh.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnRefresh.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRefresh.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRefresh.Location = new System.Drawing.Point(462, 13);
+            this.btnRefresh.Location = new System.Drawing.Point(419, 16);
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(75, 31);
             this.btnRefresh.TabIndex = 1;
@@ -555,7 +555,7 @@
             this.lblTopic.ForeColor = System.Drawing.Color.Red;
             this.lblTopic.Location = new System.Drawing.Point(342, 15);
             this.lblTopic.Name = "lblTopic";
-            this.lblTopic.Size = new System.Drawing.Size(239, 27);
+            this.lblTopic.Size = new System.Drawing.Size(238, 27);
             this.lblTopic.TabIndex = 23;
             this.lblTopic.Text = "Thông Tin Khách Hàng";
             // 
