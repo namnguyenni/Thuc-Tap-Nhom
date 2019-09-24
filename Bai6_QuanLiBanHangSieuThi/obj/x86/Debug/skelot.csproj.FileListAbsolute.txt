@@ -1,0 +1,658 @@
+d:\my documents\visual studio 2010\Projects\skelot\skelot\bin\Debug\skelot.exe
+d:\my documents\visual studio 2010\Projects\skelot\skelot\bin\Debug\skelot.pdb
+d:\my documents\visual studio 2010\Projects\skelot\skelot\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\skelot\skelot\obj\x86\Debug\skelot.Form1.resources
+d:\my documents\visual studio 2010\Projects\skelot\skelot\obj\x86\Debug\skelot.Form2.resources
+d:\my documents\visual studio 2010\Projects\skelot\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\skelot\skelot\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\skelot\skelot\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\skelot\skelot\obj\x86\Debug\skelot.exe
+d:\my documents\visual studio 2010\Projects\skelot\skelot\obj\x86\Debug\skelot.pdb
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.exe
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.pdb
+E:\Copro3\skelot\skelot\bin\Debug\skelot.exe
+E:\Copro3\skelot\skelot\bin\Debug\skelot.pdb
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form1.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form2.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form3.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form4.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form5.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form6.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form7.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form8.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form9.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form10.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.Form11.resources
+E:\Copro3\skelot\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.exe
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.pdb
+E:\Copro3_Proj\skelot\skelot\bin\Debug\skelot.exe
+E:\Copro3_Proj\skelot\skelot\bin\Debug\skelot.pdb
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.Form1.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.Form10.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.Form11.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.Form2.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.Form9.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.FrmAdmin.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.FrmSearchItem.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.FrmMenu.resources
+E:\Copro3_Proj\skelot\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+E:\skelot\skelot\obj\x86\Debug\skelot.exe
+E:\skelot\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.Form1.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.Form11.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.FrmAdmin.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.FrmSearchItem.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.FrmMenu.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.AdminSearch.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\skelot\obj\x86\Debug\skelot.CustomerMenu.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.exe
+G:\skelot\skelot\obj\x86\Debug\skelot.pdb
+G:\skelot\skelot\bin\Debug\skelot.exe
+G:\skelot\skelot\bin\Debug\skelot.pdb
+G:\skelot\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+G:\skelot\skelot\obj\x86\Debug\skelot.AdminSearch.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.Form1.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.Form11.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.CustomerMenu.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.FrmAdmin.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.FrmSearchItem.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.FrmMenu.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+G:\skelot\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\back (1)\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\back (1)\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.AdminSearch.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.Form1.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.Form11.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.CustomerMenu.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.FrmAdmin.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.FrmSearchItem.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.FrmMenu.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\back (1)\skelot\obj\x86\Debug\skelot.Form9.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.AdminSearch.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.Form1.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.Form11.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.CustomerMenu.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.FrmAdmin.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.FrmSearchItem.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.FrmMenu.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.Form9.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Program\Copro3VB\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.CustomerMenu.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmSearchItem.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmAdd.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\Paulo\Desktop\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.exe
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.pdb
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\bin\Debug\skelot.exe
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\bin\Debug\skelot.pdb
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmAdd.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.CustomerMenu.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmSearchItem.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+E:\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmAdd.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Backup(C#)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmAdd.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SadSign(PrtScn)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\Backup(C#)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+G:\New folder\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+G:\New folder\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\New folder\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+E:\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+E:\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+E:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+C:\Users\Paulo\Desktop\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+E:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+F:\SoftEng\Original(SoftEng)\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+G:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+G:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+E:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+F:\SoftEng\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+D:\Current\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+D:\Current\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+D:\Current\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+D:\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+H:\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+H:\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+H:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+F:\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+F:\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+F:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveInventory.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordInventory.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+D:\The Ice Born\SOFTENG SYSTEM WITH DESIGN\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordCashier.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveCrit.resources
+C:\Users\Personal Laptop\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUpdateLimit.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUpdateLimit.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveCrit.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordCashier.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.csproj.GenerateResource.Cache
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+C:\Users\Paulo\Desktop\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
+E:\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.exe
+E:\try\SoftEng(ORIG)\Sample\skelot\bin\Debug\skelot.pdb
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AdminView.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.AuditTrail.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUpdateLimit.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddManufac.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmCriticalItems.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmLogin.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmAddProduct.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmBookStore.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmNotes2.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmReceiveCrit.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordCashier.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmRegister.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminLogin.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmAdminMenu.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmStart.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.FrmUpdate.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmRecordSales.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmManageUser.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.frmUserLog.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ItemReport.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.LoginTrail.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.Properties.Resources.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.ReceiveOrder.resources
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.cache
+E:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\RdlCompile.compiled
+G:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.exe
+G:\try\SoftEng(ORIG)\Sample\skelot\obj\x86\Debug\skelot.pdb
