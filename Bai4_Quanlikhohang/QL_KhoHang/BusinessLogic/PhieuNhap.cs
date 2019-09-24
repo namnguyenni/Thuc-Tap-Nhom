@@ -118,7 +118,7 @@ namespace BusinessLogic
         //    string sql = "SuaHDN";
         //    SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
         //    con.Open();
-        //    SqlCommand cmd = new SqlCommand(sql, con);
+        //    SqlCommand cmd = new SqlCommasnd(sql, con);
         //    cmd.CommandType = CommandType.StoredProcedure;
         //    cmd.Parameters.AddWithValue("@mahdn", et.MaHDN);
         //    cmd.Parameters.AddWithValue("@mancc", et.MaNCC);
