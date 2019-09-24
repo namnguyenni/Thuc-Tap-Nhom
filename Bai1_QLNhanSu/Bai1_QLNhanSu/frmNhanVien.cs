@@ -80,7 +80,7 @@ namespace Bai1_QLNhanSu
         private void btnXoa_Click(object sender, EventArgs e)
         {
             if (txtMaNV.Text == "")
-                MessageBox.Show("Chọn nhân viên!");
+                MessageBox.Show("mời chọn nhân viên!");
             else
             if (DialogResult.Yes == MessageBox.Show("Bạn muốn xóa nhân viên này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
             {
@@ -101,7 +101,7 @@ namespace Bai1_QLNhanSu
                     if (DialogResult.Yes == MessageBox.Show("Bạn có chắc chắn muốn thêm nhân viên này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
                     {
                         nhanvien.ThemNhanVien(txtHoDem.Text,txtTenNV.Text,dtpNgaySinh.Text,txtGT.Text,txtLuong.Text,txtDiaChi.Text,cbMa_NQL.Text,cbMaDV.Text,txtChucVu.Text,txtSDT.Text);
-                        MessageBox.Show(" Đã thêm thành công!");
+                        MessageBox.Show(" đã thêm!");
                         SetNull();
                         frmNhanVien_Load(sender, e);
                     }
@@ -176,6 +176,11 @@ namespace Bai1_QLNhanSu
         }
 
         private void dgvNhanVien_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void label11_Click(object sender, EventArgs e)
         {
 
         }

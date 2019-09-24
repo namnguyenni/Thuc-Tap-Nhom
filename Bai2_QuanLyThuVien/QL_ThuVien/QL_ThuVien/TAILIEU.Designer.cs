@@ -149,52 +149,57 @@
             // 
             // btnHuy
             // 
+            this.btnHuy.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnHuy.Location = new System.Drawing.Point(765, 64);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(75, 35);
             this.btnHuy.TabIndex = 47;
             this.btnHuy.Text = "Hủy";
-            this.btnHuy.UseVisualStyleBackColor = true;
+            this.btnHuy.UseVisualStyleBackColor = false;
             this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click);
             // 
             // btnLuu
             // 
+            this.btnLuu.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnLuu.Location = new System.Drawing.Point(765, 18);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 35);
             this.btnLuu.TabIndex = 46;
             this.btnLuu.Text = "Lưu";
-            this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.UseVisualStyleBackColor = false;
             this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // btnXoa
             // 
+            this.btnXoa.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnXoa.Location = new System.Drawing.Point(719, 118);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 35);
             this.btnXoa.TabIndex = 45;
             this.btnXoa.Text = "Xóa";
-            this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.UseVisualStyleBackColor = false;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnSua
             // 
+            this.btnSua.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnSua.Location = new System.Drawing.Point(664, 64);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 35);
             this.btnSua.TabIndex = 44;
             this.btnSua.Text = "Sửa";
-            this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.UseVisualStyleBackColor = false;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnThem
             // 
+            this.btnThem.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.btnThem.Location = new System.Drawing.Point(664, 18);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 35);
             this.btnThem.TabIndex = 43;
             this.btnThem.Text = "Thêm";
-            this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.UseVisualStyleBackColor = false;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // txtNgonNgu
@@ -305,10 +310,9 @@
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(100, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 13);
+            this.label1.Size = new System.Drawing.Size(55, 14);
             this.label1.TabIndex = 27;
             this.label1.Text = "Mã tài liệu";
             // 
@@ -519,7 +523,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox txttk_Tacgia;
@@ -540,6 +543,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column8;
         private System.Windows.Forms.ComboBox cbMaTheLoai;
         private System.Windows.Forms.ComboBox cbMaNXB;
+        protected System.Windows.Forms.Label label1;
 
     }
 }

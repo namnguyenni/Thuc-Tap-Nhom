@@ -13,19 +13,19 @@ namespace BusinessLogic
         KetNoiDB da = new KetNoiDB();
         public DataTable ShowNCC(string DieuKien)
         {
-            string sql = @"SELECT * FROM NHACUNGCAP " + DieuKien;
+            string sql = @"SELECT * FROM dbo.NHACUNGCAP " + DieuKien;
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            ad.Fill(dt);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
             return dt;
         }
         public void InsertNCC(string _TenNCC, string _DiaChi, string _SDT)
         {
             string sql = "ThemNCC";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@tenlh", _TenNCC);
@@ -34,15 +34,15 @@ namespace BusinessLogic
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
 
         }
         public void UpdateNCC(string _MaNCC, string _TenNCC, string _DiaChi, string _SDT)
         {
             string sql = "SuaNCC";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@mancc", _MaNCC);
@@ -53,22 +53,22 @@ namespace BusinessLogic
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
 
         }
         public void DeleteNCC(string _MaNCC)
         {
             string sql = "XoaNCC";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@mancc", _MaNCC);
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
     }
 }

@@ -199,3 +199,6 @@ E:\git2\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuV
 E:\git2\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CopyComplete
 E:\git2\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
 E:\git2\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\github\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb

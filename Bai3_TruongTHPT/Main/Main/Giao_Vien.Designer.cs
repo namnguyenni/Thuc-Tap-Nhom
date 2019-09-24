@@ -130,7 +130,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(112, 185);
+            this.label8.Location = new System.Drawing.Point(187, 190);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(49, 13);
             this.label8.TabIndex = 42;
@@ -138,7 +138,7 @@
             // 
             // txtTKGV
             // 
-            this.txtTKGV.Location = new System.Drawing.Point(396, 182);
+            this.txtTKGV.Location = new System.Drawing.Point(451, 182);
             this.txtTKGV.Name = "txtTKGV";
             this.txtTKGV.Size = new System.Drawing.Size(177, 20);
             this.txtTKGV.TabIndex = 40;
@@ -150,7 +150,7 @@
             this.cbTKGV.Items.AddRange(new object[] {
             "Mã",
             "Họ Tên"});
-            this.cbTKGV.Location = new System.Drawing.Point(217, 181);
+            this.cbTKGV.Location = new System.Drawing.Point(282, 182);
             this.cbTKGV.Name = "cbTKGV";
             this.cbTKGV.Size = new System.Drawing.Size(121, 21);
             this.cbTKGV.TabIndex = 39;

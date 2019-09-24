@@ -74,7 +74,7 @@
             this.btnDangNhap.BackColor = System.Drawing.Color.Yellow;
             this.btnDangNhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDangNhap.ForeColor = System.Drawing.Color.Blue;
-            this.btnDangNhap.Location = new System.Drawing.Point(121, 185);
+            this.btnDangNhap.Location = new System.Drawing.Point(131, 192);
             this.btnDangNhap.Name = "btnDangNhap";
             this.btnDangNhap.Size = new System.Drawing.Size(128, 43);
             this.btnDangNhap.TabIndex = 5;
@@ -96,7 +96,7 @@
             // btnThoat
             // 
             this.btnThoat.BackColor = System.Drawing.SystemColors.Control;
-            this.btnThoat.Location = new System.Drawing.Point(151, 248);
+            this.btnThoat.Location = new System.Drawing.Point(145, 254);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 23);
             this.btnThoat.TabIndex = 8;
@@ -135,11 +135,12 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.label3.Location = new System.Drawing.Point(61, 38);
+            this.label3.Location = new System.Drawing.Point(32, 34);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(307, 22);
             this.label3.TabIndex = 10;
             this.label3.Text = "Đăng nhập hệ thống quản lý nhân sự";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // frmDangNhap
             // 

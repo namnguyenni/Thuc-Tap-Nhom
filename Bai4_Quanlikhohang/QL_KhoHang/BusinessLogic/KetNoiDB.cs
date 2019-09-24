@@ -10,10 +10,10 @@ namespace BusinessLogic
 {
     public class KetNoiDB
     {
-        SqlConnection cn = new SqlConnection();
+        SqlConnection conn = new SqlConnection();
         static public String getconnect()
         {
-            return (@"Data Source=NHOXHOANGANH\SQLEXPRESS;Initial Catalog=QL_KhoHang;Integrated Security=True");
+            return (@"Data Source=DESKTOP-42NHODK;Initial Catalog=QL_KhoHang;Integrated Security=True");
         }
     }
 }

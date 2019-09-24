@@ -45,5 +45,10 @@ namespace QL_KhoHang
             frmHuongDan frm = new frmHuongDan();
             frm.Show();
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -173,9 +173,24 @@ namespace QL_KhoHang
             {
                 if (cboTK.SelectedIndex == 0) TimKiem("MaNCC");
                 else if (cboTK.SelectedIndex == 1) TimKiem("TenNCC");
-                else if (cboTK.SelectedIndex == 2) TimKiem("DiaChi");
+                else if (s.SelectedIndex == 2) TimKiem("DiaChi");
                 else if (cboTK.SelectedIndex == 3) TimKiem("SDT");
             }
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

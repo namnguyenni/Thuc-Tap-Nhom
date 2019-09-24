@@ -1,0 +1,42 @@
+c:\users\dungtien\documents\visual studio 2013\Projects\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.csprojResolveAssemblyReference.cache
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.Properties.Resources.resources
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.csproj.GenerateResource.Cache
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmSanPham.resources
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmLoaiHang.resources
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmNhaCungCap.resources
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmHoaDonNhap.resources
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmThemHD.resources
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.Main.resources
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\bin\Debug\Entity.dll
+F:\Dung\chuyên\SQL Server\Save_Query\QL_MuaHang02\QL_MuaHang02\bin\Debug\Entity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QL_MuaHang02.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\BusinessLogic.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\Entity.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.csprojResolveAssemblyReference.cache
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.Main.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmHoaDonNhap.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmLoaiHang.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmNhaCungCap.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmSanPham.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.frmThemHD.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.Properties.Resources.resources
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\obj\Debug\QL_MuaHang02.csproj.GenerateResource.Cache
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.dll
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangCacDoiTuong.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QLBanHangKetNoiData.pdb
+E:\hoc\ky5 -I- 2015\CSDL\thuc hanh CSDL\BT Nhom QLBanHang\QL_MuaHang02\QL_MuaHang02\bin\Debug\QuanLyBanHangEntity.pdb

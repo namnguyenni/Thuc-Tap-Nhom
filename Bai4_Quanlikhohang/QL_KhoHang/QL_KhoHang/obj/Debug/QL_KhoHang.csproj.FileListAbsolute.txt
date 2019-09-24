@@ -67,3 +67,24 @@ E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang
 E:\Hoc tap\Ki I 2015-2016\Thuc tap nhom\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPX.resources
 E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmHuongDan.resources
 E:\Clone\Bai4_QuanLyKhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPX.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe.config
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.pdb
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.dll
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\bin\Debug\BusinessLogic.pdb
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csprojAssemblyReference.cache
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmDangNhap.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmHangHoa.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmHuongDan.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmKhachHang.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhaCungCap.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmNhapXuat.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPN.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.frmThemPX.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Main.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Properties.Resources.resources
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.GenerateResource.cache
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.CoreCompileInputs.cache
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.CopyComplete
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.exe
+E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.pdb

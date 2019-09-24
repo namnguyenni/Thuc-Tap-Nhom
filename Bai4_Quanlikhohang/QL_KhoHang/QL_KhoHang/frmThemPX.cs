@@ -21,7 +21,7 @@ namespace QL_KhoHang
         HangHoa hh = new HangHoa();
         ChiTietPhieuXuat ctpx = new ChiTietPhieuXuat();
         PhieuXuat px = new PhieuXuat();
-        ChiNhanh cn = new ChiNhanh();
+        Branch cn = new Branch();
         int indexSPX = 0;
         string mahh;
         int soluong;
@@ -30,7 +30,7 @@ namespace QL_KhoHang
         private void frmThemPX_Load(object sender, EventArgs e)
         {
             dgvSP.DataSource = hh.ShowHangHoa("");
-            cbChiNhanh.DataSource = cn.HienThiKhachHang();
+            cbChiNhanh.DataSource = cn.DisplayCustomers();
             cbChiNhanh.DisplayMember = "TenCN";
             cbChiNhanh.ValueMember = "MaCN";
             cbChiNhanh.SelectedValue = "MaCN";
