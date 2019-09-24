@@ -28,13 +28,13 @@ namespace BusinessLogic
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@TenDn",TenDn);
+            cmd.Parameters.AddWithValue("@TenDn", TenDn);
             cmd.Parameters.AddWithValue("@MatKhau", MatKhau);
             cmd.Parameters.AddWithValue("@TenNV", TenNV);
-            cmd.Parameters.AddWithValue("@GT",GT);
+            cmd.Parameters.AddWithValue("@GT", GT);
             cmd.Parameters.AddWithValue("@DiaChi", DiaChi);
             cmd.Parameters.AddWithValue("@SDT", SDT);
-           
+
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             con.Close();
@@ -99,7 +99,6 @@ namespace BusinessLogic
             da.Fill(dt);
             return dt;
         }
-
         //tìm kiếm nhan vien theo mã  trên thanh tìm kiếm.
         public DataTable TKMaNhanVien(string MaNV)
         {
@@ -115,21 +114,21 @@ namespace BusinessLogic
             return dt;
         }
         // Tìm kiếm nhân viên theo Tên
-        //public DataTable TKTenNhanVien(string TenNV)
-        //{
-        //    //string sql = "SELECT * FROM tblNhanVien WHERE TenNV LIKE (N'%' + @TenNV + '%')";
-        //    string sql = "TKTen";
-        //    DataTable dt = new DataTable();
-        //    SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-        //    con.Open();
-        //    SqlCommand cmd = new SqlCommand(sql, con);
-        //    cmd.CommandType = CommandType.StoredProcedure;
-        //    SqlDataAdapter da = new SqlDataAdapter();
-        //    cmd.Parameters.AddWithValue("@TenNV", TenNV);
-        //    da.SelectCommand = cmd;
-        //    da.Fill(dt);
-        //    return dt;
-        //}
+        public DataTable TKTenNhanVien(string TenNV)
+        {
+            //string sql = "SELECT * FROM tblNhanVien WHERE TenNV LIKE (N'%' + @TenNV + '%')";
+            string sql = "TKTen";
+            DataTable dt = new DataTable();
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter da = new SqlDataAdapter();
+            cmd.Parameters.AddWithValue("@TenNV", TenNV);
+            da.SelectCommand = cmd;
+            da.Fill(dt);
+            return dt;
+        }
         // Tìm kiếm nhân viên theo giới tính
         public DataTable TKGTNhanVien(string GT)
         {
