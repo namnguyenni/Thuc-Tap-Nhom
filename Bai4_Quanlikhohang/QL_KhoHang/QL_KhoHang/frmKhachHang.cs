@@ -18,7 +18,7 @@ namespace QL_KhoHang
             InitializeComponent();
         }
 
-        ChiNhanh kh = new ChiNhanh();
+        Branch kh = new Branch();
         int temp = 0;
 
         private void KhachHang_Load(object sender, EventArgs e)
@@ -43,7 +43,7 @@ namespace QL_KhoHang
         }
         public void HienThiDGV()
         {
-            dgvKhachHang.DataSource = kh.HienThiKhachHang();
+            dgvKhachHang.DataSource = kh.DisplayCustomers();
             int i = 0;
             while (i < dgvKhachHang.Rows.Count - 1)
             {
@@ -89,7 +89,7 @@ namespace QL_KhoHang
             {
                 try
                 {
-                    kh.DeleteKhachHang(txtMaKH.Text);
+                    kh.DeleteCustomer(txtMaKH.Text);
                     setNULL();
                     DKOThongTin(false);
                 }
@@ -115,9 +115,9 @@ namespace QL_KhoHang
             try
             {
                 if (temp == 1)
-                    kh.UpdateKhachHang(txtMaKH.Text, txttenKH.Text, cmbGioiTinh.Text, txtDC.Text, txtSoDT.Text, cmbLoaiKH.Text, txtGhichu.Text);
+                    kh.UpdateCustomer(txtMaKH.Text, txttenKH.Text, cmbGioiTinh.Text, txtDC.Text, txtSoDT.Text, cmbLoaiKH.Text, txtGhichu.Text);
                 else
-                    kh.InsertKhachHang(txttenKH.Text, cmbGioiTinh.Text, txtDC.Text, txtSoDT.Text, cmbLoaiKH.Text, txtGhichu.Text);
+                    kh.InsertCustomer(txttenKH.Text, cmbGioiTinh.Text, txtDC.Text, txtSoDT.Text, cmbLoaiKH.Text, txtGhichu.Text);
             }
             catch
             {
@@ -132,7 +132,7 @@ namespace QL_KhoHang
         {
             if (txtKHten.Text != null)
             {
-                dgvKhachHang.DataSource = kh.SearchKH(txtKHten.Text);
+                dgvKhachHang.DataSource = kh.SearchCustomer(txtKHten.Text);
             }
             else txtKHten.Text = "";
         }
@@ -141,7 +141,7 @@ namespace QL_KhoHang
         {
             if (cmbKHLoai.Text != null)
             {
-                dgvKhachHang.DataSource = kh.SearchLoaiKH(cmbKHLoai.Text);
+                dgvKhachHang.DataSource = kh.SearchCustomerType(cmbKHLoai.Text);
             }
             else cmbKHLoai.Text = "";
         }
@@ -150,7 +150,7 @@ namespace QL_KhoHang
         {
             if (txtKHDiaChi.Text != null)
             {
-                dgvKhachHang.DataSource = kh.SearchDCKH(txtKHDiaChi.Text);
+                dgvKhachHang.DataSource = kh.SearchCustomerAddress(txtKHDiaChi.Text);
             }
             else txtKHDiaChi.Text = "";
         }
@@ -173,7 +173,7 @@ namespace QL_KhoHang
 
         private void btnThongKe_Click(object sender, EventArgs e)
         {
-            dgvKhachHang.DataSource = kh.ShowKHTHeoNgay(DateTime.Parse(dateTimePicker1.Text), DateTime.Parse( dateTimePicker2.Text));
+            dgvKhachHang.DataSource = kh.DisplayCustomerByDate(DateTime.Parse(dateTimePicker1.Text), DateTime.Parse( dateTimePicker2.Text));
             int i = 0;
             while (i < dgvKhachHang.Rows.Count - 1)
             {
@@ -182,12 +182,20 @@ namespace QL_KhoHang
             }
         }
 
+<<<<<<< HEAD
+        private void txtSoDT_TextChanged(object sender, EventArgs e)
+=======
         private void label1_Click(object sender, EventArgs e)
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
         {
 
         }
 
+<<<<<<< HEAD
+        private void txttenKH_TextChanged(object sender, EventArgs e)
+=======
         private void panelKH_Paint(object sender, PaintEventArgs e)
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
         {
 
         }

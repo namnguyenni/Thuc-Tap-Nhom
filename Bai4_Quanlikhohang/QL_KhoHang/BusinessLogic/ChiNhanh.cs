@@ -8,10 +8,10 @@ using System.Data;
 
 namespace BusinessLogic
 {
-    public class ChiNhanh
+    public class Branch
     {
 
-        public DataTable HienThiKhachHang()
+        public DataTable DisplayCustomers()
         {
             string sql = @"SELECT * FROM dbo.CHINHANH ";
             DataTable dt = new DataTable();
@@ -21,7 +21,7 @@ namespace BusinessLogic
             return dt;
         }
 
-        public string InsertKhachHang(string TenKH, string Gioitinh, string Diachi, string SDT, string LoaiKH, string Ghichu)
+        public string InsertCustomer(string TenKH, string Gioitinh, string Diachi, string SDT, string LoaiKH, string Ghichu)
         {
             string str = "";
             string sql = "InsertKH";
@@ -51,7 +51,7 @@ namespace BusinessLogic
             return str;
         }
 
-        public void UpdateKhachHang(string MaKh, string TenKH, string Gioitinh, string Diachi, string SDT, string LoaiKH, string Ghichu)
+        public void UpdateCustomer(string MaKh, string TenKH, string Gioitinh, string Diachi, string SDT, string LoaiKH, string Ghichu)
         {
             string sql = "UpdateKH";
             SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
@@ -71,7 +71,7 @@ namespace BusinessLogic
             cmd.Dispose();
             conn.Close();
         }
-        public void DeleteKhachHang(string MaKh)
+        public void DeleteCustomer(string MaKh)
         {
             string sql = "DeleteKH";
             SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
@@ -85,7 +85,7 @@ namespace BusinessLogic
             conn.Close();
         }
 
-        public DataTable SearchKH(string _TenKH)
+        public DataTable SearchCustomer(string _TenKH)
         {
             DataTable dt = new DataTable();
             string sql = "SearchTenKH";
@@ -103,7 +103,7 @@ namespace BusinessLogic
             return dt;
 
         }
-        public DataTable SearchLoaiKH(string _LoaiKH)
+        public DataTable SearchCustomerType(string _LoaiKH)
         {
             DataTable dt = new DataTable();
             string sql = "SearchLoaiKH";
@@ -121,7 +121,7 @@ namespace BusinessLogic
             cmd.Dispose();
             return dt;
         }
-        public DataTable SearchDCKH(string _DiaChi)
+        public DataTable SearchCustomerAddress(string _DiaChi)
         {
             DataTable dt = new DataTable();
             string sql = "SearchDCKH";
@@ -155,7 +155,7 @@ namespace BusinessLogic
             cmd.Dispose();
             return dt;
         }
-        public DataTable ShowKHTHeoNgay(DateTime date1, DateTime date2)
+        public DataTable DisplayCustomerByDate(DateTime date1, DateTime date2)
         {
             DataTable dt = new DataTable();
             string sql = "ShowKHNhieuNgay";

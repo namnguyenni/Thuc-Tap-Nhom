@@ -196,5 +196,10 @@ namespace QL_KhoHang
         {
             this.Close();
         }
+
+        private void cboTK_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
