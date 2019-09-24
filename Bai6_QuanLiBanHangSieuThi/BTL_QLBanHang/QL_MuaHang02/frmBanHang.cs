@@ -275,6 +275,22 @@ namespace QuanLyBanHang
                 }
             }
         }
+
+        private void grboxHDB_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtGiaBan_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSoLuongMua_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void dgvCTHD_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             try { DongCTHD = e.RowIndex; }
