@@ -17,7 +17,6 @@ namespace skelot
         SqlDataReader dr;
         ListViewItem lst;
         frmLogin login = new frmLogin();
-      //  string connection = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\Data.accdb";
         public frmManageUser()
         {
             InitializeComponent();

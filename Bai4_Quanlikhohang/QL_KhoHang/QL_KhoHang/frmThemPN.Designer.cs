@@ -341,8 +341,12 @@
             "Giá",
             "Loại Hàng",
             "NSX"});
+<<<<<<< HEAD
             this.cboTK.Location = new System.Drawing.Point(883, 22);
             this.cboTK.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.cboTK.Location = new System.Drawing.Point(651, 12);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.cboTK.Name = "cboTK";
             this.cboTK.Size = new System.Drawing.Size(248, 24);
             this.cboTK.TabIndex = 106;
@@ -351,8 +355,12 @@
             // label9
             // 
             this.label9.AutoSize = true;
+<<<<<<< HEAD
             this.label9.Location = new System.Drawing.Point(753, 25);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+=======
+            this.label9.Location = new System.Drawing.Point(562, 15);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(96, 17);
             this.label9.TabIndex = 105;
@@ -402,8 +410,12 @@
             // 
             // txtTK
             // 
+<<<<<<< HEAD
             this.txtTK.Location = new System.Drawing.Point(1155, 22);
             this.txtTK.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.txtTK.Location = new System.Drawing.Point(853, 11);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.txtTK.Name = "txtTK";
             this.txtTK.Size = new System.Drawing.Size(332, 22);
             this.txtTK.TabIndex = 108;

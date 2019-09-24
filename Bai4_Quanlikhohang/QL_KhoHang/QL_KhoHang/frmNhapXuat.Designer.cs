@@ -207,10 +207,16 @@
             // 
             // btnRe
             // 
+<<<<<<< HEAD
             this.btnRe.Location = new System.Drawing.Point(681, 81);
             this.btnRe.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnRe.Name = "btnRe";
             this.btnRe.Size = new System.Drawing.Size(140, 41);
+=======
+            this.btnRe.Location = new System.Drawing.Point(511, 66);
+            this.btnRe.Name = "btnRe";
+            this.btnRe.Size = new System.Drawing.Size(105, 33);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.btnRe.TabIndex = 5;
             this.btnRe.Text = "Refresh";
             this.btnRe.UseVisualStyleBackColor = true;
@@ -237,7 +243,11 @@
             this.btnTK.Location = new System.Drawing.Point(532, 30);
             this.btnTK.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnTK.Name = "btnTK";
+<<<<<<< HEAD
             this.btnTK.Size = new System.Drawing.Size(80, 80);
+=======
+            this.btnTK.Size = new System.Drawing.Size(77, 65);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.btnTK.TabIndex = 6;
             this.btnTK.Text = "Thống kê";
             this.btnTK.UseVisualStyleBackColor = true;
@@ -268,8 +278,12 @@
             // label4
             // 
             this.label4.AutoSize = true;
+<<<<<<< HEAD
             this.label4.Location = new System.Drawing.Point(261, 59);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+=======
+            this.label4.Location = new System.Drawing.Point(196, 46);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(81, 21);
             this.label4.TabIndex = 3;
@@ -313,6 +327,35 @@
             this.dgvPN.Size = new System.Drawing.Size(840, 560);
             this.dgvPN.TabIndex = 1;
             this.dgvPN.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPN_CellClick);
+            this.dgvPN.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPN_CellContentClick);
+            // 
+            // Column2
+            // 
+            this.Column2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column2.DataPropertyName = "MaPN";
+            this.Column2.HeaderText = "Mã PN";
+            this.Column2.Name = "Column2";
+            // 
+            // Column3
+            // 
+            this.Column3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column3.DataPropertyName = "MaNCC";
+            this.Column3.HeaderText = "Nhà cung cấp";
+            this.Column3.Name = "Column3";
+            // 
+            // Column4
+            // 
+            this.Column4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column4.DataPropertyName = "NgayNhap";
+            this.Column4.HeaderText = "Ngày nhập";
+            this.Column4.Name = "Column4";
+            // 
+            // Column1
+            // 
+            this.Column1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Column1.DataPropertyName = "TongTien";
+            this.Column1.HeaderText = "Tổng tiền";
+            this.Column1.Name = "Column1";
             // 
             // Column2
             // 
@@ -350,8 +393,13 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 30);
             this.tabPage2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage2.Name = "tabPage2";
+<<<<<<< HEAD
             this.tabPage2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage2.Size = new System.Drawing.Size(1571, 784);
+=======
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(1176, 635);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.tabPage2.TabIndex = 2;
             this.tabPage2.Text = "Xuất hàng";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -445,10 +493,16 @@
             // 
             // btnReFresh
             // 
+<<<<<<< HEAD
             this.btnReFresh.Location = new System.Drawing.Point(675, 69);
             this.btnReFresh.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnReFresh.Name = "btnReFresh";
             this.btnReFresh.Size = new System.Drawing.Size(140, 41);
+=======
+            this.btnReFresh.Location = new System.Drawing.Point(506, 56);
+            this.btnReFresh.Name = "btnReFresh";
+            this.btnReFresh.Size = new System.Drawing.Size(105, 33);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.btnReFresh.TabIndex = 4;
             this.btnReFresh.Text = "Refresh";
             this.btnReFresh.UseVisualStyleBackColor = true;

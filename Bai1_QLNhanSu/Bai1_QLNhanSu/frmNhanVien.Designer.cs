@@ -175,11 +175,12 @@
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Times New Roman", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.Yellow;
-            this.label11.Location = new System.Drawing.Point(443, 32);
+            this.label11.Location = new System.Drawing.Point(434, 21);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(246, 24);
             this.label11.TabIndex = 29;
             this.label11.Text = "THÔNG TIN NHÂN VIÊN";
+            this.label11.Click += new System.EventHandler(this.label11_Click);
             // 
             // btnHuy
             // 
@@ -479,7 +480,7 @@
             this.toolStripLabel1.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.toolStripLabel1.ForeColor = System.Drawing.Color.Red;
             this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(81, 22);
+            this.toolStripLabel1.Size = new System.Drawing.Size(79, 22);
             this.toolStripLabel1.Text = "Mã nhân viên";
             // 
             // tstxtMa
@@ -568,6 +569,7 @@
             this.dgvNhanVien.Size = new System.Drawing.Size(1008, 192);
             this.dgvNhanVien.TabIndex = 0;
             this.dgvNhanVien.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNhanVien_CellClick);
+            this.dgvNhanVien.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNhanVien_CellContentClick);
             // 
             // Column1
             // 

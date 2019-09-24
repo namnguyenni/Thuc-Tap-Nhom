@@ -79,6 +79,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(839, 245);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // btnLuu
             // 
@@ -147,10 +148,15 @@
             this.label3.Size = new System.Drawing.Size(47, 21);
             this.label3.TabIndex = 77;
             this.label3.Text = "SĐT";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // txtTK
             // 
+<<<<<<< HEAD
             this.txtTK.Location = new System.Drawing.Point(446, 22);
+=======
+            this.txtTK.Location = new System.Drawing.Point(367, 17);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.txtTK.Name = "txtTK";
             this.txtTK.Size = new System.Drawing.Size(264, 29);
             this.txtTK.TabIndex = 76;
@@ -164,7 +170,11 @@
             "Tên NCC",
             "Địa Chỉ",
             "SĐT"});
+<<<<<<< HEAD
             this.cboTK.Location = new System.Drawing.Point(170, 22);
+=======
+            this.cboTK.Location = new System.Drawing.Point(157, 17);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.cboTK.Name = "cboTK";
             this.cboTK.Size = new System.Drawing.Size(161, 29);
             this.cboTK.TabIndex = 75;
@@ -172,7 +182,11 @@
             // label9
             // 
             this.label9.AutoSize = true;
+<<<<<<< HEAD
             this.label9.Location = new System.Drawing.Point(27, 25);
+=======
+            this.label9.Location = new System.Drawing.Point(48, 20);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(119, 21);
             this.label9.TabIndex = 74;
@@ -193,6 +207,7 @@
             this.label1.Size = new System.Drawing.Size(78, 21);
             this.label1.TabIndex = 58;
             this.label1.Text = "Mã NCC";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtTenNCC
             // 
@@ -273,9 +288,15 @@
             // 
             // btnThoat
             // 
+<<<<<<< HEAD
             this.btnThoat.Location = new System.Drawing.Point(716, 489);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(94, 35);
+=======
+            this.btnThoat.Location = new System.Drawing.Point(593, 483);
+            this.btnThoat.Name = "btnThoat";
+            this.btnThoat.Size = new System.Drawing.Size(75, 35);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.btnThoat.TabIndex = 68;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;

@@ -12,13 +12,13 @@ namespace BUS
     {
         public DataTable Show()
         {
-            string sql = "SELECT hs.MaHS, hs.HovaTen, hs.GT, hs.NgaySinh, hs.DiaChi, hs.PhuHuynh, lop.TenLop FROM tblHocSinh hs, tblLop lop where hs.MaLop = lop.MaLop";
+            string sql = "SELECT hs.MaHS, hs.HovaTen, hs.GT, hs.NgaySinh, hs.DiaChi, hs.PhuHuynh, lop.TenLop FROM dbo.HocSinh hs, dbo.Lop lop where hs.MaLop = lop.MaLop";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
-            con.Close();
+            conn.Close();
             da.Dispose();
             return dt;
         }
@@ -27,9 +27,9 @@ namespace BUS
         public void Sua_HS(string MaHS, string HoTen, string GT, string NgaySinh, string DiaChi, string PhuHuynh, string MaLop)
         {
             string sql = "Sua_HS";
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@HovaTen", HoTen);
@@ -42,14 +42,14 @@ namespace BUS
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
         public void ThemHocSinh(string HovaTen, string GT, DateTime NgaySinh, string DiaChi, string PhuHuynh, string MaLop)
         {
             string sql = "ADD_HocSinh";
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@HovaTen", HovaTen);
@@ -61,29 +61,29 @@ namespace BUS
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         // Xóa
         public void Xoa_HS(string MaHS)
         {
             string sql = "Xoa_HS";
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaHS", MaHS);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
         //lay thong tin lop
         public DataTable LayThongTinLop()
         {
-            string sql = "SELECT * FROM tblLop";
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
+            string sql = "SELECT * FROM dbo.Lop";
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             DataTable dt = new DataTable();
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
             return dt;
         }

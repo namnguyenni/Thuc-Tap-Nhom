@@ -38,7 +38,6 @@
             this.label13 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label3 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.timer3 = new System.Windows.Forms.Timer(this.components);
@@ -49,7 +48,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(62, 153);
+            this.label2.Location = new System.Drawing.Point(72, 143);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(60, 24);
             this.label2.TabIndex = 15;
@@ -57,9 +56,9 @@
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(286, 250);
+            this.btnThoat.Location = new System.Drawing.Point(154, 280);
             this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(75, 23);
+            this.btnThoat.Size = new System.Drawing.Size(81, 32);
             this.btnThoat.TabIndex = 14;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.UseVisualStyleBackColor = true;
@@ -67,9 +66,9 @@
             // 
             // btnDangNhap
             // 
-            this.btnDangNhap.Location = new System.Drawing.Point(167, 189);
+            this.btnDangNhap.Location = new System.Drawing.Point(128, 200);
             this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(128, 43);
+            this.btnDangNhap.Size = new System.Drawing.Size(128, 53);
             this.btnDangNhap.TabIndex = 13;
             this.btnDangNhap.Text = "Đăng nhập";
             this.btnDangNhap.UseVisualStyleBackColor = true;
@@ -77,7 +76,7 @@
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(154, 153);
+            this.txtPass.Location = new System.Drawing.Point(178, 148);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(150, 20);
@@ -85,7 +84,7 @@
             // 
             // txtUserName
             // 
-            this.txtUserName.Location = new System.Drawing.Point(154, 111);
+            this.txtUserName.Location = new System.Drawing.Point(178, 92);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(150, 20);
             this.txtUserName.TabIndex = 11;
@@ -94,7 +93,7 @@
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(12, 111);
+            this.label13.Location = new System.Drawing.Point(22, 87);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(110, 24);
             this.label13.TabIndex = 10;
@@ -103,11 +102,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Yellow;
-            this.label1.Location = new System.Drawing.Point(11, 58);
+            this.label1.Location = new System.Drawing.Point(22, 31);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(326, 22);
+            this.label1.Size = new System.Drawing.Size(352, 24);
             this.label1.TabIndex = 16;
             this.label1.Text = "Đăng nhập hệ thống quản lý khách sạn";
             // 
@@ -120,17 +119,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 17;
             this.pictureBox1.TabStop = false;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.Red;
-            this.label3.Location = new System.Drawing.Point(73, 9);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(517, 23);
-            this.label3.TabIndex = 18;
-            this.label3.Text = "                      Design by Hoang Anh, Luong, Dung, Long      ";
             // 
             // timer1
             // 
@@ -154,7 +142,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(724, 339);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
@@ -183,7 +170,6 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Timer timer2;
         private System.Windows.Forms.Timer timer3;

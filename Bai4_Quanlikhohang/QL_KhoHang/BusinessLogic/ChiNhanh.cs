@@ -13,11 +13,11 @@ namespace BusinessLogic
 
         public DataTable DisplayCustomers()
         {
-            string sql = @"SELECT * FROM CHINHANH ";
+            string sql = @"SELECT * FROM dbo.CHINHANH ";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            ad.Fill(dt);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
             return dt;
         }
 
@@ -26,9 +26,9 @@ namespace BusinessLogic
             string str = "";
             string sql = "InsertKH";
             //   string sql = "insert NhomSP values (@Manhom, @Tennhom, @NgayCN)";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@TenKH", TenKH);
@@ -40,13 +40,13 @@ namespace BusinessLogic
 
             //cmd.ExecuteNonQuery();
 
-            DataTable dt = new DataTable();
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            da.Fill(dt);
+            DataTable dt = new DataTable(); // khoi tao mot bang moi
+            SqlDataAdapter da = new SqlDataAdapter(cmd); // du lieu dang Adapter
+            da.Fill(dt); // ghi du lieu vao bang
             str = dt.Rows[0].ItemArray[0].ToString();
 
             cmd.Dispose();
-            con.Close();
+            conn.Close();
 
             return str;
         }
@@ -54,9 +54,9 @@ namespace BusinessLogic
         public void UpdateCustomer(string MaKh, string TenKH, string Gioitinh, string Diachi, string SDT, string LoaiKH, string Ghichu)
         {
             string sql = "UpdateKH";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@MaKH", MaKh);
@@ -69,36 +69,36 @@ namespace BusinessLogic
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
         public void DeleteCustomer(string MaKh)
         {
             string sql = "DeleteKH";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaKH", MaKh);
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public DataTable SearchCustomer(string _TenKH)
         {
             DataTable dt = new DataTable();
             string sql = "SearchTenKH";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@str", _TenKH);
 
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
 
-            con.Close();
+            conn.Close();
             cmd.Dispose();
             return dt;
 
@@ -107,9 +107,9 @@ namespace BusinessLogic
         {
             DataTable dt = new DataTable();
             string sql = "SearchLoaiKH";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@str", _LoaiKH);
@@ -117,7 +117,7 @@ namespace BusinessLogic
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
 
-            con.Close();
+            conn.Close();
             cmd.Dispose();
             return dt;
         }
@@ -125,9 +125,9 @@ namespace BusinessLogic
         {
             DataTable dt = new DataTable();
             string sql = "SearchDCKH";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.AddWithValue("@str", _DiaChi);
@@ -135,7 +135,7 @@ namespace BusinessLogic
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
 
-            con.Close();
+            con n.Close();
             cmd.Dispose();
             return dt;
         }
@@ -143,15 +143,15 @@ namespace BusinessLogic
         {
             DataTable dt = new DataTable();
             string sql = "Show10KH";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
 
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
 
-            con.Close();
+            conn.Close();
             cmd.Dispose();
             return dt;
         }
@@ -159,9 +159,9 @@ namespace BusinessLogic
         {
             DataTable dt = new DataTable();
             string sql = "ShowKHNhieuNgay";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@date1", date1);
             cmd.Parameters.AddWithValue("@date2", date2);
@@ -169,7 +169,7 @@ namespace BusinessLogic
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
 
-            con.Close();
+            conn.Close();
             cmd.Dispose();
             return dt;
         }

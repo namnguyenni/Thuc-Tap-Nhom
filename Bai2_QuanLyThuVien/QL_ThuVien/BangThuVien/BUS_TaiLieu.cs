@@ -85,7 +85,7 @@ namespace BangThuVien
         public DataTable TimKiemMaSachHopLe(string _MaSach)
         {
             DataTable dt = new DataTable();
-            string str = string.Format("Select MaSach from Sach where (MaSach = @MaSach)");
+            string str = string.Format("Select MaSach from dbo.Sach where (MaSach = @MaSach)");
             SqlParameter[] arrPara = new SqlParameter[1];
             arrPara[0] = new SqlParameter("@MaSach", SqlDbType.NVarChar, 10);
             arrPara[0].Value = _MaSach;

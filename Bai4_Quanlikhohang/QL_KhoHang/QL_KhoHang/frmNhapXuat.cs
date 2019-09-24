@@ -79,5 +79,9 @@ namespace QL_KhoHang
             this.Close();
         }
 
+        private void dgvPN_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            s
+        }
     }
 }

@@ -22,17 +22,17 @@ namespace Main
         {
             if (dn.DangNhapHT(txtUserName.Text, txtPass.Text) == true)
             {
-                MessageBox.Show("Bạn đăng nhập thành công ^^", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Bạn đăng nhập thành công !", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Form1 frm1 = new Form1();
                 frm1.Show();
                 Hide();
             }
-            else MessageBox.Show("Tên đăng nhập hoặc mật khẩu sai. Mời bạn nhập lại !!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else MessageBox.Show("Tên đăng nhập hoặc mật khẩu sai. Vui lòng nhập lại !!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Ban có chắc muốn thoát ??", "Question", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            if (MessageBox.Show("Ban có chắc muốn thoát ?", "Question", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 this.Close();
         }
 

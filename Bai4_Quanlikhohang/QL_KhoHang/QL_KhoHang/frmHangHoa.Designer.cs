@@ -67,8 +67,12 @@
             // 
             // txttk_NSX
             // 
+<<<<<<< HEAD
             this.txttk_NSX.Location = new System.Drawing.Point(627, 42);
             this.txttk_NSX.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+=======
+            this.txttk_NSX.Location = new System.Drawing.Point(566, 27);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.txttk_NSX.Name = "txttk_NSX";
             this.txttk_NSX.Size = new System.Drawing.Size(160, 22);
             this.txttk_NSX.TabIndex = 90;
@@ -86,8 +90,12 @@
             // label8
             // 
             this.label8.AutoSize = true;
+<<<<<<< HEAD
             this.label8.Location = new System.Drawing.Point(508, 42);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+=======
+            this.label8.Location = new System.Drawing.Point(478, 30);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(91, 17);
             this.label8.TabIndex = 88;
@@ -96,8 +104,12 @@
             // label3
             // 
             this.label3.AutoSize = true;
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(151, 42);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+=======
+            this.label3.Location = new System.Drawing.Point(120, 30);
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(97, 17);
             this.label3.TabIndex = 87;

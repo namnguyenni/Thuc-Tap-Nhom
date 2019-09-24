@@ -182,12 +182,20 @@ namespace QL_KhoHang
             }
         }
 
+<<<<<<< HEAD
         private void txtSoDT_TextChanged(object sender, EventArgs e)
+=======
+        private void label1_Click(object sender, EventArgs e)
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
         {
 
         }
 
+<<<<<<< HEAD
         private void txttenKH_TextChanged(object sender, EventArgs e)
+=======
+        private void panelKH_Paint(object sender, PaintEventArgs e)
+>>>>>>> 866c3af64d2c450d0cbe0738c5aaa5ce505a1a24
         {
 
         }

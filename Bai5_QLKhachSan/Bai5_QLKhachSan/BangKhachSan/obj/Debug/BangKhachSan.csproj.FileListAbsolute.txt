@@ -33,3 +33,12 @@ G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSa
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csprojResolveAssemblyReference.cache
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.dll
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.pdb
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\BangKhachSan.dll
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\BangKhachSan.pdb
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\KetNoiDB.dll
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\KetNoiDB.pdb
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csprojAssemblyReference.cache
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csproj.CoreCompileInputs.cache
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csproj.CopyComplete
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.dll
+E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.pdb

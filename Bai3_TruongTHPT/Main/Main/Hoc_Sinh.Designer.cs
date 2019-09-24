@@ -109,7 +109,7 @@
             // 
             // btnHuy
             // 
-            this.btnHuy.Location = new System.Drawing.Point(181, 155);
+            this.btnHuy.Location = new System.Drawing.Point(143, 156);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(75, 34);
             this.btnHuy.TabIndex = 70;
@@ -184,7 +184,7 @@
             // cbLop
             // 
             this.cbLop.FormattingEnabled = true;
-            this.cbLop.Location = new System.Drawing.Point(107, 172);
+            this.cbLop.Location = new System.Drawing.Point(401, 172);
             this.cbLop.Name = "cbLop";
             this.cbLop.Size = new System.Drawing.Size(177, 21);
             this.cbLop.TabIndex = 53;
@@ -217,7 +217,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(22, 180);
+            this.label10.Location = new System.Drawing.Point(337, 180);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(25, 13);
             this.label10.TabIndex = 49;
