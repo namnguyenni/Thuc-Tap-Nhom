@@ -34,12 +34,15 @@ namespace Bai5_QLKhachSan
             dgvPhongTrong.DataSource = phong.HienThiPhongTrong();
             dgvDichVu.DataSource = dv.HienThiDV();
         }
-        private void btnThemKhachMoi_Click(object sender, EventArgs e)
-        {
-            frmKhachThue frm = new frmKhachThue();
-            frm.Show();
-            
-        }
+        
+		   public void startService(View v) {
+        String input = editTextInput.getText().toString();
+ 
+        Intent serviceIntent = new Intent(this, ExampleService.class);
+        serviceIntent.putExtra("inputExtra", input);
+ 
+        ContextCompat.startForegroundService(this, serviceIntent);
+    }
 
         private void frmChoThuePhong_Load(object sender, EventArgs e)
         {
