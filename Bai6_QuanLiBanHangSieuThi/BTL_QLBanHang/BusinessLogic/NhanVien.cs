@@ -99,20 +99,21 @@ namespace BusinessLogic
             da.Fill(dt);
             return dt;
         }
+
         //tìm kiếm nhan vien theo mã  trên thanh tìm kiếm.
-        //public DataTable TKMaNhanVien(string MaNV)
-        //{
-        //    string sql = "SELECT * FROM tblNhanVien WHERE MaNV LIKE (N'%' + @MaNV + '%')";
-        //    DataTable dt = new DataTable();
-        //    SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-        //    con.Open();
-        //    SqlCommand cmd = new SqlCommand(sql, con);
-        //    SqlDataAdapter da = new SqlDataAdapter();
-        //    cmd.Parameters.AddWithValue("@MaNV", MaNV);
-        //    da.SelectCommand = cmd;
-        //    da.Fill(dt);
-        //    return dt;
-        //}
+        public DataTable TKMaNhanVien(string MaNV)
+        {
+            string sql = "SELECT * FROM tblNhanVien WHERE MaNV LIKE (N'%' + @MaNV + '%')";
+            DataTable dt = new DataTable();
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlDataAdapter da = new SqlDataAdapter();
+            cmd.Parameters.AddWithValue("@MaNV", MaNV);
+            da.SelectCommand = cmd;
+            da.Fill(dt);
+            return dt;
+        }
         // Tìm kiếm nhân viên theo Tên
         //public DataTable TKTenNhanVien(string TenNV)
         //{
