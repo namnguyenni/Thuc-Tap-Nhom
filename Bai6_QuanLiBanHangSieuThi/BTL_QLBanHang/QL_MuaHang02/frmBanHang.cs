@@ -291,6 +291,26 @@ namespace QuanLyBanHang
 
         }
 
+        private void cmbGioiTinh_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTenKH_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtNgayBanHDB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTongTienHDB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void dgvCTHD_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             try { DongCTHD = e.RowIndex; }
