@@ -140,7 +140,7 @@ namespace skelot
         {
             this.getData();
 
-            if (comboBox2.Text == "Brand")
+            if (comboBox2.Text == "Nhãn hiệu")
             {
 
                 this.getBrand();
@@ -542,7 +542,7 @@ namespace skelot
         {
 
 
-            if (comboBox1.Text == "Default")
+            if (comboBox1.Text == "Mặc định")
             {
 
                 getData();
@@ -700,6 +700,11 @@ namespace skelot
         private void txtQuantity_KeyPress(object sender, KeyPressEventArgs e)
         {
             e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void txtPayment_KeyPress(object sender, KeyPressEventArgs e)
