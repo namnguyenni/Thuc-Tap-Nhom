@@ -15,7 +15,7 @@ namespace BangQLCT
 
 
             // cau lenh trong sql
-            string sql = "SELECT * FROM tblDangNhap WHERE UserName='" + Username + "' AND Pass='" + Pass + "'";
+            string sql = "SELECT * FROM dbo.DangNhap WHERE UserName='" + Username + "' AND Pass='" + Pass + "'";
             //tao ket noi sqlconnecttion
             SqlConnection con = new SqlConnection(KetNoi.connect());
             // tao bang ao luu data
