@@ -423,6 +423,7 @@
             this.dgvTaiLieu.Size = new System.Drawing.Size(901, 167);
             this.dgvTaiLieu.TabIndex = 0;
             this.dgvTaiLieu.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNhanVien_CellClick);
+            this.dgvTaiLieu.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTaiLieu_CellContentClick);
             // 
             // Column1
             // 

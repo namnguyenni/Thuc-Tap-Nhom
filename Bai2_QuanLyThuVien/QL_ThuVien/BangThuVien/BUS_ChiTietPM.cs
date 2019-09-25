@@ -16,7 +16,7 @@ namespace BangThuVien
         public bool ThemCTPM(string MaPM, string MaSach, DateTime NgayMuon, DateTime HanTra, string Ghichu)
         {
             bool b = false;
-            string sql = string.Format("Insert into CHITIETPHIEUMUON (MaPM, MaSach, NgayMuon, HanTra, GhiChu) values ( @MaPM, @MaSach, @NgayMuon, @HanTra, @GhiChu )");
+            string sql = string.Format("Insert into dbo.CHITIETPHIEUMUON (MaPM, MaSach, NgayMuon, HanTra, GhiChu) values ( @MaPM, @MaSach, @NgayMuon, @HanTra, @GhiChu )");
             SqlParameter[] arr = new SqlParameter[5];
             arr[0] = new SqlParameter("@MaPM", SqlDbType.NVarChar, 10);
             arr[0].Value = MaPM;

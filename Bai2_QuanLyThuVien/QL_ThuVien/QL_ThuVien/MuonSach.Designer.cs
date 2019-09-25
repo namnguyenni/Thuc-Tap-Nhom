@@ -77,10 +77,8 @@
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(0, 0);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox1.Size = new System.Drawing.Size(1371, 156);
+            this.groupBox1.Size = new System.Drawing.Size(1028, 127);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             // 
@@ -89,10 +87,9 @@
             this.btnMuon.BackColor = System.Drawing.Color.White;
             this.btnMuon.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMuon.ForeColor = System.Drawing.Color.Black;
-            this.btnMuon.Location = new System.Drawing.Point(580, 45);
-            this.btnMuon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnMuon.Location = new System.Drawing.Point(435, 37);
             this.btnMuon.Name = "btnMuon";
-            this.btnMuon.Size = new System.Drawing.Size(133, 66);
+            this.btnMuon.Size = new System.Drawing.Size(100, 54);
             this.btnMuon.TabIndex = 4;
             this.btnMuon.Text = "Mượn";
             this.btnMuon.UseVisualStyleBackColor = false;
@@ -100,29 +97,26 @@
             // 
             // txtMaTL
             // 
-            this.txtMaTL.Location = new System.Drawing.Point(248, 85);
-            this.txtMaTL.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtMaTL.Location = new System.Drawing.Point(186, 69);
             this.txtMaTL.Name = "txtMaTL";
-            this.txtMaTL.Size = new System.Drawing.Size(229, 26);
+            this.txtMaTL.Size = new System.Drawing.Size(173, 22);
             this.txtMaTL.TabIndex = 3;
             // 
             // lblMaTL
             // 
             this.lblMaTL.AutoSize = true;
             this.lblMaTL.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMaTL.Location = new System.Drawing.Point(60, 85);
-            this.lblMaTL.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblMaTL.Location = new System.Drawing.Point(45, 69);
             this.lblMaTL.Name = "lblMaTL";
-            this.lblMaTL.Size = new System.Drawing.Size(133, 23);
+            this.lblMaTL.Size = new System.Drawing.Size(108, 19);
             this.lblMaTL.TabIndex = 2;
             this.lblMaTL.Text = "MÃ TÀI LIỆU";
             // 
             // txtMaBD
             // 
-            this.txtMaBD.Location = new System.Drawing.Point(248, 45);
-            this.txtMaBD.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtMaBD.Location = new System.Drawing.Point(186, 37);
             this.txtMaBD.Name = "txtMaBD";
-            this.txtMaBD.Size = new System.Drawing.Size(229, 26);
+            this.txtMaBD.Size = new System.Drawing.Size(173, 22);
             this.txtMaBD.TabIndex = 1;
             this.txtMaBD.TextChanged += new System.EventHandler(this.txtMaBD_TextChanged);
             // 
@@ -130,10 +124,9 @@
             // 
             this.lblMaBD.AutoSize = true;
             this.lblMaBD.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMaBD.Location = new System.Drawing.Point(60, 45);
-            this.lblMaBD.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblMaBD.Location = new System.Drawing.Point(45, 37);
             this.lblMaBD.Name = "lblMaBD";
-            this.lblMaBD.Size = new System.Drawing.Size(133, 23);
+            this.lblMaBD.Size = new System.Drawing.Size(108, 19);
             this.lblMaBD.TabIndex = 0;
             this.lblMaBD.Text = "MÃ ĐỘC GIẢ";
             // 
@@ -143,10 +136,9 @@
             this.panelDatagridview.Controls.Add(this.gbBanDoc);
             this.panelDatagridview.Controls.Add(this.groupBox2);
             this.panelDatagridview.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelDatagridview.Location = new System.Drawing.Point(0, 156);
-            this.panelDatagridview.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panelDatagridview.Location = new System.Drawing.Point(0, 127);
             this.panelDatagridview.Name = "panelDatagridview";
-            this.panelDatagridview.Size = new System.Drawing.Size(1371, 517);
+            this.panelDatagridview.Size = new System.Drawing.Size(1028, 420);
             this.panelDatagridview.TabIndex = 1;
             // 
             // gbSachMuon
@@ -154,11 +146,9 @@
             this.gbSachMuon.Controls.Add(this.dgvSachMuon);
             this.gbSachMuon.Dock = System.Windows.Forms.DockStyle.Right;
             this.gbSachMuon.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gbSachMuon.Location = new System.Drawing.Point(710, 0);
-            this.gbSachMuon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gbSachMuon.Location = new System.Drawing.Point(532, 0);
             this.gbSachMuon.Name = "gbSachMuon";
-            this.gbSachMuon.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.gbSachMuon.Size = new System.Drawing.Size(661, 517);
+            this.gbSachMuon.Size = new System.Drawing.Size(496, 420);
             this.gbSachMuon.TabIndex = 4;
             this.gbSachMuon.TabStop = false;
             this.gbSachMuon.Text = "Sách vừa nhập";
@@ -178,11 +168,11 @@
             this.Column13,
             this.Column14});
             this.dgvSachMuon.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvSachMuon.Location = new System.Drawing.Point(4, 27);
-            this.dgvSachMuon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvSachMuon.Location = new System.Drawing.Point(3, 22);
             this.dgvSachMuon.Name = "dgvSachMuon";
-            this.dgvSachMuon.Size = new System.Drawing.Size(653, 486);
+            this.dgvSachMuon.Size = new System.Drawing.Size(490, 395);
             this.dgvSachMuon.TabIndex = 0;
+            this.dgvSachMuon.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSachMuon_CellContentClick);
             // 
             // Column7
             // 
@@ -239,10 +229,8 @@
             this.gbBanDoc.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.gbBanDoc.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gbBanDoc.Location = new System.Drawing.Point(0, 0);
-            this.gbBanDoc.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.gbBanDoc.Name = "gbBanDoc";
-            this.gbBanDoc.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.gbBanDoc.Size = new System.Drawing.Size(553, 517);
+            this.gbBanDoc.Size = new System.Drawing.Size(415, 420);
             this.gbBanDoc.TabIndex = 3;
             this.gbBanDoc.TabStop = false;
             this.gbBanDoc.Text = "Sách độc giả đã mượn";
@@ -261,10 +249,9 @@
             this.Column6});
             this.dgvSachDaMuon.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvSachDaMuon.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.dgvSachDaMuon.Location = new System.Drawing.Point(4, 27);
-            this.dgvSachDaMuon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvSachDaMuon.Location = new System.Drawing.Point(3, 22);
             this.dgvSachDaMuon.Name = "dgvSachDaMuon";
-            this.dgvSachDaMuon.Size = new System.Drawing.Size(545, 486);
+            this.dgvSachDaMuon.Size = new System.Drawing.Size(409, 395);
             this.dgvSachDaMuon.TabIndex = 0;
             // 
             // Column1
@@ -315,21 +302,18 @@
             this.groupBox2.Controls.Add(this.btnOK);
             this.groupBox2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.groupBox2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox2.Location = new System.Drawing.Point(561, 37);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Location = new System.Drawing.Point(421, 30);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox2.Size = new System.Drawing.Size(152, 465);
+            this.groupBox2.Size = new System.Drawing.Size(114, 378);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             // 
             // btnHuy
             // 
             this.btnHuy.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnHuy.Location = new System.Drawing.Point(0, 201);
-            this.btnHuy.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnHuy.Location = new System.Drawing.Point(0, 163);
             this.btnHuy.Name = "btnHuy";
-            this.btnHuy.Size = new System.Drawing.Size(144, 56);
+            this.btnHuy.Size = new System.Drawing.Size(108, 46);
             this.btnHuy.TabIndex = 1;
             this.btnHuy.Text = "Hủy";
             this.btnHuy.UseVisualStyleBackColor = true;
@@ -338,10 +322,9 @@
             // btnOK
             // 
             this.btnOK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOK.Location = new System.Drawing.Point(0, 102);
-            this.btnOK.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnOK.Location = new System.Drawing.Point(0, 83);
             this.btnOK.Name = "btnOK";
-            this.btnOK.Size = new System.Drawing.Size(145, 62);
+            this.btnOK.Size = new System.Drawing.Size(109, 50);
             this.btnOK.TabIndex = 0;
             this.btnOK.Text = "Hoàn Tất Mượn";
             this.btnOK.UseVisualStyleBackColor = true;
@@ -349,12 +332,11 @@
             // 
             // MuonSach
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1371, 673);
+            this.ClientSize = new System.Drawing.Size(1028, 547);
             this.Controls.Add(this.panelDatagridview);
             this.Controls.Add(this.groupBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "MuonSach";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mượn Sách";

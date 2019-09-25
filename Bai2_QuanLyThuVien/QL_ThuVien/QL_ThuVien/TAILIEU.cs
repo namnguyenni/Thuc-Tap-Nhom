@@ -143,5 +143,10 @@ namespace QL_ThuVien
         {
 
         }
+
+        private void dgvTaiLieu_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
