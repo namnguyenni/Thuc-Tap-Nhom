@@ -42,3 +42,12 @@ E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\Ban
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csproj.CopyComplete
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.dll
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.pdb
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\BangKhachSan.dll
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\BangKhachSan.pdb
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\KetNoiDB.dll
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\KetNoiDB.pdb
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csprojAssemblyReference.cache
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csproj.CoreCompileInputs.cache
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csproj.CopyComplete
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.dll
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.pdb

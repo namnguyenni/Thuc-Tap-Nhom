@@ -29,3 +29,9 @@ E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiD
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.dll
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.dll
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.pdb
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csprojAssemblyReference.cache
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.dll
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb
