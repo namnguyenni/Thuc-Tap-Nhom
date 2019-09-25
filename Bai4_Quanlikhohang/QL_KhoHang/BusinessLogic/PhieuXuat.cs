@@ -35,6 +35,33 @@ namespace BusinessLogic
             con.Close();
         }
 
+        public DataTable ShowPN(string DieuKien)
+        {
+            string sql = @"SELECT MaPN, MaNCC, NgayNhap FROM dbo.PHIEUXUAT " + DieuKien;
+            DataTable dt = new DataTable();
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
+            return dt;
+        }
+
+        public DataTable ShowPN(DateTime _NgayDau, DateTime _NgayCuoi)
+        {
+            string sql = "ThongKeHDN";
+            DataTable dt = new DataTable();
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Parameters.AddWithValue("@ngaydau", _NgayDau);
+            cmd.Parameters.AddWithValue("@ngaycuoi", _NgayCuoi);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
+            return dt;
+        }
+
+
         public DataTable HT_CTPX(string ngay1, string ngay2)
         {
             string str = "HT_TK_CTPX";
