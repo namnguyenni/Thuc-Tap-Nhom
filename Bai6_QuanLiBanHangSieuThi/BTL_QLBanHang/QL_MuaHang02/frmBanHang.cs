@@ -311,6 +311,16 @@ namespace QuanLyBanHang
 
         }
 
+        private void groupBoxCTHDB_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
         private void dgvCTHD_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             try { DongCTHD = e.RowIndex; }
