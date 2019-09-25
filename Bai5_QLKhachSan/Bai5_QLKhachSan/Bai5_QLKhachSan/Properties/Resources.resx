@@ -118,11 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Buttons-PNG-Image-91847" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Buttons-PNG-Image-91847.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5895d2d1cba9841eabab6077" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5895d2d1cba9841eabab6077.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="yeallowbutton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yeallowbutton.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bluebut" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bluebut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -130,7 +127,19 @@
   <data name="pinkbutt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pinkbutt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="yeallowbutton" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\yeallowbutton.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Buttons-PNG-Image-91847" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Buttons-PNG-Image-91847.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login-button-png-3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\login-button-png-3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exit-button-png-download-png-image-exit-png-image-575-600" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exit-button-png-download-png-image-exit-png-image-575-600.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5895d2d1cba9841eabab6077" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5895d2d1cba9841eabab6077.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
