@@ -572,7 +572,7 @@ namespace skelot
                 listView1.Columns.Add("Stock", 80);
                 listView1.Columns.Add("CritLimit", 0);
                
-                string sql2 = @"Select * from tblProduct where Type like '" + comboBox1.Text + "%'";
+                string sql2 = @"Select * from tblProduct where Type like N'%" + comboBox1.Text + "%'";
                 cm = new SqlCommand(sql2, cn);
                 dr = cm.ExecuteReader();
                 while (dr.Read())
