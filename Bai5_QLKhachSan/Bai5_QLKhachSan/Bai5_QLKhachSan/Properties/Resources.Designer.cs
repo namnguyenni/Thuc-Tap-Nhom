@@ -63,6 +63,16 @@ namespace Bai5_QLKhachSan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _5895d2d1cba9841eabab6077 {
+            get {
+                object obj = ResourceManager.GetObject("5895d2d1cba9841eabab6077", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bluebut {
             get {
                 object obj = ResourceManager.GetObject("bluebut", resourceCulture);
@@ -73,9 +83,29 @@ namespace Bai5_QLKhachSan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Buttons_PNG_Image_91847 {
+            get {
+                object obj = ResourceManager.GetObject("Buttons-PNG-Image-91847", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pinkbutt {
             get {
                 object obj = ResourceManager.GetObject("pinkbutt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap yeallowbutton {
+            get {
+                object obj = ResourceManager.GetObject("yeallowbutton", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
