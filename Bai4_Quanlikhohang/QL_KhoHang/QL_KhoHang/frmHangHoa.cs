@@ -13,16 +13,7 @@ namespace QL_KhoHang
 {
     public partial class frmHangHoa : Form
     {
-        public frmHangHoa()
-        {
-            InitializeComponent();
-        }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            HienThi();
-        }
-        HangHoa hh = new HangHoa();
         public void HienThi()
         {
             dataGridView1.DataSource = hh.ShowHangHoa("");
