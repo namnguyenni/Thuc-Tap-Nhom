@@ -144,5 +144,10 @@ namespace Main
             else
                 dgvHocSinh.DataSource = tk.TKTenHocSinh(txtTK_HS.Text);
         }
+
+        private void txtPhuHuynh_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
