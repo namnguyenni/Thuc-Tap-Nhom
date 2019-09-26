@@ -63,6 +63,16 @@ namespace Bai1_QLNhanSu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1 {
+            get {
+                object obj = ResourceManager.GetObject("1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap exit_button_png_download_png_image_exit_png_image_575_600 {
             get {
                 object obj = ResourceManager.GetObject("exit-button-png-download-png-image-exit-png-image-575-600", resourceCulture);
