@@ -63,6 +63,16 @@ namespace Bai5_QLKhachSan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1 {
+            get {
+                object obj = ResourceManager.GetObject("1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _5895d2d1cba9841eabab6077 {
             get {
                 object obj = ResourceManager.GetObject("5895d2d1cba9841eabab6077", resourceCulture);
@@ -86,6 +96,26 @@ namespace Bai5_QLKhachSan.Properties {
         internal static System.Drawing.Bitmap Buttons_PNG_Image_91847 {
             get {
                 object obj = ResourceManager.GetObject("Buttons-PNG-Image-91847", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap exit_button_png_download_png_image_exit_png_image_575_600 {
+            get {
+                object obj = ResourceManager.GetObject("exit-button-png-download-png-image-exit-png-image-575-600", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap login_button_png_3 {
+            get {
+                object obj = ResourceManager.GetObject("login-button-png-3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
