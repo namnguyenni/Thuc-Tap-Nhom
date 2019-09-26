@@ -189,5 +189,10 @@ namespace Bai1_QLNhanSu
         {
 
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -11,14 +11,14 @@ namespace BangQLCT
 {
     public class BUS_DonVi
     {
-        KetNoi cn = new KetNoi();
+        KetNoi con = new KetNoi();
 
         public DataTable HienThiDonVi()
         {
             string sql = "SELECT * FROM dbo.DonVi";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
             return dt;
         }
@@ -26,9 +26,9 @@ namespace BangQLCT
         public void ThemDonVi(string TenDV, string NQL, string DC, string SoDT)
         {
             string sql = "ADDDonVi";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@TenDV", TenDV);
             cmd.Parameters.AddWithValue("@NQL", NQL);
@@ -36,15 +36,15 @@ namespace BangQLCT
             cmd.Parameters.AddWithValue("@SoDT", SoDT);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public void SuaDonVi(string MaDV, string TenDV, string NQL, string DC, string SoDT)
         {
             string sql = "SuaNhanVien";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@TenDV", TenDV);
             cmd.Parameters.AddWithValue("@NQL", NQL);
@@ -53,20 +53,20 @@ namespace BangQLCT
             cmd.Parameters.AddWithValue("@MaNV", MaDV);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public void XoaDonVi(string MaDV)
         {
             string sql = "Xoa_DV";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaDV", MaDV);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
     }
 }
