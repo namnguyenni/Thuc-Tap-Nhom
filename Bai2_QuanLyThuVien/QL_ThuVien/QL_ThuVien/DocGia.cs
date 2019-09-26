@@ -156,5 +156,15 @@ namespace QL_ThuVien
         {
 
         }
+
+        private void dgvBanDoc_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

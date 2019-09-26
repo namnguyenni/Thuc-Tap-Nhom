@@ -15,7 +15,7 @@ namespace BangQLCT
         // Tìm kiếm nhan vien theo mã
         public DataTable TKMaNV(string MaNV)
         {
-            string sql = "SELECT * FROM tblNhanVien WHERE MaNV LIKE N'%' + @MaNV + '%'";
+            string sql = "SELECT * FROM dbo.NhanVien WHERE MaNV LIKE N'%' + @MaNV + '%'";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoi.connect());
             con.Open();
@@ -31,7 +31,7 @@ namespace BangQLCT
         // Tìm kiếm nhan vien theo tên
         public DataTable TKTenNV(string TenNV)
         {
-            string sql = "SELECT * FROM tblNhanVien WHERE TenNV LIKE N'%' + @TenNV + '%'";
+            string sql = "SELECT * FROM dbo.NhanVien WHERE TenNV LIKE N'%' + @TenNV + '%'";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoi.connect());
             con.Open();
@@ -45,7 +45,7 @@ namespace BangQLCT
         //tìm kiếm nhan vien theo mã  trên thanh tìm kiếm.
         public DataTable TKMaNhanVien(string MaNV)
         {
-            string sql = "SELECT * FROM tblNhanVien WHERE MaNV LIKE (N'%' + @MaNV + '%')";
+            string sql = "SELECT * FROM dbo.NhanVien WHERE MaNV LIKE (N'%' + @MaNV + '%')";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoi.connect());
             con.Open();

@@ -140,5 +140,7 @@ namespace Bai5_QLKhachSan
             frmDoDungTheoPhong dodung = new frmDoDungTheoPhong(txtMaphong.Text);
             dodung.Show();
         }
+
+     
     }
 }

@@ -122,3 +122,26 @@ E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\BangKhachSan.pdb
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.pdb
 E:\git2\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.CopyComplete
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.exe.config
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.exe
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.pdb
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\BangKhachSan.dll
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.dll
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\BangKhachSan.pdb
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.pdb
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csprojAssemblyReference.cache
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmPHONG.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmChoThuePhong.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmDangNhap.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmDoDungCuaKhachSan.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmDoDungTheoPhong.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmHuongDan.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmKhachThue.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmQuanLyKhachSan.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmTraPhong.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.Properties.Resources.resources
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.GenerateResource.cache
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.CoreCompileInputs.cache
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.CopyComplete
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.exe
+D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.pdb

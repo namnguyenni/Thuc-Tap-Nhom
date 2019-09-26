@@ -35,6 +35,8 @@ namespace BusinessLogic
             con.Close();
         }
 
+
+
         public DataTable HT_CTPX(string ngay1, string ngay2)
         {
             string str = "HT_TK_CTPX";

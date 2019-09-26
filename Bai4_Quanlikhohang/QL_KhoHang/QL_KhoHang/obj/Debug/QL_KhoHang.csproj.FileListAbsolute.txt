@@ -88,3 +88,6 @@ E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoH
 E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.CopyComplete
 E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.exe
 E:\git2\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.pdb
+D:\github\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe.config
+D:\github\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.exe
+D:\github\Thuc-Tap-Nhom\Bai4_Quanlikhohang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.pdb

@@ -140,7 +140,7 @@ namespace skelot
         {
             this.getData();
 
-            if (comboBox2.Text == "Brand")
+            if (comboBox2.Text == "Nhãn hiệu")
             {
 
                 this.getBrand();
@@ -542,7 +542,7 @@ namespace skelot
         {
 
 
-            if (comboBox1.Text == "Default")
+            if (comboBox1.Text == "Mặc định")
             {
 
                 getData();
@@ -572,7 +572,7 @@ namespace skelot
                 listView1.Columns.Add("Stock", 80);
                 listView1.Columns.Add("CritLimit", 0);
                
-                string sql2 = @"Select * from tblProduct where Type like '" + comboBox1.Text + "%'";
+                string sql2 = @"Select * from tblProduct where Type like N'%" + comboBox1.Text + "%'";
                 cm = new SqlCommand(sql2, cn);
                 dr = cm.ExecuteReader();
                 while (dr.Read())
@@ -700,6 +700,11 @@ namespace skelot
         private void txtQuantity_KeyPress(object sender, KeyPressEventArgs e)
         {
             e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void txtPayment_KeyPress(object sender, KeyPressEventArgs e)

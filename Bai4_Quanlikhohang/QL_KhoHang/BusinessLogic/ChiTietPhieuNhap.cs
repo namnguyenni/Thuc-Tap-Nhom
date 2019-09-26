@@ -39,6 +39,7 @@ namespace BusinessLogic
 
         }
 
+
         public DataTable HienThi(string DieuKien)
         {
             string sql = @"SELECT * FROM dbo.CHITIETPHIEUNHAP WHERE MaPN = '" + DieuKien + "'";

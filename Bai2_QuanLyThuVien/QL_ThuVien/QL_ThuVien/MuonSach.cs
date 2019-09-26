@@ -120,5 +120,10 @@ namespace QL_ThuVien
         {
             dgvSachDaMuon.DataSource = bd.ThongKeSachDaMuonTheoID(txtMaBD.Text);
         }
+
+        private void dgvSachMuon_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

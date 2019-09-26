@@ -53,5 +53,10 @@ namespace Bai1_QLNhanSu
                             pictureBox1.BackgroundImage = img;
                         }
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

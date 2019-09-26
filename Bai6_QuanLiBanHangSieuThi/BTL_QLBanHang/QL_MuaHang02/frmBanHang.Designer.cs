@@ -124,14 +124,14 @@
             this.panelHoaDon.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panelHoaDon.Controls.Add(this.groupBoxCTHDB);
             this.panelHoaDon.Controls.Add(this.grboxHDB);
-            this.panelHoaDon.Location = new System.Drawing.Point(0, 309);
+            this.panelHoaDon.Location = new System.Drawing.Point(0, 315);
             this.panelHoaDon.Name = "panelHoaDon";
-            this.panelHoaDon.Size = new System.Drawing.Size(824, 252);
+            this.panelHoaDon.Size = new System.Drawing.Size(824, 275);
             this.panelHoaDon.TabIndex = 0;
             // 
             // groupBoxCTHDB
             // 
-            this.groupBoxCTHDB.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.groupBoxCTHDB.BackColor = System.Drawing.Color.White;
             this.groupBoxCTHDB.Controls.Add(this.btnGiamSL);
             this.groupBoxCTHDB.Controls.Add(this.btnTangSL);
             this.groupBoxCTHDB.Controls.Add(this.btnLuu);
@@ -140,12 +140,13 @@
             this.groupBoxCTHDB.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBoxCTHDB.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBoxCTHDB.ForeColor = System.Drawing.Color.Maroon;
-            this.groupBoxCTHDB.Location = new System.Drawing.Point(0, 55);
+            this.groupBoxCTHDB.Location = new System.Drawing.Point(0, 73);
             this.groupBoxCTHDB.Name = "groupBoxCTHDB";
-            this.groupBoxCTHDB.Size = new System.Drawing.Size(820, 193);
+            this.groupBoxCTHDB.Size = new System.Drawing.Size(820, 198);
             this.groupBoxCTHDB.TabIndex = 43;
             this.groupBoxCTHDB.TabStop = false;
             this.groupBoxCTHDB.Text = "Chi Tiết Hóa Đơn";
+            this.groupBoxCTHDB.Enter += new System.EventHandler(this.groupBoxCTHDB_Enter);
             // 
             // btnGiamSL
             // 
@@ -154,9 +155,9 @@
             this.btnGiamSL.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnGiamSL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGiamSL.ForeColor = System.Drawing.Color.White;
-            this.btnGiamSL.Location = new System.Drawing.Point(310, 63);
+            this.btnGiamSL.Location = new System.Drawing.Point(370, 22);
             this.btnGiamSL.Name = "btnGiamSL";
-            this.btnGiamSL.Size = new System.Drawing.Size(47, 14);
+            this.btnGiamSL.Size = new System.Drawing.Size(80, 36);
             this.btnGiamSL.TabIndex = 8;
             this.btnGiamSL.UseVisualStyleBackColor = false;
             this.btnGiamSL.Click += new System.EventHandler(this.btnGiamSL_Click);
@@ -168,21 +169,21 @@
             this.btnTangSL.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnTangSL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTangSL.ForeColor = System.Drawing.Color.White;
-            this.btnTangSL.Location = new System.Drawing.Point(275, 54);
+            this.btnTangSL.Location = new System.Drawing.Point(325, 22);
             this.btnTangSL.Name = "btnTangSL";
-            this.btnTangSL.Size = new System.Drawing.Size(29, 23);
+            this.btnTangSL.Size = new System.Drawing.Size(39, 36);
             this.btnTangSL.TabIndex = 7;
             this.btnTangSL.UseVisualStyleBackColor = false;
             this.btnTangSL.Click += new System.EventHandler(this.btnTangSL_Click);
             // 
             // btnLuu
             // 
-            this.btnLuu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnLuu.BackColor = System.Drawing.Color.White;
             this.btnLuu.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnLuu.BackgroundImage")));
             this.btnLuu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnLuu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLuu.ForeColor = System.Drawing.Color.Yellow;
-            this.btnLuu.Location = new System.Drawing.Point(428, 9);
+            this.btnLuu.Location = new System.Drawing.Point(456, 22);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(100, 36);
             this.btnLuu.TabIndex = 3;
@@ -192,7 +193,7 @@
             // 
             // dgvCTHD
             // 
-            this.dgvCTHD.BackgroundColor = System.Drawing.Color.Teal;
+            this.dgvCTHD.BackgroundColor = System.Drawing.Color.Honeydew;
             this.dgvCTHD.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.dgvCTHD.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvCTHD.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -203,10 +204,10 @@
             this.dataGridViewTextBoxColumn12});
             this.dgvCTHD.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.dgvCTHD.GridColor = System.Drawing.Color.Maroon;
-            this.dgvCTHD.Location = new System.Drawing.Point(3, 80);
+            this.dgvCTHD.Location = new System.Drawing.Point(3, 64);
             this.dgvCTHD.Name = "dgvCTHD";
             this.dgvCTHD.ReadOnly = true;
-            this.dgvCTHD.Size = new System.Drawing.Size(814, 110);
+            this.dgvCTHD.Size = new System.Drawing.Size(814, 131);
             this.dgvCTHD.TabIndex = 6;
             this.dgvCTHD.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCTHD_CellClick);
             // 
@@ -253,12 +254,12 @@
             // 
             // HuyBo
             // 
-            this.HuyBo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.HuyBo.BackColor = System.Drawing.Color.White;
             this.HuyBo.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("HuyBo.BackgroundImage")));
             this.HuyBo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.HuyBo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.HuyBo.ForeColor = System.Drawing.Color.Aqua;
-            this.HuyBo.Location = new System.Drawing.Point(562, 9);
+            this.HuyBo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.HuyBo.Location = new System.Drawing.Point(562, 22);
             this.HuyBo.Name = "HuyBo";
             this.HuyBo.Size = new System.Drawing.Size(99, 36);
             this.HuyBo.TabIndex = 4;
@@ -281,7 +282,7 @@
             this.grboxHDB.ForeColor = System.Drawing.Color.Maroon;
             this.grboxHDB.Location = new System.Drawing.Point(0, 0);
             this.grboxHDB.Name = "grboxHDB";
-            this.grboxHDB.Size = new System.Drawing.Size(820, 55);
+            this.grboxHDB.Size = new System.Drawing.Size(820, 73);
             this.grboxHDB.TabIndex = 42;
             this.grboxHDB.TabStop = false;
             this.grboxHDB.Text = "Hóa Đơn Bán";
@@ -297,7 +298,7 @@
             // 
             // txtTenKHHDB
             // 
-            this.txtTenKHHDB.Location = new System.Drawing.Point(225, 19);
+            this.txtTenKHHDB.Location = new System.Drawing.Point(225, 26);
             this.txtTenKHHDB.Multiline = true;
             this.txtTenKHHDB.Name = "txtTenKHHDB";
             this.txtTenKHHDB.Size = new System.Drawing.Size(139, 25);
@@ -305,7 +306,7 @@
             // 
             // txtTongTienHDB
             // 
-            this.txtTongTienHDB.Location = new System.Drawing.Point(706, 17);
+            this.txtTongTienHDB.Location = new System.Drawing.Point(706, 25);
             this.txtTongTienHDB.Multiline = true;
             this.txtTongTienHDB.Name = "txtTongTienHDB";
             this.txtTongTienHDB.Size = new System.Drawing.Size(108, 25);
@@ -314,7 +315,7 @@
             // 
             // txtNgayBanHDB
             // 
-            this.txtNgayBanHDB.Location = new System.Drawing.Point(472, 18);
+            this.txtNgayBanHDB.Location = new System.Drawing.Point(469, 24);
             this.txtNgayBanHDB.Multiline = true;
             this.txtNgayBanHDB.Name = "txtNgayBanHDB";
             this.txtNgayBanHDB.Size = new System.Drawing.Size(125, 25);
@@ -324,11 +325,11 @@
             // lblTenkhachhang
             // 
             this.lblTenkhachhang.AutoSize = true;
-            this.lblTenkhachhang.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.lblTenkhachhang.BackColor = System.Drawing.Color.WhiteSmoke;
             this.lblTenkhachhang.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblTenkhachhang.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTenkhachhang.ForeColor = System.Drawing.Color.Red;
-            this.lblTenkhachhang.Location = new System.Drawing.Point(142, 19);
+            this.lblTenkhachhang.Location = new System.Drawing.Point(142, 26);
             this.lblTenkhachhang.Name = "lblTenkhachhang";
             this.lblTenkhachhang.Size = new System.Drawing.Size(77, 24);
             this.lblTenkhachhang.TabIndex = 6;
@@ -337,11 +338,11 @@
             // lblNgayBan
             // 
             this.lblNgayBan.AutoSize = true;
-            this.lblNgayBan.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.lblNgayBan.BackColor = System.Drawing.Color.White;
             this.lblNgayBan.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblNgayBan.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNgayBan.ForeColor = System.Drawing.Color.Red;
-            this.lblNgayBan.Location = new System.Drawing.Point(370, 19);
+            this.lblNgayBan.Location = new System.Drawing.Point(370, 26);
             this.lblNgayBan.Name = "lblNgayBan";
             this.lblNgayBan.Size = new System.Drawing.Size(93, 24);
             this.lblNgayBan.TabIndex = 7;
@@ -350,11 +351,11 @@
             // lblTongTienHDB
             // 
             this.lblTongTienHDB.AutoSize = true;
-            this.lblTongTienHDB.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.lblTongTienHDB.BackColor = System.Drawing.Color.White;
             this.lblTongTienHDB.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblTongTienHDB.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTongTienHDB.ForeColor = System.Drawing.Color.Red;
-            this.lblTongTienHDB.Location = new System.Drawing.Point(603, 18);
+            this.lblTongTienHDB.Location = new System.Drawing.Point(600, 25);
             this.lblTongTienHDB.Name = "lblTongTienHDB";
             this.lblTongTienHDB.Size = new System.Drawing.Size(97, 24);
             this.lblTongTienHDB.TabIndex = 8;
@@ -367,7 +368,7 @@
             this.panelKhachHang.Controls.Add(this.groupBox1);
             this.panelKhachHang.Location = new System.Drawing.Point(0, 0);
             this.panelKhachHang.Name = "panelKhachHang";
-            this.panelKhachHang.Size = new System.Drawing.Size(530, 309);
+            this.panelKhachHang.Size = new System.Drawing.Size(530, 311);
             this.panelKhachHang.TabIndex = 1;
             // 
             // groupBox1
@@ -394,16 +395,17 @@
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox1.Location = new System.Drawing.Point(0, 0);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(526, 305);
+            this.groupBox1.Size = new System.Drawing.Size(526, 307);
             this.groupBox1.TabIndex = 9;
             this.groupBox1.TabStop = false;
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // btnOKKH
             // 
             this.btnOKKH.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnOKKH.BackgroundImage")));
             this.btnOKKH.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnOKKH.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOKKH.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnOKKH.ForeColor = System.Drawing.Color.Black;
             this.btnOKKH.Location = new System.Drawing.Point(370, 10);
             this.btnOKKH.Name = "btnOKKH";
             this.btnOKKH.Size = new System.Drawing.Size(63, 33);
@@ -417,7 +419,7 @@
             this.btnCanCelKH.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCanCelKH.BackgroundImage")));
             this.btnCanCelKH.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCanCelKH.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCanCelKH.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCanCelKH.ForeColor = System.Drawing.Color.Black;
             this.btnCanCelKH.Location = new System.Drawing.Point(439, 10);
             this.btnCanCelKH.Name = "btnCanCelKH";
             this.btnCanCelKH.Size = new System.Drawing.Size(84, 33);
@@ -447,7 +449,7 @@
             // 
             // dgvKhachHang
             // 
-            this.dgvKhachHang.BackgroundColor = System.Drawing.Color.Teal;
+            this.dgvKhachHang.BackgroundColor = System.Drawing.Color.Honeydew;
             this.dgvKhachHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvKhachHang.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column5,
@@ -460,7 +462,7 @@
             this.Column8});
             this.dgvKhachHang.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.dgvKhachHang.GridColor = System.Drawing.Color.Maroon;
-            this.dgvKhachHang.Location = new System.Drawing.Point(3, 162);
+            this.dgvKhachHang.Location = new System.Drawing.Point(3, 164);
             this.dgvKhachHang.Name = "dgvKhachHang";
             this.dgvKhachHang.ReadOnly = true;
             this.dgvKhachHang.Size = new System.Drawing.Size(520, 140);
@@ -545,6 +547,7 @@
             // lblGioiTinh
             // 
             this.lblGioiTinh.AutoSize = true;
+            this.lblGioiTinh.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblGioiTinh.Location = new System.Drawing.Point(10, 91);
             this.lblGioiTinh.Name = "lblGioiTinh";
             this.lblGioiTinh.Size = new System.Drawing.Size(83, 21);
@@ -554,6 +557,7 @@
             // lblGhichu
             // 
             this.lblGhichu.AutoSize = true;
+            this.lblGhichu.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblGhichu.Location = new System.Drawing.Point(258, 131);
             this.lblGhichu.Name = "lblGhichu";
             this.lblGhichu.Size = new System.Drawing.Size(69, 21);
@@ -584,6 +588,7 @@
             // lblLoaiKH
             // 
             this.lblLoaiKH.AutoSize = true;
+            this.lblLoaiKH.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblLoaiKH.Location = new System.Drawing.Point(10, 126);
             this.lblLoaiKH.Name = "lblLoaiKH";
             this.lblLoaiKH.Size = new System.Drawing.Size(74, 21);
@@ -616,6 +621,7 @@
             // lblSoDT
             // 
             this.lblSoDT.AutoSize = true;
+            this.lblSoDT.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblSoDT.Location = new System.Drawing.Point(258, 52);
             this.lblSoDT.Name = "lblSoDT";
             this.lblSoDT.Size = new System.Drawing.Size(119, 21);
@@ -625,6 +631,7 @@
             // lblDiaCHi
             // 
             this.lblDiaCHi.AutoSize = true;
+            this.lblDiaCHi.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblDiaCHi.Location = new System.Drawing.Point(258, 93);
             this.lblDiaCHi.Name = "lblDiaCHi";
             this.lblDiaCHi.Size = new System.Drawing.Size(69, 21);
@@ -634,6 +641,7 @@
             // lblTenKH
             // 
             this.lblTenKH.AutoSize = true;
+            this.lblTenKH.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblTenKH.Location = new System.Drawing.Point(10, 52);
             this.lblTenKH.Name = "lblTenKH";
             this.lblTenKH.Size = new System.Drawing.Size(70, 21);
@@ -650,12 +658,12 @@
             this.panelSanPham.Dock = System.Windows.Forms.DockStyle.Right;
             this.panelSanPham.Location = new System.Drawing.Point(830, 0);
             this.panelSanPham.Name = "panelSanPham";
-            this.panelSanPham.Size = new System.Drawing.Size(642, 628);
+            this.panelSanPham.Size = new System.Drawing.Size(642, 692);
             this.panelSanPham.TabIndex = 2;
             // 
             // groupBox2
             // 
-            this.groupBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.groupBox2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.groupBox2.Controls.Add(this.btnCancelSP);
             this.groupBox2.Controls.Add(this.txtGiaBan);
             this.groupBox2.Controls.Add(this.lblSanPham);
@@ -673,7 +681,7 @@
             this.groupBox2.ForeColor = System.Drawing.Color.DarkRed;
             this.groupBox2.Location = new System.Drawing.Point(0, 0);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(638, 183);
+            this.groupBox2.Size = new System.Drawing.Size(638, 247);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Tìm Sản Phẩm";
@@ -683,10 +691,10 @@
             this.btnCancelSP.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCancelSP.BackgroundImage")));
             this.btnCancelSP.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCancelSP.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCancelSP.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCancelSP.ForeColor = System.Drawing.Color.Black;
             this.btnCancelSP.Location = new System.Drawing.Point(536, 15);
             this.btnCancelSP.Name = "btnCancelSP";
-            this.btnCancelSP.Size = new System.Drawing.Size(96, 33);
+            this.btnCancelSP.Size = new System.Drawing.Size(96, 28);
             this.btnCancelSP.TabIndex = 36;
             this.btnCancelSP.Text = "Refresh";
             this.btnCancelSP.UseVisualStyleBackColor = true;
@@ -708,9 +716,9 @@
             this.lblSanPham.ForeColor = System.Drawing.Color.Maroon;
             this.lblSanPham.Location = new System.Drawing.Point(233, 7);
             this.lblSanPham.Name = "lblSanPham";
-            this.lblSanPham.Size = new System.Drawing.Size(152, 36);
+            this.lblSanPham.Size = new System.Drawing.Size(149, 36);
             this.lblSanPham.TabIndex = 1;
-            this.lblSanPham.Text = "Sản Phẩm";
+            this.lblSanPham.Text = "Sản phẩm";
             // 
             // txtMaSP
             // 
@@ -799,7 +807,7 @@
             // 
             // dgvSanPham
             // 
-            this.dgvSanPham.BackgroundColor = System.Drawing.Color.Teal;
+            this.dgvSanPham.BackgroundColor = System.Drawing.SystemColors.ControlLight;
             this.dgvSanPham.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvSanPham.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column9,
@@ -811,7 +819,7 @@
             this.Column26});
             this.dgvSanPham.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.dgvSanPham.GridColor = System.Drawing.Color.Maroon;
-            this.dgvSanPham.Location = new System.Drawing.Point(0, 183);
+            this.dgvSanPham.Location = new System.Drawing.Point(0, 247);
             this.dgvSanPham.Name = "dgvSanPham";
             this.dgvSanPham.ReadOnly = true;
             this.dgvSanPham.Size = new System.Drawing.Size(638, 441);
@@ -871,7 +879,7 @@
             // 
             // panelTemp
             // 
-            this.panelTemp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.panelTemp.BackColor = System.Drawing.Color.Transparent;
             this.panelTemp.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panelTemp.Controls.Add(this.btnChonSP);
             this.panelTemp.Controls.Add(this.txtSoLuongMua);
@@ -888,7 +896,7 @@
             this.btnChonSP.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnChonSP.BackgroundImage")));
             this.btnChonSP.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnChonSP.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnChonSP.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnChonSP.ForeColor = System.Drawing.Color.Black;
             this.btnChonSP.Location = new System.Drawing.Point(110, 239);
             this.btnChonSP.Name = "btnChonSP";
             this.btnChonSP.Size = new System.Drawing.Size(100, 61);
@@ -922,9 +930,9 @@
             this.picSanPham.BackColor = System.Drawing.Color.Silver;
             this.picSanPham.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.picSanPham.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.picSanPham.Location = new System.Drawing.Point(85, 11);
+            this.picSanPham.Location = new System.Drawing.Point(5, -1);
             this.picSanPham.Name = "picSanPham";
-            this.picSanPham.Size = new System.Drawing.Size(142, 164);
+            this.picSanPham.Size = new System.Drawing.Size(288, 173);
             this.picSanPham.TabIndex = 0;
             this.picSanPham.TabStop = false;
             // 
@@ -932,13 +940,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.LightSkyBlue;
-            this.ClientSize = new System.Drawing.Size(1472, 628);
+            this.BackColor = System.Drawing.Color.Snow;
+            this.ClientSize = new System.Drawing.Size(1472, 692);
             this.Controls.Add(this.panelTemp);
             this.Controls.Add(this.panelSanPham);
             this.Controls.Add(this.panelKhachHang);
             this.Controls.Add(this.panelHoaDon);
             this.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.SystemColors.ActiveBorder;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;

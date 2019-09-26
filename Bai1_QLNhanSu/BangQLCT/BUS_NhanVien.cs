@@ -14,7 +14,7 @@ namespace BangQLCT
 
         public DataTable HienThiNhanVien()
         {
-            string sql = "SELECT * FROM tblNhanVien";
+            string sql = "SELECT * FROM dbo.NhanVien";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoi.connect());
             SqlDataAdapter da = new SqlDataAdapter(sql, con);

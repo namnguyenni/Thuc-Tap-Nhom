@@ -76,7 +76,7 @@
             // 
             // groupBoxDieuKhien
             // 
-            this.groupBoxDieuKhien.BackColor = System.Drawing.Color.PaleGoldenrod;
+            this.groupBoxDieuKhien.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.groupBoxDieuKhien.Controls.Add(this.btnXoa);
             this.groupBoxDieuKhien.Controls.Add(this.btnHuy);
             this.groupBoxDieuKhien.Controls.Add(this.btnSua);
@@ -223,6 +223,7 @@
             // 
             // txtMa
             // 
+            this.txtMa.BackColor = System.Drawing.SystemColors.HighlightText;
             this.txtMa.Enabled = false;
             this.txtMa.Location = new System.Drawing.Point(104, 20);
             this.txtMa.Name = "txtMa";
@@ -319,9 +320,9 @@
             this.label1.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(12, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 15);
+            this.label1.Size = new System.Drawing.Size(70, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Mã Bạn Đọc";
+            this.label1.Text = "Mã Độc Giả";
             // 
             // groupBox2
             // 
@@ -335,6 +336,7 @@
             this.groupBox2.Size = new System.Drawing.Size(970, 57);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
+            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // label11
             // 
@@ -391,7 +393,7 @@
             // 
             // dgvBanDoc
             // 
-            this.dgvBanDoc.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.dgvBanDoc.BackgroundColor = System.Drawing.SystemColors.Control;
             this.dgvBanDoc.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvBanDoc.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
@@ -409,6 +411,7 @@
             this.dgvBanDoc.Size = new System.Drawing.Size(964, 232);
             this.dgvBanDoc.TabIndex = 0;
             this.dgvBanDoc.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBanDoc_CellClick);
+            this.dgvBanDoc.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBanDoc_CellContentClick);
             // 
             // Column1
             // 
@@ -470,7 +473,7 @@
             // 
             this.Column9.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.Column9.DataPropertyName = "DienThoai";
-            this.Column9.HeaderText = "DienThoai";
+            this.Column9.HeaderText = "Số điện thoại";
             this.Column9.Name = "Column9";
             // 
             // DocGia
@@ -501,15 +504,6 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.DataGridView dgvBanDoc;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column8;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column9;
         private System.Windows.Forms.ComboBox cbGT;
         private System.Windows.Forms.DateTimePicker dtpNgaySinh;
         private System.Windows.Forms.TextBox txtDienThoai;
@@ -537,5 +531,14 @@
         private System.Windows.Forms.TextBox txtTimKiem;
         private System.Windows.Forms.ComboBox cbTK;
         private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column8;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column9;
     }
 }

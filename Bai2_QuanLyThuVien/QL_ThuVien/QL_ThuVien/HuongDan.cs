@@ -68,5 +68,10 @@ namespace QL_ThuVien
                 pictureBox1.BackgroundImage = img;
             }
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
