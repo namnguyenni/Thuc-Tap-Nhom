@@ -22,9 +22,9 @@ namespace BUS
             da.Dispose();
             return dt;
         }
-        public DataTable Show(string tenmon)
+        public DataTable Show(string TenMon)
         {
-            string sql = "SELECT gv.MaGV, gv.HoTen FROM dbo.GiaoVien gv, dbo.MonHoc mh where gv.MaMon = mh.MaMon and mh.TenMon=N'" + tenmon + "'";
+            string sql = "SELECT gv.MaGV, gv.HoTen FROM dbo.GiaoVien gv, dbo.MonHoc mh where gv.MaMon = mh.MaMon and mh.TenMon=N'" + TenMon + "'";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             conn.Open();
