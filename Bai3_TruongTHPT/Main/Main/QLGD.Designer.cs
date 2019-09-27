@@ -74,7 +74,7 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(757, 219);
             this.panel1.TabIndex = 1;
@@ -83,7 +83,7 @@
             // 
             this.cboTenLop.FormattingEnabled = true;
             this.cboTenLop.Location = new System.Drawing.Point(143, 25);
-            this.cboTenLop.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cboTenLop.Margin = new System.Windows.Forms.Padding(4);
             this.cboTenLop.Name = "cboTenLop";
             this.cboTenLop.Size = new System.Drawing.Size(243, 24);
             this.cboTenLop.TabIndex = 17;
@@ -93,7 +93,7 @@
             this.dateTimePicker1.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimePicker1.Location = new System.Drawing.Point(144, 146);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(243, 22);
             this.dateTimePicker1.TabIndex = 16;
@@ -101,63 +101,68 @@
             // 
             // btnThoat
             // 
+            this.btnThoat.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnThoat.Location = new System.Drawing.Point(587, 116);
-            this.btnThoat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(100, 41);
             this.btnThoat.TabIndex = 15;
             this.btnThoat.Text = "Thoát";
-            this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.UseVisualStyleBackColor = false;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // btnLuu
             // 
+            this.btnLuu.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnLuu.Location = new System.Drawing.Point(587, 68);
-            this.btnLuu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLuu.Margin = new System.Windows.Forms.Padding(4);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(100, 41);
             this.btnLuu.TabIndex = 14;
             this.btnLuu.Text = "Lưu";
-            this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.UseVisualStyleBackColor = false;
             this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // btnXoa
             // 
+            this.btnXoa.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnXoa.Location = new System.Drawing.Point(521, 166);
-            this.btnXoa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnXoa.Margin = new System.Windows.Forms.Padding(4);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(100, 41);
             this.btnXoa.TabIndex = 13;
             this.btnXoa.Text = "Xóa";
-            this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.UseVisualStyleBackColor = false;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnSua
             // 
+            this.btnSua.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnSua.Location = new System.Drawing.Point(449, 116);
-            this.btnSua.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSua.Margin = new System.Windows.Forms.Padding(4);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(100, 41);
             this.btnSua.TabIndex = 12;
             this.btnSua.Text = "Sửa";
-            this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.UseVisualStyleBackColor = false;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
             // btnThem
             // 
+            this.btnThem.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnThem.Location = new System.Drawing.Point(449, 68);
-            this.btnThem.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnThem.Margin = new System.Windows.Forms.Padding(4);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(100, 41);
             this.btnThem.TabIndex = 11;
             this.btnThem.Text = "Thêm";
-            this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.UseVisualStyleBackColor = false;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // txtTiet
             // 
             this.txtTiet.Location = new System.Drawing.Point(143, 183);
-            this.txtTiet.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTiet.Margin = new System.Windows.Forms.Padding(4);
             this.txtTiet.Name = "txtTiet";
             this.txtTiet.Size = new System.Drawing.Size(244, 22);
             this.txtTiet.TabIndex = 10;
@@ -186,7 +191,7 @@
             // 
             this.cboTenGV.FormattingEnabled = true;
             this.cboTenGV.Location = new System.Drawing.Point(144, 106);
-            this.cboTenGV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cboTenGV.Margin = new System.Windows.Forms.Padding(4);
             this.cboTenGV.Name = "cboTenGV";
             this.cboTenGV.Size = new System.Drawing.Size(243, 24);
             this.cboTenGV.TabIndex = 6;
@@ -205,7 +210,7 @@
             // 
             this.cboTenMon.FormattingEnabled = true;
             this.cboTenMon.Location = new System.Drawing.Point(143, 68);
-            this.cboTenMon.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cboTenMon.Margin = new System.Windows.Forms.Padding(4);
             this.cboTenMon.Name = "cboTenMon";
             this.cboTenMon.Size = new System.Drawing.Size(243, 24);
             this.cboTenMon.TabIndex = 4;
@@ -224,13 +229,14 @@
             // 
             // btnTim
             // 
-            this.btnTim.Location = new System.Drawing.Point(521, 15);
-            this.btnTim.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnTim.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnTim.Location = new System.Drawing.Point(521, 22);
+            this.btnTim.Margin = new System.Windows.Forms.Padding(4);
             this.btnTim.Name = "btnTim";
             this.btnTim.Size = new System.Drawing.Size(100, 28);
             this.btnTim.TabIndex = 2;
             this.btnTim.Text = "Tìm Kiếm";
-            this.btnTim.UseVisualStyleBackColor = true;
+            this.btnTim.UseVisualStyleBackColor = false;
             this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
             // label1
@@ -253,7 +259,7 @@
             this.Column3,
             this.Column4});
             this.dataGridView1.Location = new System.Drawing.Point(16, 226);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(725, 238);
@@ -295,7 +301,7 @@
             this.ClientSize = new System.Drawing.Size(757, 479);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "QLGD";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QLGD";

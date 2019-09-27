@@ -50,8 +50,7 @@
             this.menuStrip1.Size = new System.Drawing.Size(569, 30);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
-            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
-            // 
+
             // settingsToolStripMenuItem
             // 
             this.settingsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -63,8 +62,6 @@
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
             this.settingsToolStripMenuItem.Size = new System.Drawing.Size(59, 26);
             this.settingsToolStripMenuItem.Text = "Start";
-            this.settingsToolStripMenuItem.Click += new System.EventHandler(this.settingsToolStripMenuItem_Click);
-            // 
             // loginAsCashierToolStripMenuItem
             // 
             this.loginAsCashierToolStripMenuItem.Name = "loginAsCashierToolStripMenuItem";

@@ -241,5 +241,10 @@ namespace skelot
         {
 
         }
+
+        private void manageUsersToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
