@@ -135,7 +135,7 @@ namespace BusinessLogic
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
 
-            con n.Close();
+            conn.Close();
             cmd.Dispose();
             return dt;
         }

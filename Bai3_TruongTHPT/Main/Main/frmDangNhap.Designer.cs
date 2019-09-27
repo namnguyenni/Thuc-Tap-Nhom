@@ -59,7 +59,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(236, 224);
+            this.label2.Location = new System.Drawing.Point(240, 241);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(126, 26);
@@ -68,8 +68,8 @@
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(400, 228);
-            this.txtPass.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPass.Location = new System.Drawing.Point(412, 244);
+            this.txtPass.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(232, 22);
@@ -78,7 +78,7 @@
             // txtUserName
             // 
             this.txtUserName.Location = new System.Drawing.Point(400, 183);
-            this.txtUserName.Margin = new System.Windows.Forms.Padding(4);
+            this.txtUserName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(232, 22);
             this.txtUserName.TabIndex = 12;
@@ -88,7 +88,7 @@
             this.label13.AutoSize = true;
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(184, 179);
+            this.label13.Location = new System.Drawing.Point(184, 178);
             this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(178, 26);
@@ -117,8 +117,8 @@
             this.btnThoat.BackgroundImage = global::Main.Properties.Resources.exit_button_png_download_png_image_exit_png_image_575_600;
             this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnThoat.Location = new System.Drawing.Point(355, 371);
-            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
+            this.btnThoat.Location = new System.Drawing.Point(347, 401);
+            this.btnThoat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(100, 46);
             this.btnThoat.TabIndex = 15;
@@ -132,10 +132,10 @@
             this.btnDangNhap.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnDangNhap.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDangNhap.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.btnDangNhap.Location = new System.Drawing.Point(331, 299);
-            this.btnDangNhap.Margin = new System.Windows.Forms.Padding(4);
+            this.btnDangNhap.Location = new System.Drawing.Point(321, 319);
+            this.btnDangNhap.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(152, 64);
+            this.btnDangNhap.Size = new System.Drawing.Size(152, 74);
             this.btnDangNhap.TabIndex = 14;
             this.btnDangNhap.UseVisualStyleBackColor = false;
             this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
@@ -146,7 +146,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImage = global::Main.Properties.Resources._32b877ed4aa7778cc7d43ebb7d95a6f1;
-            this.ClientSize = new System.Drawing.Size(842, 531);
+            this.ClientSize = new System.Drawing.Size(843, 530);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnThoat);
@@ -154,7 +154,7 @@
             this.Controls.Add(this.txtPass);
             this.Controls.Add(this.txtUserName);
             this.Controls.Add(this.label13);
-            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmDangNhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmDangNhap";

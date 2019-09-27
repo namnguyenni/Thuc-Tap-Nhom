@@ -14,11 +14,11 @@ namespace BUS
         {
             string sql = @"select * from dbo.MonHoc";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
-            con.Close();
+            conn.Close();
             da.Dispose();
             return dt;
         }

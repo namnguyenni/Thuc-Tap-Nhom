@@ -47,10 +47,9 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label2.Location = new System.Drawing.Point(163, 238);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(122, 206);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(132, 29);
+            this.label2.Size = new System.Drawing.Size(102, 24);
             this.label2.TabIndex = 15;
             this.label2.Text = "Password :";
             // 
@@ -60,10 +59,9 @@
             this.btnThoat.BackgroundImage = global::QL_KhoHang.Properties.Resources.exit_button_png_download_png_image_exit_png_image_575_600;
             this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnThoat.Location = new System.Drawing.Point(321, 386);
-            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
+            this.btnThoat.Location = new System.Drawing.Point(230, 343);
             this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(95, 45);
+            this.btnThoat.Size = new System.Drawing.Size(71, 37);
             this.btnThoat.TabIndex = 14;
             this.btnThoat.UseVisualStyleBackColor = false;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
@@ -76,30 +74,27 @@
             this.btnDangNhap.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDangNhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDangNhap.ForeColor = System.Drawing.Color.Transparent;
-            this.btnDangNhap.Location = new System.Drawing.Point(280, 293);
-            this.btnDangNhap.Margin = new System.Windows.Forms.Padding(4);
+            this.btnDangNhap.Location = new System.Drawing.Point(198, 266);
             this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(184, 74);
+            this.btnDangNhap.Size = new System.Drawing.Size(138, 60);
             this.btnDangNhap.TabIndex = 13;
             this.btnDangNhap.UseVisualStyleBackColor = false;
             this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(307, 245);
-            this.txtPass.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPass.Location = new System.Drawing.Point(230, 210);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
-            this.txtPass.Size = new System.Drawing.Size(199, 22);
+            this.txtPass.Size = new System.Drawing.Size(170, 20);
             this.txtPass.TabIndex = 12;
             this.txtPass.TextChanged += new System.EventHandler(this.txtPass_TextChanged);
             // 
             // txtUserName
             // 
-            this.txtUserName.Location = new System.Drawing.Point(307, 200);
-            this.txtUserName.Margin = new System.Windows.Forms.Padding(4);
+            this.txtUserName.Location = new System.Drawing.Point(230, 162);
             this.txtUserName.Name = "txtUserName";
-            this.txtUserName.Size = new System.Drawing.Size(199, 22);
+            this.txtUserName.Size = new System.Drawing.Size(196, 20);
             this.txtUserName.TabIndex = 11;
             // 
             // label13
@@ -108,10 +103,9 @@
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label13.Location = new System.Drawing.Point(163, 193);
-            this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label13.Location = new System.Drawing.Point(122, 157);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(136, 29);
+            this.label13.Size = new System.Drawing.Size(107, 24);
             this.label13.TabIndex = 10;
             this.label13.Text = "Username :";
             // 
@@ -121,10 +115,9 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.AliceBlue;
-            this.label3.Location = new System.Drawing.Point(96, 116);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(72, 94);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(552, 38);
+            this.label3.Size = new System.Drawing.Size(441, 31);
             this.label3.TabIndex = 17;
             this.label3.Text = "HỆ THỐNG QUẢN LÍ KHO HÀNG";
             this.label3.Click += new System.EventHandler(this.label3_Click);
@@ -147,12 +140,12 @@
             // 
             // frmDangNhap
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.BackgroundImage = global::QL_KhoHang.Properties.Resources.login_background1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(745, 524);
+            this.ClientSize = new System.Drawing.Size(559, 426);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnThoat);
@@ -160,7 +153,6 @@
             this.Controls.Add(this.txtPass);
             this.Controls.Add(this.txtUserName);
             this.Controls.Add(this.label13);
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmDangNhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmDangNhap";

@@ -13,10 +13,9 @@ namespace BangThuVien
         public bool DangNhap(string Username, string Pass)
         {
             string sql = "SELECT * FROM dbo.TaiKhoan WHERE ID='" + Username + "' AND MatKhau='" + Pass + "'";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
             DataTable dt = new DataTable();
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
-
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
             if (dt.Rows.Count > 0)
             {
