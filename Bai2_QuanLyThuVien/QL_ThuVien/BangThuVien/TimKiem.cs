@@ -10,7 +10,7 @@ namespace BangThuVien
 {
     public class TimKiem
     {
-        KetNoi con = new KetNoi();
+        KetNoi cn = new KetNoi();
 
 
         // Tìm kiếm Tài liệu theo mã

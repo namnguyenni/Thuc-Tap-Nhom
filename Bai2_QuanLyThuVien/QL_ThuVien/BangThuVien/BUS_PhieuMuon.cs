@@ -36,7 +36,7 @@ namespace BangThuVien
         }
         public void UpdateTTPM_TraSach(string _MaPM)
         {
-            string str = string.Format("Update PhieuMuon set TrangThai = -1 where MaPM = '" + _MaPM + "'");
+            string str = string.Format("Update PhieuMuon set TrangThai = -1 where MaPM ='" + _MaPM +"'");
             SqlConnection conn = new SqlConnection(AppConfig.connectionString());
             conn.Open();
 

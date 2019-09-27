@@ -10,7 +10,7 @@ namespace BangThuVien
 {
     public class BUS_BanDoc
     {
-        KetNoi cn = new KetNoi();
+        KetNoi con = new KetNoi();
         dbConnection dbcon = new dbConnection();
 
         public DataTable TimKiemBDID(string _MaBD)
@@ -28,8 +28,8 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.BanDoc";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
             return dt;
         }
@@ -92,9 +92,9 @@ namespace BangThuVien
             string str = string.Format("ThongKeSachDaMuon");
             DataTable dt = new DataTable();
 
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(str, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(str, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaBD", _MaBD);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
