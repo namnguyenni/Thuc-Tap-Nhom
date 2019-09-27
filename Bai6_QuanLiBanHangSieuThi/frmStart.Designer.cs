@@ -40,13 +40,17 @@
             // menuStrip1
             // 
             this.menuStrip1.BackColor = System.Drawing.Color.Gainsboro;
+            this.menuStrip1.Font = new System.Drawing.Font("Times New Roman", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.settingsToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(368, 29);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(569, 30);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // settingsToolStripMenuItem
             // 
@@ -54,45 +58,47 @@
             this.loginAsCashierToolStripMenuItem,
             this.loginAsAdminToolStripMenuItem,
             this.logoutToolStripMenuItem1});
-            this.settingsToolStripMenuItem.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.settingsToolStripMenuItem.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.settingsToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
-            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(60, 25);
+            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(59, 26);
             this.settingsToolStripMenuItem.Text = "Start";
+            this.settingsToolStripMenuItem.Click += new System.EventHandler(this.settingsToolStripMenuItem_Click);
             // 
             // loginAsCashierToolStripMenuItem
             // 
             this.loginAsCashierToolStripMenuItem.Name = "loginAsCashierToolStripMenuItem";
-            this.loginAsCashierToolStripMenuItem.Size = new System.Drawing.Size(204, 26);
+            this.loginAsCashierToolStripMenuItem.Size = new System.Drawing.Size(219, 26);
             this.loginAsCashierToolStripMenuItem.Text = "Login as Cashier";
             this.loginAsCashierToolStripMenuItem.Click += new System.EventHandler(this.loginAsCashierToolStripMenuItem_Click);
             // 
             // loginAsAdminToolStripMenuItem
             // 
             this.loginAsAdminToolStripMenuItem.Name = "loginAsAdminToolStripMenuItem";
-            this.loginAsAdminToolStripMenuItem.Size = new System.Drawing.Size(204, 26);
+            this.loginAsAdminToolStripMenuItem.Size = new System.Drawing.Size(219, 26);
             this.loginAsAdminToolStripMenuItem.Text = "Login as Admin";
             this.loginAsAdminToolStripMenuItem.Click += new System.EventHandler(this.loginAsAdminToolStripMenuItem_Click);
             // 
             // logoutToolStripMenuItem1
             // 
             this.logoutToolStripMenuItem1.Name = "logoutToolStripMenuItem1";
-            this.logoutToolStripMenuItem1.Size = new System.Drawing.Size(204, 26);
+            this.logoutToolStripMenuItem1.Size = new System.Drawing.Size(219, 26);
             this.logoutToolStripMenuItem1.Text = "Exit";
             this.logoutToolStripMenuItem1.Click += new System.EventHandler(this.logoutToolStripMenuItem1_Click);
             // 
             // frmStart
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(368, 161);
+            this.ClientSize = new System.Drawing.Size(569, 321);
             this.Controls.Add(this.menuStrip1);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmStart";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmStart";

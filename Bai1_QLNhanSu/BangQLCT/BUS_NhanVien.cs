@@ -10,14 +10,14 @@ namespace BangQLCT
 {
     public class BUS_NhanVien
     {
-        KetNoi cn = new KetNoi();
+        KetNoi con = new KetNoi();
 
         public DataTable HienThiNhanVien()
         {
             string sql = "SELECT * FROM dbo.NhanVien";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
             return dt;
         }
@@ -25,9 +25,9 @@ namespace BangQLCT
         public void ThemNhanVien(string HoDem, string TenNV, string NS, string GT, string LUONG, string DC, string Ma_NQL, string MaDV, string ChucVu, string DT)
         {
             string sql = "ADDNhanVien";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@HoDem", HoDem);
             cmd.Parameters.AddWithValue("@TenNV", TenNV);
@@ -41,7 +41,7 @@ namespace BangQLCT
             cmd.Parameters.AddWithValue("@DT", DT);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public void SuaNhanVien(string MaNV, string HoDem, string TenNV, string NS, string GT, string LUONG, string DC, string Ma_NQL, string MaDV, string ChucVu, string DT)

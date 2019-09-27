@@ -37,9 +37,9 @@ namespace BangThuVien
         public void ThemBanDoc(string HoTen, string GioiTinh, DateTime NgaySinh, string CMND, string MaLop, string DiaChi, string Email, string DienThoai)
         {
             string sql = "ADDBanDoc";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@HoTen", HoTen);
             cmd.Parameters.AddWithValue("@GioiTinh", GioiTinh);
@@ -51,15 +51,15 @@ namespace BangThuVien
             cmd.Parameters.AddWithValue("@DienThoai", DienThoai);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public void SuaBanDoc(string MaBD, string HoTen, string GioiTinh, DateTime NgaySinh, string CMND, string MaLop, string DiaChi, string Email, string DienThoai)
         {
             string sql = "SuaBanDoc";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaBD", MaBD);
             cmd.Parameters.AddWithValue("@HoTen", HoTen);
@@ -72,20 +72,20 @@ namespace BangThuVien
             cmd.Parameters.AddWithValue("@DienThoai", DienThoai);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public void XoaBanDoc(string MaBD)
         {
             string sql = "Xoa_BD";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaBD", MaBD);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
         public DataTable ThongKeSachDaMuonTheoID(string _MaBD)
         {

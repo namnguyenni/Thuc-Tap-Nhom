@@ -15,9 +15,9 @@ namespace BUS
         {
             string sql = "TK_GV_HoTen";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@HoTen", HoTen);
@@ -31,9 +31,9 @@ namespace BUS
         {
             string sql = "TK_HS_HoTen";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@HoTen", HoTen);
@@ -47,9 +47,9 @@ namespace BUS
         {
             string sql = "SELECT * FROM dbo.HocSinh WHERE MaHS like N'%' + @MaHS + '%'";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             //cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@MaHS", Ma);
@@ -63,9 +63,9 @@ namespace BUS
         {
             string sql = "SELECT * FROM dbo.GiaoVien WHERE MaGV like N'%' + @MaGV + '%'";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             //cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@MaGV", Ma);
@@ -78,9 +78,9 @@ namespace BUS
         {
             string sql = "SELECT * FROM dbo.Lop WHERE MaLop like N'%' + @MaLop + '%'";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             //cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@MaLop", MaLop);
@@ -93,9 +93,9 @@ namespace BUS
         {
             string sql = "SELECT * FROM dbo.Lop WHERE TenLop like N'%' + @TenLop + '%'";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             //cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@TenLop", TenLop);
