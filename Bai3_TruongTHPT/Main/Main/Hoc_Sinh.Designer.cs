@@ -184,7 +184,7 @@
             // cbLop
             // 
             this.cbLop.FormattingEnabled = true;
-            this.cbLop.Location = new System.Drawing.Point(107, 173);
+            this.cbLop.Location = new System.Drawing.Point(107, 167);
             this.cbLop.Name = "cbLop";
             this.cbLop.Size = new System.Drawing.Size(177, 21);
             this.cbLop.TabIndex = 53;
@@ -218,7 +218,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(32, 175);
+            this.label10.Location = new System.Drawing.Point(32, 170);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(25, 13);
             this.label10.TabIndex = 49;
@@ -313,7 +313,7 @@
             this.cbTK_HS.Items.AddRange(new object[] {
             "Mã",
             "Họ Tên"});
-            this.cbTK_HS.Location = new System.Drawing.Point(107, 17);
+            this.cbTK_HS.Location = new System.Drawing.Point(125, 16);
             this.cbTK_HS.Name = "cbTK_HS";
             this.cbTK_HS.Size = new System.Drawing.Size(177, 21);
             this.cbTK_HS.TabIndex = 63;

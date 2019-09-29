@@ -66,7 +66,7 @@
             // 
             // txttk_NSX
             // 
-            this.txttk_NSX.Location = new System.Drawing.Point(470, 34);
+            this.txttk_NSX.Location = new System.Drawing.Point(475, 34);
             this.txttk_NSX.Name = "txttk_NSX";
             this.txttk_NSX.Size = new System.Drawing.Size(121, 20);
             this.txttk_NSX.TabIndex = 90;
@@ -83,7 +83,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(381, 34);
+            this.label8.Location = new System.Drawing.Point(385, 37);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(70, 13);
             this.label8.TabIndex = 88;
@@ -177,7 +177,7 @@
             // 
             // txtMoTa
             // 
-            this.txtMoTa.Location = new System.Drawing.Point(101, 142);
+            this.txtMoTa.Location = new System.Drawing.Point(101, 141);
             this.txtMoTa.Multiline = true;
             this.txtMoTa.Name = "txtMoTa";
             this.txtMoTa.ScrollBars = System.Windows.Forms.ScrollBars.Both;
