@@ -10,7 +10,7 @@ namespace BUS
 {
     public class ConnectDB
     {
-        SqlConnection cn = new SqlConnection();
+        SqlConnection con = new SqlConnection();
         static public String getconnect()
         {
             return (@"Data Source=DESKTOP-42NHODK;Initial Catalog=TruongTHPT;Integrated Security=True");

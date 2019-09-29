@@ -199,7 +199,7 @@
             // 
             this.dtpNgaySinhGV.CustomFormat = "MM/dd/yyyy";
             this.dtpNgaySinhGV.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpNgaySinhGV.Location = new System.Drawing.Point(409, 83);
+            this.dtpNgaySinhGV.Location = new System.Drawing.Point(409, 80);
             this.dtpNgaySinhGV.Name = "dtpNgaySinhGV";
             this.dtpNgaySinhGV.Size = new System.Drawing.Size(121, 20);
             this.dtpNgaySinhGV.TabIndex = 34;
