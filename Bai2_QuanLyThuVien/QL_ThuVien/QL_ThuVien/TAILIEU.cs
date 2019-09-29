@@ -148,5 +148,10 @@ namespace QL_ThuVien
         {
 
         }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

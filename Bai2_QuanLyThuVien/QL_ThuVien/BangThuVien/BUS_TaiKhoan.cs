@@ -11,7 +11,7 @@ namespace BangThuVien
 {
     public class BUS_TaiKhoan
     {
-        KetNoi conn = new KetNoi();
+        KetNoi cn = new KetNoi();
         dbConnection dbcon = new dbConnection();
 
         public DataTable HienThi()

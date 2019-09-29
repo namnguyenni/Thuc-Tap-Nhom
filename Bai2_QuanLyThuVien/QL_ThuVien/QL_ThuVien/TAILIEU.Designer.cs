@@ -279,7 +279,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(359, 145);
+            this.label5.Location = new System.Drawing.Point(359, 141);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(50, 16);
             this.label5.TabIndex = 31;
@@ -406,6 +406,7 @@
             this.label9.Size = new System.Drawing.Size(98, 16);
             this.label9.TabIndex = 0;
             this.label9.Text = "Tìm kiếm theo :";
+            this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // groupBox3
             // 

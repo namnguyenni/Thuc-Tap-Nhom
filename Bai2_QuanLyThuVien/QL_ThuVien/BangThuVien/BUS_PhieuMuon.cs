@@ -22,42 +22,42 @@ namespace BangThuVien
             arrpara[0] = new SqlParameter("@MaBD", SqlDbType.NVarChar, 10);
             arrpara[0].Value = _MaBD;
 
-            SqlConnection conn = new SqlConnection(AppConfig.connectionString());
-            conn.Open();
+            SqlConnection con = new SqlConnection(AppConfig.connectionString());
+            con.Open();
             
-            SqlCommand cmd = new SqlCommand(str, conn);
+            SqlCommand cmd = new SqlCommand(str, con);
             cmd.Parameters.AddRange(arrpara);
             cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
-            conn.Close();
+            con.Close();
             //dt = dbcon.executeSelectProcedureQuery(str, arrpara);
             return dt;
         }
         public void UpdateTTPM_TraSach(string _MaPM)
         {
             string str = string.Format("Update PhieuMuon set TrangThai = -1 where MaPM ='" + _MaPM +"'");
-            SqlConnection conn = new SqlConnection(AppConfig.connectionString());
-            conn.Open();
+            SqlConnection con = new SqlConnection(AppConfig.connectionString());
+            con.Open();
 
-            SqlCommand cmd = new SqlCommand(str, conn);
+            SqlCommand cmd = new SqlCommand(str, con);
             cmd.CommandType = CommandType.Text;
             cmd.ExecuteNonQuery();
-            conn.Close();
+            con.Close();
         }
         public void UpdateTrangThaiPM_TraSach(string _MaSach)
         {
             DataTable dt = new DataTable();
             string str = string.Format("LayMaPM_MaSach");
-            SqlConnection conn = new SqlConnection(AppConfig.connectionString());
-            conn.Open();
+            SqlConnection con = new SqlConnection(AppConfig.connectionString());
+            con.Open();
 
-            SqlCommand cmd = new SqlCommand(str, conn);
+            SqlCommand cmd = new SqlCommand(str, con);
             cmd.Parameters.AddWithValue("@MaSach", _MaSach);
             cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
-            conn.Close();
+            con.Close();
             for (int i = 0; i < dt.Rows.Count; i++)
             {
                 UpdateTTPM_TraSach(dt.Rows[i]["MaPM"].ToString());
