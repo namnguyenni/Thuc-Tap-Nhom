@@ -14,7 +14,7 @@ namespace BusinessLogic
         KetNoiDB da = new KetNoiDB();
         public DataTable ShowCTHD(string DieuKien)
         {
-            string sql = @"SELECT MaSP, SoLuong, DonGia, ThanhTien FROM CHITIETHOADONNHAP " + DieuKien;
+            string sql = @"SELECT MaSP, SoLuong, DonGia, ThanhTien FROM dbo.CHITIETHOADONNHAP " + DieuKien;
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             SqlDataAdapter ad = new SqlDataAdapter(sql, con);

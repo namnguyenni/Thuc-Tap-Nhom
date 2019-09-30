@@ -319,3 +319,21 @@ E:\Githubs\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBan
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
 G:\ki 1\8. Thực tập nhóm\Clone-Hoang Anh-Thi\Bai6_BanHangChoSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmBanHang.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmHuongDan.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmInHDB.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThongKe.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Main.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmLoaiHang.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmSanPham.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.frmThemHD.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
