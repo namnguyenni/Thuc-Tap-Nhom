@@ -63,5 +63,10 @@ namespace Bai5_QLKhachSan
             hd.SuaHD(cboMaHD.Text, long.Parse(txtTien.Text), dateTimePicker2.Value);
             MessageBox.Show("Thêm dữ liệu thành công");
         }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

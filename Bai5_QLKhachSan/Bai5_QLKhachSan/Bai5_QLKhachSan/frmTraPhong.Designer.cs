@@ -110,7 +110,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(329, 42);
+            this.label4.Location = new System.Drawing.Point(316, 48);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(66, 13);
             this.label4.TabIndex = 4;
@@ -119,17 +119,18 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(329, 11);
+            this.label5.Location = new System.Drawing.Point(316, 14);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(80, 13);
             this.label5.TabIndex = 5;
             this.label5.Text = "Thời gian mượn";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(464, 84);
+            this.label6.Location = new System.Drawing.Point(451, 95);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(61, 13);
             this.label6.TabIndex = 6;
@@ -151,7 +152,7 @@
             // 
             this.dateTimePicker1.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.dateTimePicker1.Location = new System.Drawing.Point(415, 8);
+            this.dateTimePicker1.Location = new System.Drawing.Point(415, 13);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(143, 20);
             this.dateTimePicker1.TabIndex = 11;
@@ -167,7 +168,7 @@
             // 
             // txtTien
             // 
-            this.txtTien.Location = new System.Drawing.Point(424, 101);
+            this.txtTien.Location = new System.Drawing.Point(424, 128);
             this.txtTien.Name = "txtTien";
             this.txtTien.Size = new System.Drawing.Size(134, 20);
             this.txtTien.TabIndex = 13;
@@ -199,7 +200,7 @@
             // cboMaHD
             // 
             this.cboMaHD.FormattingEnabled = true;
-            this.cboMaHD.Location = new System.Drawing.Point(95, 8);
+            this.cboMaHD.Location = new System.Drawing.Point(99, 19);
             this.cboMaHD.Name = "cboMaHD";
             this.cboMaHD.Size = new System.Drawing.Size(157, 21);
             this.cboMaHD.TabIndex = 16;
@@ -207,7 +208,7 @@
             // cboTenPhong
             // 
             this.cboTenPhong.FormattingEnabled = true;
-            this.cboTenPhong.Location = new System.Drawing.Point(95, 40);
+            this.cboTenPhong.Location = new System.Drawing.Point(99, 48);
             this.cboTenPhong.Name = "cboTenPhong";
             this.cboTenPhong.Size = new System.Drawing.Size(157, 21);
             this.cboTenPhong.TabIndex = 17;

@@ -67,37 +67,5 @@ namespace BangKhachSan
             }
             catch { }
         }
-
-
-        // them phong
-        public void ThemPhong(string TenPhong, string LoaiPhong)
-        {
-            string sql = "ADDPhong";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
-            cmd.CommandType = CommandType.StoredProcedure;
-
-            cmd.Parameters.AddWithValue("@TenPhong", TenPhong);
-            cmd.Parameters.AddWithValue("@LoaiPhong", LoaiPhong);
-
-            cmd.ExecuteNonQuery();
-            cmd.Dispose();
-            con.Close();
-        }
-
-        public void SuaCTHD(string MaHD, string MaPhong, string MaDV, long TongTien, DateTime TGMuon, DateTime TGTra)
-        {
-            string sql = "SuaCTHD";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
-            cmd.CommandType = CommandType.StoredProcedure;
-
-            cmd.ExecuteNonQuery();
-
-            cmd.Dispose();
-            con.Close();
-        }
     }
 }
