@@ -137,13 +137,14 @@
             // 
             // btnTim
             // 
+            this.btnTim.BackColor = System.Drawing.Color.Gold;
             this.btnTim.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTim.Location = new System.Drawing.Point(118, 79);
+            this.btnTim.Location = new System.Drawing.Point(120, 73);
             this.btnTim.Name = "btnTim";
-            this.btnTim.Size = new System.Drawing.Size(75, 23);
+            this.btnTim.Size = new System.Drawing.Size(75, 35);
             this.btnTim.TabIndex = 10;
             this.btnTim.Text = "Tìm";
-            this.btnTim.UseVisualStyleBackColor = true;
+            this.btnTim.UseVisualStyleBackColor = false;
             this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
             // dateTimePicker1
@@ -173,24 +174,26 @@
             // 
             // btnTinhTien
             // 
+            this.btnTinhTien.BackColor = System.Drawing.Color.Gold;
             this.btnTinhTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTinhTien.Location = new System.Drawing.Point(307, 91);
+            this.btnTinhTien.Location = new System.Drawing.Point(307, 84);
             this.btnTinhTien.Name = "btnTinhTien";
-            this.btnTinhTien.Size = new System.Drawing.Size(75, 30);
+            this.btnTinhTien.Size = new System.Drawing.Size(75, 37);
             this.btnTinhTien.TabIndex = 14;
             this.btnTinhTien.Text = "Tính tiền";
-            this.btnTinhTien.UseVisualStyleBackColor = true;
+            this.btnTinhTien.UseVisualStyleBackColor = false;
             this.btnTinhTien.Click += new System.EventHandler(this.btnTinhTien_Click);
             // 
             // btnLuu
             // 
+            this.btnLuu.BackColor = System.Drawing.Color.Gold;
             this.btnLuu.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLuu.Location = new System.Drawing.Point(307, 138);
             this.btnLuu.Name = "btnLuu";
-            this.btnLuu.Size = new System.Drawing.Size(75, 31);
+            this.btnLuu.Size = new System.Drawing.Size(75, 36);
             this.btnLuu.TabIndex = 15;
             this.btnLuu.Text = "Lưu";
-            this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.UseVisualStyleBackColor = false;
             this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // cboMaHD

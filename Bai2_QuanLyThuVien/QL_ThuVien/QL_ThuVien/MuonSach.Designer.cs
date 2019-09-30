@@ -310,24 +310,26 @@
             // 
             // btnHuy
             // 
+            this.btnHuy.BackColor = System.Drawing.SystemColors.HotTrack;
             this.btnHuy.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnHuy.Location = new System.Drawing.Point(0, 163);
+            this.btnHuy.Location = new System.Drawing.Point(0, 184);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(111, 46);
             this.btnHuy.TabIndex = 1;
             this.btnHuy.Text = "Hủy";
-            this.btnHuy.UseVisualStyleBackColor = true;
+            this.btnHuy.UseVisualStyleBackColor = false;
             this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click);
             // 
             // btnOK
             // 
+            this.btnOK.BackColor = System.Drawing.Color.Lime;
             this.btnOK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOK.Location = new System.Drawing.Point(0, 83);
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(109, 50);
             this.btnOK.TabIndex = 0;
             this.btnOK.Text = "Hoàn Tất Mượn";
-            this.btnOK.UseVisualStyleBackColor = true;
+            this.btnOK.UseVisualStyleBackColor = false;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
             // 
             // MuonSach

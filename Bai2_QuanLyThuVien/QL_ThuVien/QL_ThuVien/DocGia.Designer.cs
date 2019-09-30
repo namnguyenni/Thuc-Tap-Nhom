@@ -112,7 +112,7 @@
             // 
             this.btnXoa.BackColor = System.Drawing.Color.Maroon;
             this.btnXoa.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXoa.Location = new System.Drawing.Point(847, 55);
+            this.btnXoa.Location = new System.Drawing.Point(752, 58);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 42);
             this.btnXoa.TabIndex = 22;
@@ -136,7 +136,7 @@
             // 
             this.btnSua.BackColor = System.Drawing.Color.Green;
             this.btnSua.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSua.Location = new System.Drawing.Point(746, 83);
+            this.btnSua.Location = new System.Drawing.Point(752, 112);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 42);
             this.btnSua.TabIndex = 20;

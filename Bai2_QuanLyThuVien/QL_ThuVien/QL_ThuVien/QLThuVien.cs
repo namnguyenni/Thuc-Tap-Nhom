@@ -53,5 +53,15 @@ namespace QL_ThuVien
             frmTraSach frm = new frmTraSach();
             frm.Show();
         }
+
+        private void picBackground_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }

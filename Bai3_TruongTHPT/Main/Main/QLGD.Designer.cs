@@ -31,11 +31,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.cboTenLop = new System.Windows.Forms.ComboBox();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.btnThoat = new System.Windows.Forms.Button();
-            this.btnLuu = new System.Windows.Forms.Button();
-            this.btnXoa = new System.Windows.Forms.Button();
-            this.btnSua = new System.Windows.Forms.Button();
-            this.btnThem = new System.Windows.Forms.Button();
             this.txtTiet = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -43,13 +38,18 @@
             this.label3 = new System.Windows.Forms.Label();
             this.cboTenMon = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.btnTim = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.btnThoat = new System.Windows.Forms.Button();
+            this.btnLuu = new System.Windows.Forms.Button();
+            this.btnXoa = new System.Windows.Forms.Button();
+            this.btnSua = new System.Windows.Forms.Button();
+            this.btnThem = new System.Windows.Forms.Button();
+            this.btnTim = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -98,66 +98,6 @@
             this.dateTimePicker1.Size = new System.Drawing.Size(243, 22);
             this.dateTimePicker1.TabIndex = 16;
             this.dateTimePicker1.Value = new System.DateTime(2015, 11, 30, 0, 0, 0, 0);
-            // 
-            // btnThoat
-            // 
-            this.btnThoat.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnThoat.Location = new System.Drawing.Point(587, 116);
-            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
-            this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(100, 41);
-            this.btnThoat.TabIndex = 15;
-            this.btnThoat.Text = "Thoát";
-            this.btnThoat.UseVisualStyleBackColor = false;
-            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
-            // 
-            // btnLuu
-            // 
-            this.btnLuu.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnLuu.Location = new System.Drawing.Point(587, 68);
-            this.btnLuu.Margin = new System.Windows.Forms.Padding(4);
-            this.btnLuu.Name = "btnLuu";
-            this.btnLuu.Size = new System.Drawing.Size(100, 41);
-            this.btnLuu.TabIndex = 14;
-            this.btnLuu.Text = "Lưu";
-            this.btnLuu.UseVisualStyleBackColor = false;
-            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
-            // 
-            // btnXoa
-            // 
-            this.btnXoa.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnXoa.Location = new System.Drawing.Point(521, 166);
-            this.btnXoa.Margin = new System.Windows.Forms.Padding(4);
-            this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(100, 41);
-            this.btnXoa.TabIndex = 13;
-            this.btnXoa.Text = "Xóa";
-            this.btnXoa.UseVisualStyleBackColor = false;
-            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
-            // 
-            // btnSua
-            // 
-            this.btnSua.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnSua.Location = new System.Drawing.Point(449, 116);
-            this.btnSua.Margin = new System.Windows.Forms.Padding(4);
-            this.btnSua.Name = "btnSua";
-            this.btnSua.Size = new System.Drawing.Size(100, 41);
-            this.btnSua.TabIndex = 12;
-            this.btnSua.Text = "Sửa";
-            this.btnSua.UseVisualStyleBackColor = false;
-            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
-            // 
-            // btnThem
-            // 
-            this.btnThem.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnThem.Location = new System.Drawing.Point(449, 68);
-            this.btnThem.Margin = new System.Windows.Forms.Padding(4);
-            this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(100, 41);
-            this.btnThem.TabIndex = 11;
-            this.btnThem.Text = "Thêm";
-            this.btnThem.UseVisualStyleBackColor = false;
-            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // txtTiet
             // 
@@ -227,18 +167,6 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "Tên Môn";
             // 
-            // btnTim
-            // 
-            this.btnTim.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnTim.Location = new System.Drawing.Point(521, 22);
-            this.btnTim.Margin = new System.Windows.Forms.Padding(4);
-            this.btnTim.Name = "btnTim";
-            this.btnTim.Size = new System.Drawing.Size(100, 28);
-            this.btnTim.TabIndex = 2;
-            this.btnTim.Text = "Tìm Kiếm";
-            this.btnTim.UseVisualStyleBackColor = false;
-            this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -293,6 +221,97 @@
             this.Column4.DataPropertyName = "Tiet";
             this.Column4.HeaderText = "Tiết";
             this.Column4.Name = "Column4";
+            // 
+            // btnThoat
+            // 
+            this.btnThoat.BackColor = System.Drawing.Color.Transparent;
+            this.btnThoat.BackgroundImage = global::Main.Properties.Resources.white_background_gold_button_md;
+            this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnThoat.Location = new System.Drawing.Point(587, 116);
+            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
+            this.btnThoat.Name = "btnThoat";
+            this.btnThoat.Size = new System.Drawing.Size(100, 41);
+            this.btnThoat.TabIndex = 15;
+            this.btnThoat.Text = "Thoát";
+            this.btnThoat.UseVisualStyleBackColor = false;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
+            // 
+            // btnLuu
+            // 
+            this.btnLuu.BackColor = System.Drawing.Color.Transparent;
+            this.btnLuu.BackgroundImage = global::Main.Properties.Resources.white_background_gold_button_md;
+            this.btnLuu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnLuu.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnLuu.Location = new System.Drawing.Point(587, 68);
+            this.btnLuu.Margin = new System.Windows.Forms.Padding(4);
+            this.btnLuu.Name = "btnLuu";
+            this.btnLuu.Size = new System.Drawing.Size(100, 41);
+            this.btnLuu.TabIndex = 14;
+            this.btnLuu.Text = "Lưu";
+            this.btnLuu.UseVisualStyleBackColor = false;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
+            // 
+            // btnXoa
+            // 
+            this.btnXoa.BackColor = System.Drawing.Color.Transparent;
+            this.btnXoa.BackgroundImage = global::Main.Properties.Resources.white_background_gold_button_md;
+            this.btnXoa.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnXoa.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnXoa.Location = new System.Drawing.Point(521, 166);
+            this.btnXoa.Margin = new System.Windows.Forms.Padding(4);
+            this.btnXoa.Name = "btnXoa";
+            this.btnXoa.Size = new System.Drawing.Size(100, 41);
+            this.btnXoa.TabIndex = 13;
+            this.btnXoa.Text = "Xóa";
+            this.btnXoa.UseVisualStyleBackColor = false;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
+            // 
+            // btnSua
+            // 
+            this.btnSua.BackColor = System.Drawing.Color.Transparent;
+            this.btnSua.BackgroundImage = global::Main.Properties.Resources.white_background_gold_button_md;
+            this.btnSua.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnSua.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnSua.Location = new System.Drawing.Point(449, 116);
+            this.btnSua.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSua.Name = "btnSua";
+            this.btnSua.Size = new System.Drawing.Size(100, 41);
+            this.btnSua.TabIndex = 12;
+            this.btnSua.Text = "Sửa";
+            this.btnSua.UseVisualStyleBackColor = false;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
+            // 
+            // btnThem
+            // 
+            this.btnThem.BackColor = System.Drawing.Color.Transparent;
+            this.btnThem.BackgroundImage = global::Main.Properties.Resources.white_background_gold_button_md;
+            this.btnThem.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnThem.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnThem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.btnThem.Location = new System.Drawing.Point(449, 68);
+            this.btnThem.Margin = new System.Windows.Forms.Padding(4);
+            this.btnThem.Name = "btnThem";
+            this.btnThem.Size = new System.Drawing.Size(100, 41);
+            this.btnThem.TabIndex = 11;
+            this.btnThem.Text = "Thêm";
+            this.btnThem.UseVisualStyleBackColor = false;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
+            // 
+            // btnTim
+            // 
+            this.btnTim.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnTim.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnTim.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnTim.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnTim.Location = new System.Drawing.Point(521, 13);
+            this.btnTim.Margin = new System.Windows.Forms.Padding(4);
+            this.btnTim.Name = "btnTim";
+            this.btnTim.Size = new System.Drawing.Size(100, 41);
+            this.btnTim.TabIndex = 2;
+            this.btnTim.Text = "Tìm Kiếm";
+            this.btnTim.UseVisualStyleBackColor = false;
+            this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
             // QLGD
             // 

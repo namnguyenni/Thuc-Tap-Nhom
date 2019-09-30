@@ -13,9 +13,9 @@ namespace BUS
         public bool DangNhapHT(string UserName, string Pass)
         {
             string sql = "SELECT * FROM dbo.DangNhap WHERE UserName='" + UserName + "' AND Pass='" + Pass + "'";
-            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             DataTable dt = new DataTable();
-            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
 
             da.Fill(dt);
             if (dt.Rows.Count > 0)

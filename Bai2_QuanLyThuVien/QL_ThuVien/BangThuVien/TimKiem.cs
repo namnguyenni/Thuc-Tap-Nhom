@@ -10,7 +10,7 @@ namespace BangThuVien
 {
     public class TimKiem
     {
-        KetNoi con = new KetNoi();
+        KetNoi cn = new KetNoi();
 
 
         // Tìm kiếm Tài liệu theo mã
@@ -121,9 +121,9 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.BanDoc WHERE HoTen LIKE N'%' + @HoTen + '%'";
             DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@HoTen", HoTen);
             da.SelectCommand = cmd;

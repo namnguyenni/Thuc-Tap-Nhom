@@ -55,6 +55,7 @@
             this.menuStrip1.Size = new System.Drawing.Size(911, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // mượnTàiLiệuToolStripMenuItem
             // 
@@ -134,6 +135,7 @@
             this.picBackground.Size = new System.Drawing.Size(911, 431);
             this.picBackground.TabIndex = 1;
             this.picBackground.TabStop = false;
+            this.picBackground.Click += new System.EventHandler(this.picBackground_Click);
             // 
             // frmQLThuVien
             // 
