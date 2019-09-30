@@ -12,10 +12,9 @@ namespace BusinessLogic
     {
         public bool Login(string _Name, string _Pass)
         {
-            string sql = @"select * from NHANVIEN WHERE TenDN = '" + _Name + "' AND MatKhau = '" + _Pass + "'";
-
-            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, conn);
+            string sql = @"select * from.NHANVIEN WHERE TenDN = '" + _Name + "' AND MatKhau = '" + _Pass + "'";
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
             DataTable dt = new DataTable();
             ad.Fill(dt);
             if (dt.Rows.Count > 0) return true;

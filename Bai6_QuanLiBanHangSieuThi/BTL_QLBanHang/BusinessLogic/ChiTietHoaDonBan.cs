@@ -10,7 +10,7 @@ namespace BusinessLogic
 {
     public class ChiTietHoaDonBan
     {
-        KetNoiDB kn = new KetNoiDB();
+        KetNoiDB  kn =new KetNoiDB();
 
         public DataTable HienThiCTHDB()
         {

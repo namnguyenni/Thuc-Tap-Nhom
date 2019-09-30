@@ -508,8 +508,12 @@
             // label10
             // 
             this.label10.AutoSize = true;
+<<<<<<< HEAD
             this.label10.Location = new System.Drawing.Point(723, 82);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+=======
+            this.label10.Location = new System.Drawing.Point(533, 66);
+>>>>>>> 8d2562c6bc919f4740276c623125a3f862b3dd5d
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(84, 24);
             this.label10.TabIndex = 14;
@@ -528,8 +532,12 @@
             // lblNhanDe
             // 
             this.lblNhanDe.AutoSize = true;
+<<<<<<< HEAD
             this.lblNhanDe.Location = new System.Drawing.Point(341, 23);
             this.lblNhanDe.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+=======
+            this.lblNhanDe.Location = new System.Drawing.Point(247, 20);
+>>>>>>> 8d2562c6bc919f4740276c623125a3f862b3dd5d
             this.lblNhanDe.Name = "lblNhanDe";
             this.lblNhanDe.Size = new System.Drawing.Size(89, 24);
             this.lblNhanDe.TabIndex = 12;
