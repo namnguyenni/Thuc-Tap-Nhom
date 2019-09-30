@@ -141,6 +141,9 @@ namespace Bai5_QLKhachSan
             dodung.Show();
         }
 
-     
+        private void btnDodung_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
