@@ -20,7 +20,26 @@ namespace BangKhachSan
             da.Fill(dt);
             return dt;
         }
-        public DataTable HienThiDoDung2()
+        public DataTable HienThiDoDung1()
+        {
+            string sql = "SELECT * FROM DoDung";
+            DataTable dt = new DataTable();
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            da.Fill(dt);
+            return dt;
+        }
+
+        public DataTable HienThiDoDung2(string DieuKien)
+        {
+            string sql = "SELECT * FROM DoDung " + DieuKien;
+            DataTable dt = new DataTable();
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            da.Fill(dt);
+            return dt;
+        }
+        public DataTable HienThiDoDung3()
         {
             string sql = "SELECT * FROM DoDung";
             DataTable dt = new DataTable();
