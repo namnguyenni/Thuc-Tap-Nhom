@@ -20,7 +20,7 @@ namespace BangKhachSan
             da.Fill(dt);
             return dt;
         }
-        public DataTable HienThiDoDung2()
+        public DataTable HienThiDoDung1()
         {
             string sql = "SELECT * FROM DoDung";
             DataTable dt = new DataTable();
@@ -29,5 +29,6 @@ namespace BangKhachSan
             da.Fill(dt);
             return dt;
         }
+
     }
 }
