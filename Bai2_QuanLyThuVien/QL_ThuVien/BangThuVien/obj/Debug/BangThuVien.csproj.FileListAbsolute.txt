@@ -78,3 +78,10 @@ E:\git2\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangTh
 E:\git2\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csproj.CopyComplete
 E:\git2\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.dll
 E:\git2\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\BangThuVien.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\BangThuVien.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\KetNoiDB.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\KetNoiDB.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csprojResolveAssemblyReference.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai2_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.pdb

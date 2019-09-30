@@ -58,3 +58,10 @@ E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csproj.CoreCompi
 E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csproj.CopyComplete
 E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
 E:\git2\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\BangQLCT.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\bin\Debug\KetNoiDB.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.csprojResolveAssemblyReference.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai1_QLNhanSu\BangQLCT\obj\Debug\BangQLCT.pdb

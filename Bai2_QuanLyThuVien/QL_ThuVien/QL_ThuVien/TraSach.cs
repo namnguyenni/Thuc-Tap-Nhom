@@ -16,6 +16,7 @@ namespace QL_ThuVien
 {
     public partial class frmTraSach : Form
     {
+
         BUS_BanDoc bd = new BUS_BanDoc();
         BUS_TaiLieu tl = new BUS_TaiLieu();
         BUS_TaiKhoan tk = new BUS_TaiKhoan();
@@ -44,7 +45,7 @@ namespace QL_ThuVien
             cmd.Parameters.Add("@MaSach", _MaSach);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             da.Fill(dt);
-
+            //Kiem tra tinh hop le cua thong tin
             if (dt.Rows.Count > 0)
             {
                 txtMaBD.Text = dt.Rows[0]["MaBD"].ToString();
@@ -111,6 +112,11 @@ namespace QL_ThuVien
         }
 
         private void dgvSachDaMuon_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void groupBox3_Enter(object sender, EventArgs e)
         {
 
         }
