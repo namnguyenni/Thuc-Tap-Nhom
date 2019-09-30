@@ -147,7 +147,7 @@
             // 
             // txtTenDD
             // 
-            this.txtTenDD.Location = new System.Drawing.Point(86, 70);
+            this.txtTenDD.Location = new System.Drawing.Point(86, 76);
             this.txtTenDD.Name = "txtTenDD";
             this.txtTenDD.Size = new System.Drawing.Size(160, 20);
             this.txtTenDD.TabIndex = 7;
@@ -189,7 +189,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(8, 73);
+            this.label2.Location = new System.Drawing.Point(8, 79);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(72, 13);
             this.label2.TabIndex = 1;

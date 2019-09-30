@@ -46,28 +46,25 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(80, 169);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(60, 137);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(132, 29);
+            this.label2.Size = new System.Drawing.Size(102, 24);
             this.label2.TabIndex = 15;
             this.label2.Text = "Password :";
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(220, 176);
-            this.txtPass.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPass.Location = new System.Drawing.Point(165, 143);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
-            this.txtPass.Size = new System.Drawing.Size(199, 22);
+            this.txtPass.Size = new System.Drawing.Size(150, 20);
             this.txtPass.TabIndex = 12;
             // 
             // txtUserName
             // 
-            this.txtUserName.Location = new System.Drawing.Point(220, 113);
-            this.txtUserName.Margin = new System.Windows.Forms.Padding(4);
+            this.txtUserName.Location = new System.Drawing.Point(165, 92);
             this.txtUserName.Name = "txtUserName";
-            this.txtUserName.Size = new System.Drawing.Size(199, 22);
+            this.txtUserName.Size = new System.Drawing.Size(150, 20);
             this.txtUserName.TabIndex = 11;
             // 
             // label13
@@ -75,10 +72,9 @@
             this.label13.AutoSize = true;
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(76, 106);
-            this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label13.Location = new System.Drawing.Point(57, 86);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(136, 29);
+            this.label13.Size = new System.Drawing.Size(107, 24);
             this.label13.TabIndex = 10;
             this.label13.Text = "Username :";
             // 
@@ -88,10 +84,9 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Verdana", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Yellow;
-            this.label1.Location = new System.Drawing.Point(29, 38);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(22, 31);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(522, 34);
+            this.label1.Size = new System.Drawing.Size(411, 26);
             this.label1.TabIndex = 16;
             this.label1.Text = "HỆ THỐNG QUẢN LÍ KHÁCH SẠN";
             // 
@@ -118,10 +113,9 @@
             this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnThoat.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnThoat.Location = new System.Drawing.Point(207, 349);
-            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
+            this.btnThoat.Location = new System.Drawing.Point(155, 284);
             this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(108, 39);
+            this.btnThoat.Size = new System.Drawing.Size(81, 32);
             this.btnThoat.TabIndex = 14;
             this.btnThoat.UseVisualStyleBackColor = false;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
@@ -132,21 +126,20 @@
             this.btnDangNhap.BackgroundImage = global::Bai5_QLKhachSan.Properties.Resources.login_button_png_3;
             this.btnDangNhap.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnDangNhap.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnDangNhap.Location = new System.Drawing.Point(186, 230);
-            this.btnDangNhap.Margin = new System.Windows.Forms.Padding(4);
+            this.btnDangNhap.Location = new System.Drawing.Point(140, 187);
             this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(152, 111);
+            this.btnDangNhap.Size = new System.Drawing.Size(114, 77);
             this.btnDangNhap.TabIndex = 13;
             this.btnDangNhap.UseVisualStyleBackColor = false;
             this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
             // 
             // frmDangNhap
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImage = global::Bai5_QLKhachSan.Properties.Resources._1;
-            this.ClientSize = new System.Drawing.Size(563, 417);
+            this.ClientSize = new System.Drawing.Size(422, 339);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnThoat);
@@ -154,7 +147,6 @@
             this.Controls.Add(this.txtPass);
             this.Controls.Add(this.txtUserName);
             this.Controls.Add(this.label13);
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmDangNhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng Nhập";
