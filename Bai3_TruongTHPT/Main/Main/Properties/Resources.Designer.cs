@@ -73,9 +73,29 @@ namespace Main.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _116738_preview {
+            get {
+                object obj = ResourceManager.GetObject("116738_preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _32b877ed4aa7778cc7d43ebb7d95a6f1 {
             get {
                 object obj = ResourceManager.GetObject("32b877ed4aa7778cc7d43ebb7d95a6f1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _5895d31bcba9841eabab607f {
+            get {
+                object obj = ResourceManager.GetObject("5895d31bcba9841eabab607f", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -106,6 +126,16 @@ namespace Main.Properties {
         internal static System.Drawing.Bitmap login_button_png_3 {
             get {
                 object obj = ResourceManager.GetObject("login-button-png-3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap white_background_gold_button_md {
+            get {
+                object obj = ResourceManager.GetObject("white-background-gold-button-md", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
