@@ -46,7 +46,6 @@
             this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripSeparator();
             this.statisticalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -54,7 +53,6 @@
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.timer3 = new System.Windows.Forms.Timer(this.components);
             this.menuStrip1.SuspendLayout();
-            this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -85,7 +83,7 @@
             this.hêThôngToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ControlText;
             this.hêThôngToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("hêThôngToolStripMenuItem.Image")));
             this.hêThôngToolStripMenuItem.Name = "hêThôngToolStripMenuItem";
-            this.hêThôngToolStripMenuItem.Size = new System.Drawing.Size(85, 23);
+            this.hêThôngToolStripMenuItem.Size = new System.Drawing.Size(84, 23);
             this.hêThôngToolStripMenuItem.Text = "Quản lý";
             // 
             // danhSáchMặtHàngToolStripMenuItem
@@ -144,7 +142,7 @@
             this.hóaĐơnBánKháchHàngToolStripMenuItem});
             this.banHangToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("banHangToolStripMenuItem.Image")));
             this.banHangToolStripMenuItem.Name = "banHangToolStripMenuItem";
-            this.banHangToolStripMenuItem.Size = new System.Drawing.Size(152, 24);
+            this.banHangToolStripMenuItem.Size = new System.Drawing.Size(144, 24);
             this.banHangToolStripMenuItem.Text = "Bán hàng";
             // 
             // bánHàngToolStripMenuItem
@@ -171,7 +169,7 @@
             this.toolStripMenuItem4});
             this.nhâpHangToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("nhâpHangToolStripMenuItem.Image")));
             this.nhâpHangToolStripMenuItem.Name = "nhâpHangToolStripMenuItem";
-            this.nhâpHangToolStripMenuItem.Size = new System.Drawing.Size(152, 24);
+            this.nhâpHangToolStripMenuItem.Size = new System.Drawing.Size(144, 24);
             this.nhâpHangToolStripMenuItem.Text = "Nhập hàng";
             this.nhâpHangToolStripMenuItem.Click += new System.EventHandler(this.nhâpHangToolStripMenuItem_Click);
             // 
@@ -186,7 +184,7 @@
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(149, 6);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(141, 6);
             // 
             // statisticalToolStripMenuItem
             // 
@@ -201,24 +199,12 @@
             this.panel1.BackColor = System.Drawing.Color.Teal;
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 29);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1362, 36);
             this.panel1.TabIndex = 3;
-            // 
-            // label1
-            // 
-            this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Lime;
-            this.label1.Location = new System.Drawing.Point(0, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1360, 34);
-            this.label1.TabIndex = 0;
-            this.label1.Text = resources.GetString("label1.Text");
-            this.label1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // panel2
             // 
@@ -287,7 +273,6 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -314,7 +299,6 @@
         private System.Windows.Forms.ToolStripMenuItem statisticalToolStripMenuItem;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Label label1;
         public System.Windows.Forms.Timer timer1;
         public System.Windows.Forms.Timer timer2;
         public System.Windows.Forms.Timer timer3;

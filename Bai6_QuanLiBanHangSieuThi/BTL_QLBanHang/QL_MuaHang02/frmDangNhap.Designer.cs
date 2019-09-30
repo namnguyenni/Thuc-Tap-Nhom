@@ -89,7 +89,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.ForeColor = System.Drawing.Color.Black;
             this.label3.Location = new System.Drawing.Point(43, 129);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(38, 19);
@@ -100,7 +100,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(43, 94);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 19);
@@ -111,12 +111,12 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(98, 35);
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Gold;
+            this.label1.Location = new System.Drawing.Point(76, 35);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(176, 23);
+            this.label1.Size = new System.Drawing.Size(192, 25);
             this.label1.TabIndex = 14;
             this.label1.Text = "Xin mời đăng nhập !!!";
             // 

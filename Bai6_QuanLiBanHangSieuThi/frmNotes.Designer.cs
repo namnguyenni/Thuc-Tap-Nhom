@@ -70,7 +70,7 @@
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
             this.listView1.Location = new System.Drawing.Point(15, 73);
-            this.listView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.listView1.Margin = new System.Windows.Forms.Padding(4);
             this.listView1.Name = "listView1";
             this.listView1.Size = new System.Drawing.Size(790, 267);
             this.listView1.TabIndex = 46;
@@ -88,7 +88,7 @@
             this.btnRestore.Image = ((System.Drawing.Image)(resources.GetObject("btnRestore.Image")));
             this.btnRestore.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnRestore.Location = new System.Drawing.Point(428, 385);
-            this.btnRestore.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnRestore.Margin = new System.Windows.Forms.Padding(4);
             this.btnRestore.Name = "btnRestore";
             this.btnRestore.Size = new System.Drawing.Size(122, 44);
             this.btnRestore.TabIndex = 47;
@@ -107,7 +107,7 @@
             this.btnDelete.Image = ((System.Drawing.Image)(resources.GetObject("btnDelete.Image")));
             this.btnDelete.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnDelete.Location = new System.Drawing.Point(556, 385);
-            this.btnDelete.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(4);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(122, 44);
             this.btnDelete.TabIndex = 48;
@@ -124,7 +124,7 @@
             this.btnDeleteAll.Font = new System.Drawing.Font("Times New Roman", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDeleteAll.ForeColor = System.Drawing.Color.White;
             this.btnDeleteAll.Location = new System.Drawing.Point(685, 385);
-            this.btnDeleteAll.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnDeleteAll.Margin = new System.Windows.Forms.Padding(4);
             this.btnDeleteAll.Name = "btnDeleteAll";
             this.btnDeleteAll.Size = new System.Drawing.Size(122, 44);
             this.btnDeleteAll.TabIndex = 49;
@@ -144,16 +144,18 @@
             this.label6.Size = new System.Drawing.Size(47, 16);
             this.label6.TabIndex = 58;
             this.label6.Text = "Search";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // txtSearch
             // 
             this.txtSearch.Font = new System.Drawing.Font("Times New Roman", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtSearch.Location = new System.Drawing.Point(94, 347);
-            this.txtSearch.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(4);
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(164, 22);
             this.txtSearch.TabIndex = 57;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
             // 
             // label
             // 
@@ -167,13 +169,14 @@
             this.label.Size = new System.Drawing.Size(121, 16);
             this.label.TabIndex = 60;
             this.label.Text = "# Days of Extention";
+            this.label.Click += new System.EventHandler(this.label_Click);
             // 
             // txtExtendDays
             // 
             this.txtExtendDays.Font = new System.Drawing.Font("Times New Roman", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtExtendDays.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtExtendDays.Location = new System.Drawing.Point(458, 347);
-            this.txtExtendDays.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtExtendDays.Margin = new System.Windows.Forms.Padding(4);
             this.txtExtendDays.Name = "txtExtendDays";
             this.txtExtendDays.Size = new System.Drawing.Size(164, 22);
             this.txtExtendDays.TabIndex = 59;
@@ -192,6 +195,7 @@
             this.label16.Size = new System.Drawing.Size(37, 16);
             this.label16.TabIndex = 70;
             this.label16.Text = "Date:";
+            this.label16.Click += new System.EventHandler(this.label16_Click);
             // 
             // lblTimer
             // 
@@ -205,6 +209,7 @@
             this.lblTimer.Size = new System.Drawing.Size(74, 16);
             this.lblTimer.TabIndex = 69;
             this.lblTimer.Text = "HH/MM/SS";
+            this.lblTimer.Click += new System.EventHandler(this.lblTimer_Click);
             // 
             // timer1
             // 
@@ -215,10 +220,11 @@
             this.txtOrderID.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtOrderID.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtOrderID.Location = new System.Drawing.Point(13, 29);
-            this.txtOrderID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtOrderID.Margin = new System.Windows.Forms.Padding(4);
             this.txtOrderID.Name = "txtOrderID";
             this.txtOrderID.Size = new System.Drawing.Size(164, 32);
             this.txtOrderID.TabIndex = 71;
+            this.txtOrderID.TextChanged += new System.EventHandler(this.txtOrderID_TextChanged);
             // 
             // lblTempDate
             // 
@@ -232,6 +238,7 @@
             this.lblTempDate.Size = new System.Drawing.Size(40, 16);
             this.lblTempDate.TabIndex = 72;
             this.lblTempDate.Text = "Temp";
+            this.lblTempDate.Click += new System.EventHandler(this.lblTempDate_Click);
             // 
             // label1
             // 
@@ -245,96 +252,106 @@
             this.label1.Size = new System.Drawing.Size(119, 16);
             this.label1.TabIndex = 73;
             this.label1.Text = "New Delivery Date:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtPID
             // 
             this.txtPID.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPID.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtPID.Location = new System.Drawing.Point(183, 29);
-            this.txtPID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtPID.Margin = new System.Windows.Forms.Padding(4);
             this.txtPID.Name = "txtPID";
             this.txtPID.Size = new System.Drawing.Size(164, 32);
             this.txtPID.TabIndex = 75;
+            this.txtPID.TextChanged += new System.EventHandler(this.txtPID_TextChanged);
             // 
             // txtPrice
             // 
             this.txtPrice.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPrice.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtPrice.Location = new System.Drawing.Point(185, 67);
-            this.txtPrice.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtPrice.Margin = new System.Windows.Forms.Padding(4);
             this.txtPrice.Name = "txtPrice";
             this.txtPrice.Size = new System.Drawing.Size(164, 32);
             this.txtPrice.TabIndex = 77;
+            this.txtPrice.TextChanged += new System.EventHandler(this.txtPrice_TextChanged);
             // 
             // txtDesc
             // 
             this.txtDesc.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDesc.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtDesc.Location = new System.Drawing.Point(13, 67);
-            this.txtDesc.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtDesc.Margin = new System.Windows.Forms.Padding(4);
             this.txtDesc.Name = "txtDesc";
             this.txtDesc.Size = new System.Drawing.Size(164, 32);
             this.txtDesc.TabIndex = 76;
+            this.txtDesc.TextChanged += new System.EventHandler(this.txtDesc_TextChanged);
             // 
             // txtType
             // 
             this.txtType.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtType.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtType.Location = new System.Drawing.Point(185, 105);
-            this.txtType.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtType.Margin = new System.Windows.Forms.Padding(4);
             this.txtType.Name = "txtType";
             this.txtType.Size = new System.Drawing.Size(164, 32);
             this.txtType.TabIndex = 79;
+            this.txtType.TextChanged += new System.EventHandler(this.txtType_TextChanged);
             // 
             // txtNetPrice
             // 
             this.txtNetPrice.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNetPrice.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtNetPrice.Location = new System.Drawing.Point(13, 105);
-            this.txtNetPrice.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNetPrice.Margin = new System.Windows.Forms.Padding(4);
             this.txtNetPrice.Name = "txtNetPrice";
             this.txtNetPrice.Size = new System.Drawing.Size(164, 32);
             this.txtNetPrice.TabIndex = 78;
+            this.txtNetPrice.TextChanged += new System.EventHandler(this.txtNetPrice_TextChanged);
             // 
             // txtBrand
             // 
             this.txtBrand.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBrand.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtBrand.Location = new System.Drawing.Point(183, 144);
-            this.txtBrand.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtBrand.Margin = new System.Windows.Forms.Padding(4);
             this.txtBrand.Name = "txtBrand";
             this.txtBrand.Size = new System.Drawing.Size(164, 32);
             this.txtBrand.TabIndex = 81;
+            this.txtBrand.TextChanged += new System.EventHandler(this.txtBrand_TextChanged);
             // 
             // txtSize
             // 
             this.txtSize.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSize.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtSize.Location = new System.Drawing.Point(11, 144);
-            this.txtSize.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSize.Margin = new System.Windows.Forms.Padding(4);
             this.txtSize.Name = "txtSize";
             this.txtSize.Size = new System.Drawing.Size(164, 32);
             this.txtSize.TabIndex = 80;
+            this.txtSize.TextChanged += new System.EventHandler(this.txtSize_TextChanged);
             // 
             // txtManufac
             // 
             this.txtManufac.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtManufac.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtManufac.Location = new System.Drawing.Point(183, 182);
-            this.txtManufac.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtManufac.Margin = new System.Windows.Forms.Padding(4);
             this.txtManufac.Name = "txtManufac";
             this.txtManufac.Size = new System.Drawing.Size(164, 32);
             this.txtManufac.TabIndex = 83;
+            this.txtManufac.TextChanged += new System.EventHandler(this.txtManufac_TextChanged);
             // 
             // txtStock
             // 
             this.txtStock.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtStock.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtStock.Location = new System.Drawing.Point(11, 182);
-            this.txtStock.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtStock.Margin = new System.Windows.Forms.Padding(4);
             this.txtStock.Name = "txtStock";
             this.txtStock.Size = new System.Drawing.Size(164, 32);
             this.txtStock.TabIndex = 82;
+            this.txtStock.TextChanged += new System.EventHandler(this.txtStock_TextChanged);
             // 
             // GBox
             // 
@@ -350,23 +367,25 @@
             this.GBox.Controls.Add(this.txtNetPrice);
             this.GBox.Controls.Add(this.txtType);
             this.GBox.Location = new System.Drawing.Point(14, 487);
-            this.GBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.GBox.Margin = new System.Windows.Forms.Padding(4);
             this.GBox.Name = "GBox";
-            this.GBox.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.GBox.Padding = new System.Windows.Forms.Padding(4);
             this.GBox.Size = new System.Drawing.Size(361, 266);
             this.GBox.TabIndex = 84;
             this.GBox.TabStop = false;
             this.GBox.Text = "Temporary";
+            this.GBox.Enter += new System.EventHandler(this.GBox_Enter);
             // 
             // txtDateOrdered
             // 
             this.txtDateOrdered.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDateOrdered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtDateOrdered.Location = new System.Drawing.Point(13, 220);
-            this.txtDateOrdered.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtDateOrdered.Margin = new System.Windows.Forms.Padding(4);
             this.txtDateOrdered.Name = "txtDateOrdered";
             this.txtDateOrdered.Size = new System.Drawing.Size(164, 32);
             this.txtDateOrdered.TabIndex = 84;
+            this.txtDateOrdered.TextChanged += new System.EventHandler(this.txtDateOrdered_TextChanged);
             // 
             // panel1
             // 
@@ -385,10 +404,11 @@
             this.panel1.Controls.Add(this.btnDelete);
             this.panel1.Controls.Add(this.btnRestore);
             this.panel1.Location = new System.Drawing.Point(15, 14);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(822, 443);
             this.panel1.TabIndex = 85;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // button3
             // 
@@ -399,7 +419,7 @@
             this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
             this.button3.Location = new System.Drawing.Point(3, 2);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(36, 30);
             this.button3.TabIndex = 74;
@@ -416,7 +436,7 @@
             this.Controls.Add(this.GBox);
             this.Font = new System.Drawing.Font("Times New Roman", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmNotes";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmNotes";

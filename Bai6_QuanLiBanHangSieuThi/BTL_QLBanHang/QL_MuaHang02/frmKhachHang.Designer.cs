@@ -413,7 +413,7 @@
             this.btnKH.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnKH.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnKH.ForeColor = System.Drawing.Color.Red;
-            this.btnKH.Location = new System.Drawing.Point(11, 16);
+            this.btnKH.Location = new System.Drawing.Point(154, 10);
             this.btnKH.Name = "btnKH";
             this.btnKH.Size = new System.Drawing.Size(199, 37);
             this.btnKH.TabIndex = 0;

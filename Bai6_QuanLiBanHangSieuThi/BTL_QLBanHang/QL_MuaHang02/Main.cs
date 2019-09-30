@@ -71,8 +71,7 @@ namespace QuanLyBanHang
 
         private void Main_FormClosed(object sender, FormClosedEventArgs e)
         {
-            string str = @"Thank you for using this our application.
-                             Designed by: Tiến Dũng - Văn Lượng - Hoàng Anh - Hoa Long";
+            string str = @"Well come to Shopping";
 
 
             MessageBox.Show(str);
@@ -86,17 +85,16 @@ namespace QuanLyBanHang
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            label1.Text = label1.Text.Substring(2, label1.Text.Length - 2) + label1.Text.Substring(0, 2);
-        }
+        }   
 
         private void timer2_Tick(object sender, EventArgs e)
         {
-            label1.ForeColor = Color.Red;
+            
         }
 
         private void timer3_Tick(object sender, EventArgs e)
         {
-            label1.ForeColor = Color.Wheat;
+         
         }
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
@@ -114,6 +112,11 @@ namespace QuanLyBanHang
         {
             frmHuongDan frmhd = new frmHuongDan();
             frmhd.Show();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
