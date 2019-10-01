@@ -12,7 +12,7 @@ namespace BUS
     {
         public DataTable Show()
         {
-            string sql = "SELECT hs.MaHS, hs.HovaTen, hs.GT, hs.NgaySinh, hs.DiaChi, hs.PhuHuynh, lop.TenLop FROM dbo.HocSinh hs, dbo.Lop lop where hs.MaLop = lop.MaLop";
+            string sql = "SELECT hs.MaHS, hs.HoTen, hs.GT, hs.NgaySinh, hs.DiaChi, hs.PhuHuynh, lop.TenLop FROM dbo.HocSinh hs, dbo.Lop lop WHERE hs.MaLop = lop.MaLop";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             conn.Open();

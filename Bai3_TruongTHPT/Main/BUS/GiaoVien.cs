@@ -12,7 +12,7 @@ namespace BUS
     {
         public DataTable Show()
         {
-            string sql = "SELECT gv.MaGV, gv.HoTen, gv.GT, gv.NgaySinh, gv.DiaChi, gv.Luong, gv.SDT, mh.TenMon FROM dbo.GiaoVien gv, dbo.MonHoc mh where gv.MaMon = mh.MaMon";
+            string sql = "SELECT gv.MaGV, gv.HoTen, gv.GT, gv.NgaySinh, gv.DiaChi, gv.Luong, gv.SDT, mh.TenMon FROM dbo.GiaoVien gv, dbo.MonHoc mh WHERE gv.MaMon = mh.MaMon";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             con.Open();
@@ -24,7 +24,7 @@ namespace BUS
         }
         public DataTable Show(string TenMon)
         {
-            string sql = "SELECT gv.MaGV, gv.HoTen FROM dbo.GiaoVien gv, dbo.MonHoc mh where gv.MaMon = mh.MaMon and mh.TenMon=N'" + TenMon + "'";
+            string sql = "SELECT gv.MaGV, gv.HoTen FROM dbo.GiaoVien gv, dbo.MonHoc mh WHERE gv.MaMon = mh.MaMon AND mh.TenMon=N'" + TenMon + "'";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(ConnectDB.getconnect());
             con.Open();

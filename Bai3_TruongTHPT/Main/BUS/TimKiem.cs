@@ -45,7 +45,7 @@ namespace BUS
         // Tìm kiếm Hoc Sinh theo Ma
         public DataTable TK_Ma_HocSinh(string Ma)
         {
-            string sql = "SELECT * FROM dbo.HocSinh WHERE MaHS like N'%' + @MaHS + '%'";
+            string sql = "SELECT * FROM dbo.HocSinh WHERE MaHS LIKE N'%' + @MaHS + '%'";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             conn.Open();
@@ -61,7 +61,7 @@ namespace BUS
         // Tìm kiếm Giao Vien theo Ma
         public DataTable TK_Ma_GiaoVien(string Ma)
         {
-            string sql = "SELECT * FROM dbo.GiaoVien WHERE MaGV like N'%' + @MaGV + '%'";
+            string sql = "SELECT * FROM dbo.GiaoVien WHERE MaGV LIKE N'%' + @MaGV + '%'";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             conn.Open();
@@ -76,7 +76,7 @@ namespace BUS
         //tim kiem lop theo ma
         public DataTable TK_Ma_Lop(string MaLop)
         {
-            string sql = "SELECT * FROM dbo.Lop WHERE MaLop like N'%' + @MaLop + '%'";
+            string sql = "SELECT * FROM dbo.Lop WHERE MaLop LIKE N'%' + @MaLop + '%'";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             conn.Open();
@@ -91,7 +91,7 @@ namespace BUS
         //tim kiem lop theo ten
         public DataTable TK_Ten_Lop(string TenLop)
         {
-            string sql = "SELECT * FROM dbo.Lop WHERE TenLop like N'%' + @TenLop + '%'";
+            string sql = "SELECT * FROM dbo.Lop WHERE TenLop LIKE N'%' + @TenLop + '%'";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             conn.Open();

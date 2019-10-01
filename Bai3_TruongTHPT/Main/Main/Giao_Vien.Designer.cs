@@ -239,6 +239,7 @@
             this.cbMonHoc.Name = "cbMonHoc";
             this.cbMonHoc.Size = new System.Drawing.Size(235, 24);
             this.cbMonHoc.TabIndex = 33;
+            this.cbMonHoc.SelectedIndexChanged += new System.EventHandler(this.cbMonHoc_SelectedIndexChanged);
             // 
             // cbGTGV
             // 
