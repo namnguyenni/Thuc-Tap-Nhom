@@ -12,9 +12,9 @@ namespace BUS
     {
         public DataTable Show(string tenlop)
         {
-            string sql = @"select mh.TenMon, gv.HoTen, NgayDay, Tiet 
-                                from dbo.CTGD ct, dbo.MonHoc mh, dbo.Lop l, dbo.GiaoVien gv
-                                where ct.MaLop=l.MaLop and ct.MaMon=mh.MaMon and ct.MaGV=gv.MaGV and l.tenlop='" + tenlop + "'";
+            string sql = @"SELECT mh.TenMon, gv.HoTen, NgayDay, Tiet 
+                                FROM dbo.CTGD ct, dbo.MonHoc mh, dbo.Lop l, dbo.GiaoVien gv
+                                WHERE ct.MaLop=l.MaLop AND ct.MaMon=mh.MaMon AND ct.MaGV=gv.MaGV AND l.tenlop='" + tenlop + "'";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             conn.Open();
