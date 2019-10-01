@@ -38,7 +38,7 @@ namespace BangThuVien
         {
             string sql = "ADDBanDoc";
             SqlConnection con = new SqlConnection(KetNoi.connect());
-            conn.Open();
+            con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@HoTen", HoTen);
