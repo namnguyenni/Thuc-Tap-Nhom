@@ -22,5 +22,22 @@ namespace BUS
             da.Dispose();
             return dt;
         }
+
+        public void ThemMonHoc( string tenMonHoc)
+        {
+            string sqlCommand = "AddMonHoc";
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+
+            conn.Open();
+
+            SqlCommand cmd = new SqlCommand(sqlCommand, conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Parameters.AddWithValue("@TenMon", tenMonHoc);
+
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            conn.Close();
+        }
     }
 }
