@@ -85,10 +85,10 @@
             this.txtTemp.BackColor = System.Drawing.Color.White;
             this.txtTemp.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTemp.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtTemp.Location = new System.Drawing.Point(1047, 433);
-            this.txtTemp.Margin = new System.Windows.Forms.Padding(5);
+            this.txtTemp.Location = new System.Drawing.Point(1570, 633);
+            this.txtTemp.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtTemp.Name = "txtTemp";
-            this.txtTemp.Size = new System.Drawing.Size(129, 27);
+            this.txtTemp.Size = new System.Drawing.Size(192, 32);
             this.txtTemp.TabIndex = 158;
             this.txtTemp.Visible = false;
             // 
@@ -96,12 +96,12 @@
             // 
             this.lblItemCount.AutoSize = true;
             this.lblItemCount.BackColor = System.Drawing.Color.Transparent;
-            this.lblItemCount.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblItemCount.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblItemCount.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.lblItemCount.Location = new System.Drawing.Point(267, 31);
-            this.lblItemCount.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.lblItemCount.Location = new System.Drawing.Point(400, 45);
+            this.lblItemCount.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.lblItemCount.Name = "lblItemCount";
-            this.lblItemCount.Size = new System.Drawing.Size(22, 21);
+            this.lblItemCount.Size = new System.Drawing.Size(18, 19);
             this.lblItemCount.TabIndex = 157;
             this.lblItemCount.Text = "#";
             // 
@@ -110,10 +110,10 @@
             this.txtTempReceive.BackColor = System.Drawing.Color.White;
             this.txtTempReceive.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtTempReceive.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtTempReceive.Location = new System.Drawing.Point(1164, 493);
-            this.txtTempReceive.Margin = new System.Windows.Forms.Padding(5);
+            this.txtTempReceive.Location = new System.Drawing.Point(1746, 721);
+            this.txtTempReceive.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtTempReceive.Name = "txtTempReceive";
-            this.txtTempReceive.Size = new System.Drawing.Size(62, 27);
+            this.txtTempReceive.Size = new System.Drawing.Size(91, 32);
             this.txtTempReceive.TabIndex = 155;
             this.txtTempReceive.Visible = false;
             // 
@@ -121,12 +121,12 @@
             // 
             this.label14.AutoSize = true;
             this.label14.BackColor = System.Drawing.Color.Transparent;
-            this.label14.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label14.Location = new System.Drawing.Point(188, 31);
-            this.label14.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label14.Location = new System.Drawing.Point(282, 45);
+            this.label14.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(69, 21);
+            this.label14.Size = new System.Drawing.Size(64, 19);
             this.label14.TabIndex = 156;
             this.label14.Text = "Item(s):";
             // 
@@ -139,10 +139,10 @@
             this.txtpcsleft.BackColor = System.Drawing.Color.White;
             this.txtpcsleft.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtpcsleft.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtpcsleft.Location = new System.Drawing.Point(1308, 456);
-            this.txtpcsleft.Margin = new System.Windows.Forms.Padding(5);
+            this.txtpcsleft.Location = new System.Drawing.Point(1962, 666);
+            this.txtpcsleft.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtpcsleft.Name = "txtpcsleft";
-            this.txtpcsleft.Size = new System.Drawing.Size(62, 27);
+            this.txtpcsleft.Size = new System.Drawing.Size(91, 32);
             this.txtpcsleft.TabIndex = 154;
             this.txtpcsleft.Visible = false;
             // 
@@ -150,12 +150,12 @@
             // 
             this.lblItemReceive.AutoSize = true;
             this.lblItemReceive.BackColor = System.Drawing.Color.Transparent;
-            this.lblItemReceive.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblItemReceive.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblItemReceive.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.lblItemReceive.Location = new System.Drawing.Point(520, 29);
-            this.lblItemReceive.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.lblItemReceive.Location = new System.Drawing.Point(780, 43);
+            this.lblItemReceive.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.lblItemReceive.Name = "lblItemReceive";
-            this.lblItemReceive.Size = new System.Drawing.Size(22, 21);
+            this.lblItemReceive.Size = new System.Drawing.Size(18, 19);
             this.lblItemReceive.TabIndex = 153;
             this.lblItemReceive.Text = "#";
             // 
@@ -163,12 +163,12 @@
             // 
             this.label16.AutoSize = true;
             this.label16.BackColor = System.Drawing.Color.Transparent;
-            this.label16.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label16.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label16.Location = new System.Drawing.Point(299, 31);
-            this.label16.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label16.Location = new System.Drawing.Point(449, 45);
+            this.label16.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(212, 21);
+            this.label16.Size = new System.Drawing.Size(184, 19);
             this.label16.TabIndex = 152;
             this.label16.Text = "# of Available to Receive:";
             // 
@@ -177,14 +177,14 @@
             this.btnNote.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnNote.FlatAppearance.BorderSize = 0;
             this.btnNote.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNote.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNote.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNote.ForeColor = System.Drawing.Color.White;
             this.btnNote.Image = ((System.Drawing.Image)(resources.GetObject("btnNote.Image")));
             this.btnNote.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNote.Location = new System.Drawing.Point(138, 374);
-            this.btnNote.Margin = new System.Windows.Forms.Padding(5);
+            this.btnNote.Location = new System.Drawing.Point(207, 546);
+            this.btnNote.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.btnNote.Name = "btnNote";
-            this.btnNote.Size = new System.Drawing.Size(108, 40);
+            this.btnNote.Size = new System.Drawing.Size(162, 58);
             this.btnNote.TabIndex = 150;
             this.btnNote.Text = "Note";
             this.btnNote.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -195,12 +195,12 @@
             // 
             this.lblDateNow.AutoSize = true;
             this.lblDateNow.BackColor = System.Drawing.Color.Transparent;
-            this.lblDateNow.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDateNow.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDateNow.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.lblDateNow.Location = new System.Drawing.Point(77, 31);
-            this.lblDateNow.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.lblDateNow.Location = new System.Drawing.Point(116, 45);
+            this.lblDateNow.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.lblDateNow.Name = "lblDateNow";
-            this.lblDateNow.Size = new System.Drawing.Size(101, 21);
+            this.lblDateNow.Size = new System.Drawing.Size(83, 19);
             this.lblDateNow.TabIndex = 145;
             this.lblDateNow.Text = "TemptDate";
             // 
@@ -208,12 +208,12 @@
             // 
             this.label15.AutoSize = true;
             this.label15.BackColor = System.Drawing.Color.Transparent;
-            this.label15.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label15.Location = new System.Drawing.Point(14, 31);
-            this.label15.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label15.Location = new System.Drawing.Point(21, 45);
+            this.label15.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(54, 21);
+            this.label15.Size = new System.Drawing.Size(46, 19);
             this.label15.TabIndex = 144;
             this.label15.Text = "Date:";
             // 
@@ -223,10 +223,10 @@
             this.txtManufac.Enabled = false;
             this.txtManufac.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtManufac.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtManufac.Location = new System.Drawing.Point(1047, 398);
-            this.txtManufac.Margin = new System.Windows.Forms.Padding(5);
+            this.txtManufac.Location = new System.Drawing.Point(1570, 582);
+            this.txtManufac.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtManufac.Name = "txtManufac";
-            this.txtManufac.Size = new System.Drawing.Size(159, 27);
+            this.txtManufac.Size = new System.Drawing.Size(237, 32);
             this.txtManufac.TabIndex = 143;
             this.txtManufac.Visible = false;
             // 
@@ -236,10 +236,10 @@
             this.txtSize.Enabled = false;
             this.txtSize.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSize.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtSize.Location = new System.Drawing.Point(1047, 250);
-            this.txtSize.Margin = new System.Windows.Forms.Padding(5);
+            this.txtSize.Location = new System.Drawing.Point(1570, 366);
+            this.txtSize.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtSize.Name = "txtSize";
-            this.txtSize.Size = new System.Drawing.Size(159, 27);
+            this.txtSize.Size = new System.Drawing.Size(237, 32);
             this.txtSize.TabIndex = 142;
             this.txtSize.Visible = false;
             // 
@@ -249,10 +249,10 @@
             this.txtType.Enabled = false;
             this.txtType.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtType.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtType.Location = new System.Drawing.Point(1047, 213);
-            this.txtType.Margin = new System.Windows.Forms.Padding(5);
+            this.txtType.Location = new System.Drawing.Point(1570, 311);
+            this.txtType.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtType.Name = "txtType";
-            this.txtType.Size = new System.Drawing.Size(159, 27);
+            this.txtType.Size = new System.Drawing.Size(237, 32);
             this.txtType.TabIndex = 141;
             this.txtType.Visible = false;
             // 
@@ -262,10 +262,10 @@
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label13.Location = new System.Drawing.Point(909, 31);
-            this.label13.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label13.Location = new System.Drawing.Point(1364, 45);
+            this.label13.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(72, 21);
+            this.label13.Size = new System.Drawing.Size(86, 23);
             this.label13.TabIndex = 140;
             this.label13.Text = "OrderID";
             this.label13.Visible = false;
@@ -275,10 +275,10 @@
             this.txtFinalpcs.BackColor = System.Drawing.Color.White;
             this.txtFinalpcs.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtFinalpcs.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtFinalpcs.Location = new System.Drawing.Point(1236, 494);
-            this.txtFinalpcs.Margin = new System.Windows.Forms.Padding(5);
+            this.txtFinalpcs.Location = new System.Drawing.Point(1854, 722);
+            this.txtFinalpcs.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtFinalpcs.Name = "txtFinalpcs";
-            this.txtFinalpcs.Size = new System.Drawing.Size(62, 27);
+            this.txtFinalpcs.Size = new System.Drawing.Size(91, 32);
             this.txtFinalpcs.TabIndex = 149;
             this.txtFinalpcs.Visible = false;
             // 
@@ -287,10 +287,10 @@
             this.txtDateOrdered.BackColor = System.Drawing.Color.White;
             this.txtDateOrdered.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDateOrdered.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtDateOrdered.Location = new System.Drawing.Point(1164, 456);
-            this.txtDateOrdered.Margin = new System.Windows.Forms.Padding(5);
+            this.txtDateOrdered.Location = new System.Drawing.Point(1746, 666);
+            this.txtDateOrdered.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtDateOrdered.Name = "txtDateOrdered";
-            this.txtDateOrdered.Size = new System.Drawing.Size(62, 27);
+            this.txtDateOrdered.Size = new System.Drawing.Size(91, 32);
             this.txtDateOrdered.TabIndex = 148;
             this.txtDateOrdered.Visible = false;
             // 
@@ -299,22 +299,24 @@
             this.txtDueDate.BackColor = System.Drawing.Color.White;
             this.txtDueDate.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDueDate.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtDueDate.Location = new System.Drawing.Point(1236, 456);
-            this.txtDueDate.Margin = new System.Windows.Forms.Padding(5);
+            this.txtDueDate.Location = new System.Drawing.Point(1854, 666);
+            this.txtDueDate.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtDueDate.Name = "txtDueDate";
-            this.txtDueDate.Size = new System.Drawing.Size(62, 27);
+            this.txtDueDate.Size = new System.Drawing.Size(91, 32);
             this.txtDueDate.TabIndex = 147;
             this.txtDueDate.Visible = false;
             // 
             // listView1
             // 
             this.listView1.BackColor = System.Drawing.Color.White;
+            this.listView1.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listView1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
-            this.listView1.Location = new System.Drawing.Point(17, 62);
+            this.listView1.Location = new System.Drawing.Point(26, 90);
+            this.listView1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(760, 221);
+            this.listView1.Size = new System.Drawing.Size(1138, 321);
             this.listView1.TabIndex = 146;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
@@ -326,10 +328,10 @@
             this.txtOrderID.Enabled = false;
             this.txtOrderID.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtOrderID.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtOrderID.Location = new System.Drawing.Point(1047, 28);
-            this.txtOrderID.Margin = new System.Windows.Forms.Padding(5);
+            this.txtOrderID.Location = new System.Drawing.Point(1570, 40);
+            this.txtOrderID.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtOrderID.Name = "txtOrderID";
-            this.txtOrderID.Size = new System.Drawing.Size(159, 27);
+            this.txtOrderID.Size = new System.Drawing.Size(237, 32);
             this.txtOrderID.TabIndex = 139;
             this.txtOrderID.Visible = false;
             // 
@@ -337,12 +339,12 @@
             // 
             this.lblTotal.AutoSize = true;
             this.lblTotal.BackColor = System.Drawing.Color.Transparent;
-            this.lblTotal.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTotal.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTotal.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.lblTotal.Location = new System.Drawing.Point(669, 408);
-            this.lblTotal.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.lblTotal.Location = new System.Drawing.Point(1004, 596);
+            this.lblTotal.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(54, 23);
+            this.lblTotal.Size = new System.Drawing.Size(43, 19);
             this.lblTotal.TabIndex = 138;
             this.lblTotal.Text = "Total";
             // 
@@ -350,12 +352,12 @@
             // 
             this.label12.AutoSize = true;
             this.label12.BackColor = System.Drawing.Color.Transparent;
-            this.label12.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label12.Location = new System.Drawing.Point(597, 410);
-            this.label12.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label12.Location = new System.Drawing.Point(896, 600);
+            this.label12.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(53, 21);
+            this.label12.Size = new System.Drawing.Size(48, 19);
             this.label12.TabIndex = 137;
             this.label12.Text = "Total:";
             // 
@@ -363,24 +365,24 @@
             // 
             this.label11.AutoSize = true;
             this.label11.BackColor = System.Drawing.Color.Transparent;
-            this.label11.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label11.Location = new System.Drawing.Point(411, 367);
-            this.label11.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label11.Location = new System.Drawing.Point(616, 537);
+            this.label11.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(80, 21);
+            this.label11.Size = new System.Drawing.Size(68, 19);
             this.label11.TabIndex = 136;
             this.label11.Text = "Payment";
             // 
             // txtPayment
             // 
             this.txtPayment.BackColor = System.Drawing.Color.White;
-            this.txtPayment.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPayment.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPayment.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtPayment.Location = new System.Drawing.Point(549, 361);
-            this.txtPayment.Margin = new System.Windows.Forms.Padding(5);
+            this.txtPayment.Location = new System.Drawing.Point(824, 527);
+            this.txtPayment.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtPayment.Name = "txtPayment";
-            this.txtPayment.Size = new System.Drawing.Size(228, 27);
+            this.txtPayment.Size = new System.Drawing.Size(340, 27);
             this.txtPayment.TabIndex = 135;
             this.txtPayment.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtPayment_KeyPress);
             // 
@@ -388,24 +390,24 @@
             // 
             this.label10.AutoSize = true;
             this.label10.BackColor = System.Drawing.Color.Transparent;
-            this.label10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label10.Location = new System.Drawing.Point(14, 293);
-            this.label10.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label10.Location = new System.Drawing.Point(21, 429);
+            this.label10.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(64, 21);
+            this.label10.Size = new System.Drawing.Size(55, 19);
             this.label10.TabIndex = 134;
             this.label10.Text = "Search";
             // 
             // txtSearch
             // 
             this.txtSearch.BackColor = System.Drawing.Color.White;
-            this.txtSearch.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSearch.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtSearch.Location = new System.Drawing.Point(83, 290);
-            this.txtSearch.Margin = new System.Windows.Forms.Padding(5);
+            this.txtSearch.Location = new System.Drawing.Point(125, 424);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtSearch.Name = "txtSearch";
-            this.txtSearch.Size = new System.Drawing.Size(194, 27);
+            this.txtSearch.Size = new System.Drawing.Size(289, 27);
             this.txtSearch.TabIndex = 133;
             // 
             // button3
@@ -413,13 +415,13 @@
             this.button3.BackColor = System.Drawing.Color.DarkGray;
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.Location = new System.Drawing.Point(256, 330);
-            this.button3.Margin = new System.Windows.Forms.Padding(5);
+            this.button3.Location = new System.Drawing.Point(384, 482);
+            this.button3.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(128, 40);
+            this.button3.Size = new System.Drawing.Size(192, 58);
             this.button3.TabIndex = 132;
             this.button3.Text = "Remove All";
             this.button3.UseVisualStyleBackColor = false;
@@ -430,14 +432,14 @@
             this.button1.BackColor = System.Drawing.Color.Red;
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(135, 330);
-            this.button1.Margin = new System.Windows.Forms.Padding(5);
+            this.button1.Location = new System.Drawing.Point(202, 482);
+            this.button1.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(111, 40);
+            this.button1.Size = new System.Drawing.Size(166, 58);
             this.button1.TabIndex = 131;
             this.button1.Text = "Remove";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -449,14 +451,14 @@
             this.btnOrder.BackColor = System.Drawing.Color.LimeGreen;
             this.btnOrder.FlatAppearance.BorderSize = 0;
             this.btnOrder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOrder.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOrder.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOrder.ForeColor = System.Drawing.Color.White;
             this.btnOrder.Image = ((System.Drawing.Image)(resources.GetObject("btnOrder.Image")));
             this.btnOrder.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnOrder.Location = new System.Drawing.Point(17, 330);
-            this.btnOrder.Margin = new System.Windows.Forms.Padding(5);
+            this.btnOrder.Location = new System.Drawing.Point(26, 482);
+            this.btnOrder.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.btnOrder.Name = "btnOrder";
-            this.btnOrder.Size = new System.Drawing.Size(108, 40);
+            this.btnOrder.Size = new System.Drawing.Size(162, 58);
             this.btnOrder.TabIndex = 130;
             this.btnOrder.Text = "Add";
             this.btnOrder.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -469,10 +471,10 @@
             this.label9.BackColor = System.Drawing.Color.Transparent;
             this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label9.Location = new System.Drawing.Point(909, 401);
-            this.label9.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label9.Location = new System.Drawing.Point(1364, 587);
+            this.label9.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(119, 21);
+            this.label9.Size = new System.Drawing.Size(142, 23);
             this.label9.TabIndex = 129;
             this.label9.Text = "Manufacturer";
             this.label9.Visible = false;
@@ -483,10 +485,10 @@
             this.txtNetPrice.Enabled = false;
             this.txtNetPrice.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNetPrice.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtNetPrice.Location = new System.Drawing.Point(1047, 173);
-            this.txtNetPrice.Margin = new System.Windows.Forms.Padding(5);
+            this.txtNetPrice.Location = new System.Drawing.Point(1570, 253);
+            this.txtNetPrice.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtNetPrice.Name = "txtNetPrice";
-            this.txtNetPrice.Size = new System.Drawing.Size(159, 27);
+            this.txtNetPrice.Size = new System.Drawing.Size(237, 32);
             this.txtNetPrice.TabIndex = 127;
             this.txtNetPrice.Visible = false;
             // 
@@ -496,10 +498,10 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label2.Location = new System.Drawing.Point(909, 176);
-            this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label2.Location = new System.Drawing.Point(1364, 258);
+            this.label2.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(111, 21);
+            this.label2.Size = new System.Drawing.Size(138, 23);
             this.label2.TabIndex = 128;
             this.label2.Text = "Offered Price";
             this.label2.Visible = false;
@@ -510,10 +512,10 @@
             this.txtPID.Enabled = false;
             this.txtPID.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPID.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtPID.Location = new System.Drawing.Point(1047, 65);
-            this.txtPID.Margin = new System.Windows.Forms.Padding(5);
+            this.txtPID.Location = new System.Drawing.Point(1570, 95);
+            this.txtPID.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtPID.Name = "txtPID";
-            this.txtPID.Size = new System.Drawing.Size(159, 27);
+            this.txtPID.Size = new System.Drawing.Size(237, 32);
             this.txtPID.TabIndex = 118;
             this.txtPID.Visible = false;
             // 
@@ -521,12 +523,12 @@
             // 
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.Color.Transparent;
-            this.label8.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label8.Location = new System.Drawing.Point(411, 330);
-            this.label8.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label8.Location = new System.Drawing.Point(616, 482);
+            this.label8.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(127, 21);
+            this.label8.Size = new System.Drawing.Size(113, 19);
             this.label8.TabIndex = 126;
             this.label8.Text = "Receivable Pcs";
             // 
@@ -534,12 +536,12 @@
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label6.Location = new System.Drawing.Point(411, 293);
-            this.label6.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label6.Location = new System.Drawing.Point(616, 429);
+            this.label6.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(72, 21);
+            this.label6.Size = new System.Drawing.Size(63, 19);
             this.label6.TabIndex = 115;
             this.label6.Text = "Product";
             // 
@@ -549,10 +551,10 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label5.Location = new System.Drawing.Point(909, 68);
-            this.label5.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label5.Location = new System.Drawing.Point(1364, 100);
+            this.label5.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(93, 21);
+            this.label5.Size = new System.Drawing.Size(113, 23);
             this.label5.TabIndex = 120;
             this.label5.Text = "Product ID";
             this.label5.Visible = false;
@@ -561,12 +563,12 @@
             // 
             this.txtName.BackColor = System.Drawing.Color.White;
             this.txtName.Enabled = false;
-            this.txtName.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtName.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtName.Location = new System.Drawing.Point(549, 293);
-            this.txtName.Margin = new System.Windows.Forms.Padding(5);
+            this.txtName.Location = new System.Drawing.Point(824, 429);
+            this.txtName.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(228, 27);
+            this.txtName.Size = new System.Drawing.Size(340, 27);
             this.txtName.TabIndex = 116;
             // 
             // label1
@@ -575,10 +577,10 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label1.Location = new System.Drawing.Point(909, 216);
-            this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label1.Location = new System.Drawing.Point(1364, 316);
+            this.label1.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(47, 21);
+            this.label1.Size = new System.Drawing.Size(56, 23);
             this.label1.TabIndex = 121;
             this.label1.Text = "Type";
             this.label1.Visible = false;
@@ -589,10 +591,10 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label3.Location = new System.Drawing.Point(909, 253);
-            this.label3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label3.Location = new System.Drawing.Point(1364, 369);
+            this.label3.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(38, 21);
+            this.label3.Size = new System.Drawing.Size(45, 23);
             this.label3.TabIndex = 122;
             this.label3.Text = "Size";
             this.label3.Visible = false;
@@ -603,10 +605,10 @@
             this.txtPrice.Enabled = false;
             this.txtPrice.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPrice.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtPrice.Location = new System.Drawing.Point(1047, 136);
-            this.txtPrice.Margin = new System.Windows.Forms.Padding(5);
+            this.txtPrice.Location = new System.Drawing.Point(1570, 198);
+            this.txtPrice.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtPrice.Name = "txtPrice";
-            this.txtPrice.Size = new System.Drawing.Size(159, 27);
+            this.txtPrice.Size = new System.Drawing.Size(237, 32);
             this.txtPrice.TabIndex = 117;
             this.txtPrice.Visible = false;
             // 
@@ -616,10 +618,10 @@
             this.txtBrand.Enabled = false;
             this.txtBrand.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBrand.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtBrand.Location = new System.Drawing.Point(1047, 288);
-            this.txtBrand.Margin = new System.Windows.Forms.Padding(5);
+            this.txtBrand.Location = new System.Drawing.Point(1570, 420);
+            this.txtBrand.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtBrand.Name = "txtBrand";
-            this.txtBrand.Size = new System.Drawing.Size(159, 27);
+            this.txtBrand.Size = new System.Drawing.Size(237, 32);
             this.txtBrand.TabIndex = 123;
             this.txtBrand.Visible = false;
             // 
@@ -629,10 +631,10 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label7.Location = new System.Drawing.Point(909, 291);
-            this.label7.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label7.Location = new System.Drawing.Point(1364, 425);
+            this.label7.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(56, 21);
+            this.label7.Size = new System.Drawing.Size(67, 23);
             this.label7.TabIndex = 124;
             this.label7.Text = "Brand";
             this.label7.Visible = false;
@@ -643,10 +645,10 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label4.Location = new System.Drawing.Point(909, 139);
-            this.label4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label4.Location = new System.Drawing.Point(1364, 203);
+            this.label4.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(47, 21);
+            this.label4.Size = new System.Drawing.Size(57, 23);
             this.label4.TabIndex = 119;
             this.label4.Text = "Price";
             this.label4.Visible = false;
@@ -654,12 +656,12 @@
             // txtReceive
             // 
             this.txtReceive.BackColor = System.Drawing.Color.White;
-            this.txtReceive.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtReceive.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtReceive.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.txtReceive.Location = new System.Drawing.Point(549, 327);
-            this.txtReceive.Margin = new System.Windows.Forms.Padding(5);
+            this.txtReceive.Location = new System.Drawing.Point(824, 477);
+            this.txtReceive.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.txtReceive.Name = "txtReceive";
-            this.txtReceive.Size = new System.Drawing.Size(228, 27);
+            this.txtReceive.Size = new System.Drawing.Size(340, 27);
             this.txtReceive.TabIndex = 125;
             this.txtReceive.TextChanged += new System.EventHandler(this.txtReceive_TextChanged);
             this.txtReceive.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtReceive_KeyPress);
@@ -690,9 +692,10 @@
             this.panel1.Controls.Add(this.label6);
             this.panel1.Controls.Add(this.txtName);
             this.panel1.Controls.Add(this.txtReceive);
-            this.panel1.Location = new System.Drawing.Point(12, 12);
+            this.panel1.Location = new System.Drawing.Point(18, 18);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(791, 443);
+            this.panel1.Size = new System.Drawing.Size(1187, 647);
             this.panel1.TabIndex = 159;
             // 
             // button4
@@ -700,13 +703,14 @@
             this.button4.BackColor = System.Drawing.Color.RoyalBlue;
             this.button4.FlatAppearance.BorderSize = 0;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.White;
             this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
             this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.Location = new System.Drawing.Point(650, 3);
+            this.button4.Location = new System.Drawing.Point(975, 5);
+            this.button4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(138, 40);
+            this.button4.Size = new System.Drawing.Size(207, 58);
             this.button4.TabIndex = 160;
             this.button4.Text = "View Notes";
             this.button4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -721,19 +725,20 @@
             this.button2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.Location = new System.Drawing.Point(2, 2);
+            this.button2.Location = new System.Drawing.Point(3, 2);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(31, 26);
+            this.button2.Size = new System.Drawing.Size(46, 38);
             this.button2.TabIndex = 159;
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // frmReceiveCrit
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gainsboro;
-            this.ClientSize = new System.Drawing.Size(815, 465);
+            this.ClientSize = new System.Drawing.Size(1223, 679);
             this.Controls.Add(this.txtTempReceive);
             this.Controls.Add(this.txtpcsleft);
             this.Controls.Add(this.txtTemp);
@@ -757,7 +762,9 @@
             this.Controls.Add(this.txtPID);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtNetPrice);
+            this.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "frmReceiveCrit";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmReceiveInventory";
