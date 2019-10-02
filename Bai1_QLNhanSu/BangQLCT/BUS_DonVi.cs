@@ -22,6 +22,36 @@ namespace BangQLCT
             da.Fill(dt);
             return dt;
         }
+		
+		        public DataTable HienThiDonVi()
+        {
+            string sql = "SELECT * FROM dbo.DonVi";
+            DataTable dt = new DataTable();
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
+            return dt;
+        }
+		
+		        public DataTable HienThiDonVi()
+        {
+            string sql = "SELECT * FROM dbo.DonVi";
+            DataTable dt = new DataTable();
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
+            return dt;
+        }
+		
+		        public DataTable HienThiDonVi()
+        {
+            string sql = "SELECT * FROM dbo.DonVi";
+            DataTable dt = new DataTable();
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
+            return dt;
+        }
 
         public void ThemDonVi(string TenDV, string NQL, string DC, string SoDT)
         {
