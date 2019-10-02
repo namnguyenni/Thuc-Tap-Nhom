@@ -38,6 +38,7 @@
             this.btnLuu = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
+            this.btnThem = new System.Windows.Forms.Button();
             this.dtpNgaySinhGV = new System.Windows.Forms.DateTimePicker();
             this.cbMonHoc = new System.Windows.Forms.ComboBox();
             this.cbGTGV = new System.Windows.Forms.ComboBox();
@@ -62,7 +63,6 @@
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.btnThem = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvGiaoVien)).BeginInit();
@@ -96,9 +96,9 @@
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupBox1.Location = new System.Drawing.Point(0, 0);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(1332, 320);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
@@ -108,8 +108,8 @@
             this.btnHuy.BackgroundImage = global::Main.Properties.Resources._1;
             this.btnHuy.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnHuy.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.btnHuy.Location = new System.Drawing.Point(1136, 265);
-            this.btnHuy.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnHuy.Location = new System.Drawing.Point(1128, 258);
+            this.btnHuy.Margin = new System.Windows.Forms.Padding(4);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(100, 42);
             this.btnHuy.TabIndex = 45;
@@ -119,8 +119,8 @@
             // 
             // txtDiaChi
             // 
-            this.txtDiaChi.Location = new System.Drawing.Point(545, 155);
-            this.txtDiaChi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtDiaChi.Location = new System.Drawing.Point(545, 160);
+            this.txtDiaChi.Margin = new System.Windows.Forms.Padding(4);
             this.txtDiaChi.Name = "txtDiaChi";
             this.txtDiaChi.Size = new System.Drawing.Size(235, 22);
             this.txtDiaChi.TabIndex = 44;
@@ -128,7 +128,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(433, 155);
+            this.label9.Location = new System.Drawing.Point(433, 160);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(51, 17);
@@ -148,7 +148,7 @@
             // txtTKGV
             // 
             this.txtTKGV.Location = new System.Drawing.Point(563, 231);
-            this.txtTKGV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTKGV.Margin = new System.Windows.Forms.Padding(4);
             this.txtTKGV.Name = "txtTKGV";
             this.txtTKGV.Size = new System.Drawing.Size(235, 22);
             this.txtTKGV.TabIndex = 40;
@@ -161,7 +161,7 @@
             "Mã",
             "Họ Tên"});
             this.cbTKGV.Location = new System.Drawing.Point(376, 231);
-            this.cbTKGV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbTKGV.Margin = new System.Windows.Forms.Padding(4);
             this.cbTKGV.Name = "cbTKGV";
             this.cbTKGV.Size = new System.Drawing.Size(160, 24);
             this.cbTKGV.TabIndex = 39;
@@ -172,7 +172,7 @@
             this.btnLuu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnLuu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.btnLuu.Location = new System.Drawing.Point(1191, 208);
-            this.btnLuu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLuu.Margin = new System.Windows.Forms.Padding(4);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(100, 42);
             this.btnLuu.TabIndex = 38;
@@ -185,7 +185,7 @@
             this.btnXoa.BackgroundImage = global::Main.Properties.Resources._1;
             this.btnXoa.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnXoa.Location = new System.Drawing.Point(1191, 158);
-            this.btnXoa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnXoa.Margin = new System.Windows.Forms.Padding(4);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(100, 42);
             this.btnXoa.TabIndex = 37;
@@ -198,7 +198,7 @@
             this.btnSua.BackgroundImage = global::Main.Properties.Resources._1;
             this.btnSua.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnSua.Location = new System.Drawing.Point(1064, 208);
-            this.btnSua.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSua.Margin = new System.Windows.Forms.Padding(4);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(100, 42);
             this.btnSua.TabIndex = 36;
@@ -206,12 +206,26 @@
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
+            // btnThem
+            // 
+            this.btnThem.BackgroundImage = global::Main.Properties.Resources._1;
+            this.btnThem.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnThem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.btnThem.Location = new System.Drawing.Point(1064, 158);
+            this.btnThem.Margin = new System.Windows.Forms.Padding(4);
+            this.btnThem.Name = "btnThem";
+            this.btnThem.Size = new System.Drawing.Size(100, 42);
+            this.btnThem.TabIndex = 35;
+            this.btnThem.Text = "Thêm";
+            this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
+            // 
             // dtpNgaySinhGV
             // 
             this.dtpNgaySinhGV.CustomFormat = "MM/dd/yyyy";
             this.dtpNgaySinhGV.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpNgaySinhGV.Location = new System.Drawing.Point(545, 98);
-            this.dtpNgaySinhGV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dtpNgaySinhGV.Location = new System.Drawing.Point(545, 102);
+            this.dtpNgaySinhGV.Margin = new System.Windows.Forms.Padding(4);
             this.dtpNgaySinhGV.Name = "dtpNgaySinhGV";
             this.dtpNgaySinhGV.Size = new System.Drawing.Size(160, 22);
             this.dtpNgaySinhGV.TabIndex = 34;
@@ -221,10 +235,11 @@
             // 
             this.cbMonHoc.FormattingEnabled = true;
             this.cbMonHoc.Location = new System.Drawing.Point(928, 43);
-            this.cbMonHoc.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbMonHoc.Margin = new System.Windows.Forms.Padding(4);
             this.cbMonHoc.Name = "cbMonHoc";
             this.cbMonHoc.Size = new System.Drawing.Size(235, 24);
             this.cbMonHoc.TabIndex = 33;
+            this.cbMonHoc.SelectedIndexChanged += new System.EventHandler(this.cbMonHoc_SelectedIndexChanged);
             // 
             // cbGTGV
             // 
@@ -232,8 +247,8 @@
             this.cbGTGV.Items.AddRange(new object[] {
             "Nam",
             "Nu"});
-            this.cbGTGV.Location = new System.Drawing.Point(153, 153);
-            this.cbGTGV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbGTGV.Location = new System.Drawing.Point(153, 157);
+            this.cbGTGV.Margin = new System.Windows.Forms.Padding(4);
             this.cbGTGV.Name = "cbGTGV";
             this.cbGTGV.Size = new System.Drawing.Size(160, 24);
             this.cbGTGV.TabIndex = 32;
@@ -241,7 +256,7 @@
             // txtLuong
             // 
             this.txtLuong.Location = new System.Drawing.Point(928, 98);
-            this.txtLuong.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtLuong.Margin = new System.Windows.Forms.Padding(4);
             this.txtLuong.Name = "txtLuong";
             this.txtLuong.Size = new System.Drawing.Size(235, 22);
             this.txtLuong.TabIndex = 31;
@@ -249,7 +264,7 @@
             // txtSDT
             // 
             this.txtSDT.Location = new System.Drawing.Point(545, 43);
-            this.txtSDT.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSDT.Margin = new System.Windows.Forms.Padding(4);
             this.txtSDT.Name = "txtSDT";
             this.txtSDT.Size = new System.Drawing.Size(235, 22);
             this.txtSDT.TabIndex = 30;
@@ -257,7 +272,7 @@
             // txtHoTenGV
             // 
             this.txtHoTenGV.Location = new System.Drawing.Point(153, 102);
-            this.txtHoTenGV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtHoTenGV.Margin = new System.Windows.Forms.Padding(4);
             this.txtHoTenGV.Name = "txtHoTenGV";
             this.txtHoTenGV.Size = new System.Drawing.Size(235, 22);
             this.txtHoTenGV.TabIndex = 29;
@@ -305,7 +320,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(40, 155);
+            this.label3.Location = new System.Drawing.Point(40, 160);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(65, 17);
@@ -326,7 +341,7 @@
             // 
             this.txtMaGV.Enabled = false;
             this.txtMaGV.Location = new System.Drawing.Point(153, 43);
-            this.txtMaGV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtMaGV.Margin = new System.Windows.Forms.Padding(4);
             this.txtMaGV.Name = "txtMaGV";
             this.txtMaGV.Size = new System.Drawing.Size(235, 22);
             this.txtMaGV.TabIndex = 22;
@@ -346,9 +361,9 @@
             this.groupBox2.Controls.Add(this.dgvGiaoVien);
             this.groupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox2.Location = new System.Drawing.Point(0, 320);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox2.Size = new System.Drawing.Size(1332, 314);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
@@ -368,7 +383,7 @@
             this.Column8});
             this.dgvGiaoVien.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvGiaoVien.Location = new System.Drawing.Point(4, 19);
-            this.dgvGiaoVien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvGiaoVien.Margin = new System.Windows.Forms.Padding(4);
             this.dgvGiaoVien.Name = "dgvGiaoVien";
             this.dgvGiaoVien.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvGiaoVien.Size = new System.Drawing.Size(1324, 291);
@@ -431,20 +446,6 @@
             this.Column8.HeaderText = "Môn Học";
             this.Column8.Name = "Column8";
             // 
-            // btnThem
-            // 
-            this.btnThem.BackgroundImage = global::Main.Properties.Resources._1;
-            this.btnThem.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnThem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.btnThem.Location = new System.Drawing.Point(1064, 158);
-            this.btnThem.Margin = new System.Windows.Forms.Padding(4);
-            this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(100, 42);
-            this.btnThem.TabIndex = 35;
-            this.btnThem.Text = "Thêm";
-            this.btnThem.UseVisualStyleBackColor = true;
-            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
-            // 
             // Giao_Vien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -452,7 +453,7 @@
             this.ClientSize = new System.Drawing.Size(1332, 634);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Giao_Vien";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Giáo Viên";

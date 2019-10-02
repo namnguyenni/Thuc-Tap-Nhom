@@ -142,5 +142,10 @@ namespace Main
             else
                 dgvGiaoVien.DataSource = tk.TKTenGiaoVien(txtTKGV.Text);
         }
+
+        private void cbMonHoc_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

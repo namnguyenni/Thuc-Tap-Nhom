@@ -12,7 +12,7 @@ namespace BUS
     {
         public DataTable Show()
         {
-            string sql = "SELECT MaLop, TenLop from dbo.Lop";
+            string sql = "SELECT MaLop, TenLop FROM dbo.Lop";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
             conn.Open();

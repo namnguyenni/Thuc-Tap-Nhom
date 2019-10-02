@@ -18,9 +18,9 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.DauSach WHERE MaDauSach LIKE N'%' + @MaDauSach + '%'";
             DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@MaDauSach", MaTL);
             da.SelectCommand = cmd;
@@ -34,9 +34,9 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.DauSach WHERE NhanDe LIKE N'%' + @NhanDe + '%'";
             DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@NhanDe", NhanDe);
             da.SelectCommand = cmd;
@@ -48,9 +48,9 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.DauSach WHERE TacGia LIKE N'%' + @TacGia + '%'";
             DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@TacGia", TacGia);
             da.SelectCommand = cmd;
@@ -62,9 +62,9 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.BanDoc WHERE MaBD LIKE N'%' + @MaBD + '%'";
             DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@MaBD", MaBD);
             da.SelectCommand = cmd;
@@ -77,9 +77,9 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.BanDoc WHERE HoTen LIKE N'%' + @HoTen + '%'";
             DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@HoTen", HoTen);
             da.SelectCommand = cmd;
@@ -92,9 +92,9 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.BanDoc WHERE CMND LIKE N'%' + @CMND + '%'";
             DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@CMND", CMND);
             da.SelectCommand = cmd;
@@ -107,9 +107,9 @@ namespace BangThuVien
         {
             string sql = "SELECT * FROM dbo.BanDoc WHERE MaLop LIKE N'%' + @MaLop + '%'";
             DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@MaLop", MaLop);
             da.SelectCommand = cmd;
