@@ -23,22 +23,98 @@ namespace QL_KhoHang
             txtGioiThieu.Text = s;
         }
 
+		
+		
+		        public frmHuongDan()
+        {
+            InitializeComponent();
+        }
+        private void GetFileAll(string tenfile)
+        {
+            StreamReader doc = File.OpenText(tenfile);
+            string s = doc.ReadToEnd();
+            txtGioiThieu.Text = s;
+        }
+		
+		        public frmHuongDan()
+        {
+            InitializeComponent();
+        }
+        private void GetFileAll(string tenfile)
+        {
+            StreamReader doc = File.OpenText(tenfile);
+            string s = doc.ReadToEnd();
+            txtGioiThieu.Text = s;
+        }
+		
+		        public frmHuongDan()
+        {
+            InitializeComponent();
+        }
+        private void GetFileAll(string tenfile)
+        {
+            StreamReader doc = File.OpenText(tenfile);
+            string s = doc.ReadToEnd();
+            txtGioiThieu.Text = s;
+        }
+		
+		        public frmHuongDan()
+        {
+            InitializeComponent();
+        }
+        private void GetFileAll(string tenfile)
+        {
+            StreamReader doc = File.OpenText(tenfile);
+            string s = doc.ReadToEnd();
+            txtGioiThieu.Text = s;
+        }
+		
+		        public frmHuongDan()
+        {
+            InitializeComponent();
+        }
+        private void GetFileAll(string tenfile)
+        {
+            StreamReader doc = File.OpenText(tenfile);
+            string s = doc.ReadToEnd();
+            txtGioiThieu.Text = s;
+        }
+		
+		        public frmHuongDan()
+        {
+            InitializeComponent();
+        }
+        private void GetFileAll(string tenfile)
+        {
+            StreamReader doc = File.OpenText(tenfile);
+            string s = doc.ReadToEnd();
+            txtGioiThieu.Text = s;
+        }
+		
+		        public frmHuongDan()
+        {
+            InitializeComponent();
+        }
+        private void GetFileAll(string tenfile)
+        {
+            StreamReader doc = File.OpenText(tenfile);
+            string s = doc.ReadToEnd();
+            txtGioiThieu.Text = s;
+        }
+		
+		        public frmHuongDan()
+        {
+            InitializeComponent();
+        }
+        private void GetFileAll(string tenfile)
+        {
+            StreamReader doc = File.OpenText(tenfile);
+            string s = doc.ReadToEnd();
+            txtGioiThieu.Text = s;
+        }
         private void trViewGioiThieu_AfterSelect(object sender, TreeViewEventArgs e)
         {
-            if (e.Node.Name == "gtPhanMem")
-            {
-                GetFileAll("GioiThieuChung.txt");
-                Image img = Image.FromFile(@"kho.jpg");
-                pictureBox1.BackgroundImage = img;
-            }
-            else if (e.Node.Name == "gtDangNhap")
-                {
-                    GetFileAll("PhanDangNhap.txt");
-                    Image img = Image.FromFile(@"b4 anh dang nhap.png");
-                    pictureBox1.BackgroundImage = img;
-                }
-            else if (e.Node.Name == "gtManHinhChinh")
-                    {
+    
                         GetFileAll("PhanMain.txt");
                         Image img = Image.FromFile(@"b4 anh main.png");
                         pictureBox1.BackgroundImage = img;

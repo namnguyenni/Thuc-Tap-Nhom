@@ -337,3 +337,6 @@ E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\D
 E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
 E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
 E:\git2\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb
+D:\github\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\bin\Debug\QL_MuaHang02.exe.config
+D:\github\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.exe
+D:\github\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\BTL_QLBanHang\QL_MuaHang02\obj\Debug\QL_MuaHang02.pdb

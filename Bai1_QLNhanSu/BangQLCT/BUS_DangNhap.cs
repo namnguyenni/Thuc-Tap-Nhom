@@ -28,6 +28,9 @@ namespace BangQLCT
                 return true;
             }
             return false;
+			
+			
         }
-    }
+		
+
 }
