@@ -162,5 +162,45 @@ namespace BusinessLogic
             da.Fill(dt);
             return dt;
         }
+
+
+
+        // rieng 
+        public void TNV(string TenDn, string MatKhau, string TenNV, string GT, string DiaChi, string SDT)
+        {
+            string sql = "TNV";
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@TenDn", TenDn);
+            cmd.Parameters.AddWithValue("@MatKhau", MatKhau);
+            cmd.Parameters.AddWithValue("@TenNV", TenNV);
+            cmd.Parameters.AddWithValue("@GT", GT);
+            cmd.Parameters.AddWithValue("@DiaChi", DiaChi);
+            cmd.Parameters.AddWithValue("@SDT", SDT);
+
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+        }
+
+        public void SNV(string TenDn, string MatKhau, string TenNV, string GT, string DiaChi, string SDT)
+        {
+            string sql = "SNV";
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@MatKhau", MatKhau);
+            cmd.Parameters.AddWithValue("@TenNV", TenNV);
+            cmd.Parameters.AddWithValue("@GT", GT);
+            cmd.Parameters.AddWithValue("@DiaChi", DiaChi);
+            cmd.Parameters.AddWithValue("@SDT", SDT);
+            cmd.Parameters.AddWithValue("@TenDn", TenDn);
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+        }
     }
 }
