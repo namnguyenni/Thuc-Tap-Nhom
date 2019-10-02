@@ -311,7 +311,17 @@ namespace skelot
             frmRecordCashier RC = new frmRecordCashier();
             RC.Show();
         }
+
+        private void lblTempID_Click(object sender, EventArgs e)
+        {
+
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 
      
     }
