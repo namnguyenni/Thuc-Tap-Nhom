@@ -80,5 +80,32 @@ namespace BusinessLogic
             cmd.Dispose();
             return dt;
         }
+
+
+
+        KetNoiDB da = new KetNoiDB();
+        public DataTable SLH()
+        {
+            string sql = @"SELECT * FROM LOAIHANG";
+            DataTable dt = new DataTable();
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
+            ad.Fill(dt);
+            return dt;
+        }
+        public void ILoaiHang(string _TenLH)
+        {
+            string sql = "TLH";
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@tenlh", _TenLH);
+
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+
+        }
     }
 }
