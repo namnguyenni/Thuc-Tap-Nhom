@@ -96,5 +96,53 @@ namespace BusinessLogic
 
         }
 
+
+
+    public class NCC
+    {
+        KetNoiDB da = new KetNoiDB();
+        public DataTable ShowNCC(string DieuKien)
+        {
+            string sql = @"SELECT * FROM NHACUNGCAP " + DieuKien;
+            DataTable dt = new DataTable();
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
+            ad.Fill(dt);
+            return dt;
+        }
+        public void INCC(string _TenNCC, string _DiaChi, string _SDT)
+        {
+            string sql = "TNCC";
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@tenlh", _TenNCC);
+            cmd.Parameters.AddWithValue("@diachi", _DiaChi);
+            cmd.Parameters.AddWithValue("@sdt", _SDT);
+
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+
+        }
+        public void UNCC(string _MaNCC, string _TenNCC, string _DiaChi, string _SDT)
+        {
+            string sql = "SuaNCC";
+            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@mancc", _MaNCC);
+            cmd.Parameters.AddWithValue("@tenncc", _TenNCC);
+            cmd.Parameters.AddWithValue("@diachi", _DiaChi);
+            cmd.Parameters.AddWithValue("@sdt", _SDT);
+
+
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+
+        }
     }
 }
