@@ -20,15 +20,6 @@ namespace BusinessLogic
             if (dt.Rows.Count > 0) return true;
             return false;
         }
-        public bool Login_1(string _Name, string _Pass)
-        {
-            string sql = @"select * from.NHANVIEN WHERE TenDN = '" + _Name + "' AND MatKhau = '" + _Pass + "'";
-            SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            DataTable dt = new DataTable();
-            ad.Fill(dt);
-            if (dt.Rows.Count > 0) return true;
-            return false;
-        }
+        
     }
 }
