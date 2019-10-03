@@ -32,5 +32,8 @@ namespace BangThuVien
             b = dbcon.executeInsertQuery(sql, arr);
             return b;
         }
+
+
+     
     }
 }
