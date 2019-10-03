@@ -399,6 +399,7 @@
             this.btnRefresh.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnRefresh.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRefresh.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRefresh.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnRefresh.Location = new System.Drawing.Point(443, 13);
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(94, 31);
@@ -414,7 +415,7 @@
             this.btnKH.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnKH.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnKH.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnKH.ForeColor = System.Drawing.Color.Transparent;
+            this.btnKH.ForeColor = System.Drawing.Color.Black;
             this.btnKH.Location = new System.Drawing.Point(154, 10);
             this.btnKH.Name = "btnKH";
             this.btnKH.Size = new System.Drawing.Size(199, 37);

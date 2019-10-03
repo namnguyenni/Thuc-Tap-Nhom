@@ -73,7 +73,7 @@
             this.btnLuu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnLuu.Enabled = false;
             this.btnLuu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLuu.ForeColor = System.Drawing.Color.SandyBrown;
+            this.btnLuu.ForeColor = System.Drawing.Color.MistyRose;
             this.btnLuu.Location = new System.Drawing.Point(378, 85);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 35);
@@ -87,7 +87,7 @@
             this.btnXoa.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnXoa.BackgroundImage")));
             this.btnXoa.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnXoa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnXoa.ForeColor = System.Drawing.Color.SandyBrown;
+            this.btnXoa.ForeColor = System.Drawing.Color.MistyRose;
             this.btnXoa.Location = new System.Drawing.Point(480, 85);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 35);
@@ -101,7 +101,7 @@
             this.btnThoat.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnThoat.BackgroundImage")));
             this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnThoat.ForeColor = System.Drawing.Color.SandyBrown;
+            this.btnThoat.ForeColor = System.Drawing.Color.MistyRose;
             this.btnThoat.Location = new System.Drawing.Point(480, 137);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 35);
@@ -115,7 +115,7 @@
             this.btnSua.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSua.BackgroundImage")));
             this.btnSua.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnSua.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSua.ForeColor = System.Drawing.Color.SandyBrown;
+            this.btnSua.ForeColor = System.Drawing.Color.MistyRose;
             this.btnSua.Location = new System.Drawing.Point(480, 33);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 35);
@@ -130,7 +130,7 @@
             this.btnHuy.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnHuy.Enabled = false;
             this.btnHuy.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnHuy.ForeColor = System.Drawing.Color.SandyBrown;
+            this.btnHuy.ForeColor = System.Drawing.Color.MistyRose;
             this.btnHuy.Location = new System.Drawing.Point(378, 137);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(75, 35);
@@ -144,7 +144,7 @@
             this.btnThem.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnThem.BackgroundImage")));
             this.btnThem.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnThem.ForeColor = System.Drawing.Color.SandyBrown;
+            this.btnThem.ForeColor = System.Drawing.Color.MistyRose;
             this.btnThem.Location = new System.Drawing.Point(378, 33);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 35);
@@ -155,17 +155,17 @@
             // 
             // txtTenLH
             // 
-            this.txtTenLH.Location = new System.Drawing.Point(143, 109);
+            this.txtTenLH.Location = new System.Drawing.Point(162, 114);
             this.txtTenLH.Name = "txtTenLH";
-            this.txtTenLH.Size = new System.Drawing.Size(173, 25);
+            this.txtTenLH.Size = new System.Drawing.Size(173, 29);
             this.txtTenLH.TabIndex = 30;
             // 
             // txtMaLH
             // 
             this.txtMaLH.Enabled = false;
-            this.txtMaLH.Location = new System.Drawing.Point(143, 43);
+            this.txtMaLH.Location = new System.Drawing.Point(162, 48);
             this.txtMaLH.Name = "txtMaLH";
-            this.txtMaLH.Size = new System.Drawing.Size(173, 25);
+            this.txtMaLH.Size = new System.Drawing.Size(173, 29);
             this.txtMaLH.TabIndex = 29;
             // 
             // label2
@@ -174,7 +174,7 @@
             this.label2.Location = new System.Drawing.Point(39, 117);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(97, 17);
+            this.label2.Size = new System.Drawing.Size(121, 21);
             this.label2.TabIndex = 28;
             this.label2.Text = "Tên Loại Hàng";
             // 
@@ -184,7 +184,7 @@
             this.label1.Location = new System.Drawing.Point(39, 51);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(94, 17);
+            this.label1.Size = new System.Drawing.Size(116, 21);
             this.label1.TabIndex = 27;
             this.label1.Text = "Mã Loại Hàng";
             // 
@@ -197,10 +197,10 @@
             this.Column1,
             this.Column2});
             this.dataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.dataGridView1.Location = new System.Drawing.Point(9, 193);
+            this.dataGridView1.Location = new System.Drawing.Point(0, 193);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(593, 255);
+            this.dataGridView1.Size = new System.Drawing.Size(602, 255);
             this.dataGridView1.TabIndex = 1;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
@@ -228,7 +228,7 @@
             // 
             // frmLoaiHang
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(605, 460);
             this.Controls.Add(this.dataGridView1);
