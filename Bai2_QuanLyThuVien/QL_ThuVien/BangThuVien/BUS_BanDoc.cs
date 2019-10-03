@@ -102,5 +102,48 @@ namespace BangThuVien
 
             return dt;
         }
+
+
+        // rieng
+        public DataTable TKBDID(string _MaBD)
+        {
+            DataTable dt = new DataTable();
+            string str = string.Format("Select * from dbo.BanDoc where (MaBD = @MaBD)");
+            SqlParameter[] arrPara = new SqlParameter[1];
+            arrPara[0] = new SqlParameter("@MaBD", SqlDbType.NVarChar, 10);
+            arrPara[0].Value = _MaBD;
+
+            dt = dbcon.executeSelectQuery(str, arrPara);
+            return dt;
+        }
+        public DataTable HTBanDoc()
+        {
+            string sql = "SELECT * FROM dbo.BanDoc";
+            DataTable dt = new DataTable();
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            da.Fill(dt);
+            return dt;
+        }
+
+        public void TBD(string HoTen, string GioiTinh, DateTime NgaySinh, string CMND, string MaLop, string DiaChi, string Email, string DienThoai)
+        {
+            string sql = "ThemBanDoc";
+            SqlConnection con = new SqlConnection(KetNoi.connect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@HoTen", HoTen);
+            cmd.Parameters.AddWithValue("@GioiTinh", GioiTinh);
+            cmd.Parameters.AddWithValue("@NgaySinh", NgaySinh);
+            cmd.Parameters.AddWithValue("@CMND", CMND);
+            cmd.Parameters.AddWithValue("@MaLop", MaLop);
+            cmd.Parameters.AddWithValue("@DiaChi", DiaChi);
+            cmd.Parameters.AddWithValue("@Email", Email);
+            cmd.Parameters.AddWithValue("@DienThoai", DienThoai);
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+        }
     }
 }
