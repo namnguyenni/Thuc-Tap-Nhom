@@ -40,6 +40,7 @@
             this.groupBoxHoaDon = new System.Windows.Forms.GroupBox();
             this.tabControlTheoHoaDon = new System.Windows.Forms.TabControl();
             this.tabPageTheoNgay = new System.Windows.Forms.TabPage();
+            this.btnPrint = new System.Windows.Forms.Button();
             this.btnRefresh = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
@@ -66,7 +67,6 @@
             this.lblTenSP = new System.Windows.Forms.Label();
             this.picSP = new System.Windows.Forms.PictureBox();
             this.paneltemp = new System.Windows.Forms.Panel();
-            this.btnPrint = new System.Windows.Forms.Button();
             this.panelHoaDon.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvHoaDon)).BeginInit();
             this.groupBoxHoaDon.SuspendLayout();
@@ -181,10 +181,10 @@
             this.tabControlTheoHoaDon.Controls.Add(this.tabPageTheoNgay);
             this.tabControlTheoHoaDon.Controls.Add(this.tabPage2);
             this.tabControlTheoHoaDon.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tabControlTheoHoaDon.Location = new System.Drawing.Point(3, 21);
+            this.tabControlTheoHoaDon.Location = new System.Drawing.Point(3, 25);
             this.tabControlTheoHoaDon.Name = "tabControlTheoHoaDon";
             this.tabControlTheoHoaDon.SelectedIndex = 0;
-            this.tabControlTheoHoaDon.Size = new System.Drawing.Size(511, 194);
+            this.tabControlTheoHoaDon.Size = new System.Drawing.Size(511, 190);
             this.tabControlTheoHoaDon.TabIndex = 0;
             // 
             // tabPageTheoNgay
@@ -200,12 +200,22 @@
             this.tabPageTheoNgay.Controls.Add(this.dateTimePicker1);
             this.tabPageTheoNgay.Controls.Add(this.dateTimePicker2);
             this.tabPageTheoNgay.Controls.Add(this.label1);
-            this.tabPageTheoNgay.Location = new System.Drawing.Point(4, 26);
+            this.tabPageTheoNgay.Location = new System.Drawing.Point(4, 30);
             this.tabPageTheoNgay.Name = "tabPageTheoNgay";
             this.tabPageTheoNgay.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageTheoNgay.Size = new System.Drawing.Size(503, 164);
+            this.tabPageTheoNgay.Size = new System.Drawing.Size(503, 156);
             this.tabPageTheoNgay.TabIndex = 0;
             this.tabPageTheoNgay.Text = "Theo Ngày";
+            // 
+            // btnPrint
+            // 
+            this.btnPrint.Location = new System.Drawing.Point(421, 66);
+            this.btnPrint.Name = "btnPrint";
+            this.btnPrint.Size = new System.Drawing.Size(66, 34);
+            this.btnPrint.TabIndex = 15;
+            this.btnPrint.Text = "Print";
+            this.btnPrint.UseVisualStyleBackColor = true;
+            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
             // 
             // btnRefresh
             // 
@@ -232,7 +242,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(197, 28);
             this.button2.TabIndex = 13;
-            this.button2.Text = "Thống Kê Trong Nhiều Ngày";
+            this.button2.Text = "Thống Kê Nhiều Ngày";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -247,7 +257,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(184, 28);
             this.button5.TabIndex = 12;
-            this.button5.Text = "Thống Kê Trong 1 Ngày";
+            this.button5.Text = "Thống Kê Một Ngày";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.btnThongKe_Click);
             // 
@@ -257,7 +267,7 @@
             this.lbl1Ngay.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.lbl1Ngay.Location = new System.Drawing.Point(6, 33);
             this.lbl1Ngay.Name = "lbl1Ngay";
-            this.lbl1Ngay.Size = new System.Drawing.Size(40, 17);
+            this.lbl1Ngay.Size = new System.Drawing.Size(49, 21);
             this.lbl1Ngay.TabIndex = 4;
             this.lbl1Ngay.Text = "Ngày";
             // 
@@ -265,9 +275,9 @@
             // 
             this.dateTimePicker1Ngay.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker1Ngay.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker1Ngay.Location = new System.Drawing.Point(73, 27);
+            this.dateTimePicker1Ngay.Location = new System.Drawing.Point(108, 27);
             this.dateTimePicker1Ngay.Name = "dateTimePicker1Ngay";
-            this.dateTimePicker1Ngay.Size = new System.Drawing.Size(115, 25);
+            this.dateTimePicker1Ngay.Size = new System.Drawing.Size(115, 29);
             this.dateTimePicker1Ngay.TabIndex = 5;
             // 
             // lblTime
@@ -276,7 +286,7 @@
             this.lblTime.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.lblTime.Location = new System.Drawing.Point(6, 72);
             this.lblTime.Name = "lblTime";
-            this.lblTime.Size = new System.Drawing.Size(61, 17);
+            this.lblTime.Size = new System.Drawing.Size(76, 21);
             this.lblTime.TabIndex = 0;
             this.lblTime.Text = "Từ Ngày";
             // 
@@ -284,9 +294,9 @@
             // 
             this.dateTimePicker1.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker1.Location = new System.Drawing.Point(73, 66);
+            this.dateTimePicker1.Location = new System.Drawing.Point(108, 66);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(115, 25);
+            this.dateTimePicker1.Size = new System.Drawing.Size(115, 29);
             this.dateTimePicker1.TabIndex = 1;
             this.dateTimePicker1.Value = new System.DateTime(2015, 4, 27, 0, 0, 0, 0);
             // 
@@ -294,20 +304,20 @@
             // 
             this.dateTimePicker2.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker2.Location = new System.Drawing.Point(222, 66);
+            this.dateTimePicker2.Location = new System.Drawing.Point(289, 67);
             this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(113, 25);
+            this.dateTimePicker2.Size = new System.Drawing.Size(113, 29);
             this.dateTimePicker2.TabIndex = 2;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.ForeColor = System.Drawing.Color.Firebrick;
-            this.label1.Location = new System.Drawing.Point(194, 72);
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(230, 72);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(24, 17);
+            this.label1.Size = new System.Drawing.Size(37, 21);
             this.label1.TabIndex = 3;
-            this.label1.Text = "=>";
+            this.label1.Text = "đến";
             // 
             // tabPage2
             // 
@@ -316,10 +326,10 @@
             this.tabPage2.Controls.Add(this.button1);
             this.tabPage2.Controls.Add(this.comboBoxThongKeTien);
             this.tabPage2.Controls.Add(this.label2);
-            this.tabPage2.Location = new System.Drawing.Point(4, 26);
+            this.tabPage2.Location = new System.Drawing.Point(4, 30);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(503, 169);
+            this.tabPage2.Size = new System.Drawing.Size(503, 163);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Theo Hóa Đơn";
             // 
@@ -363,7 +373,7 @@
             "> 10.000.000"});
             this.comboBoxThongKeTien.Location = new System.Drawing.Point(174, 105);
             this.comboBoxThongKeTien.Name = "comboBoxThongKeTien";
-            this.comboBoxThongKeTien.Size = new System.Drawing.Size(221, 25);
+            this.comboBoxThongKeTien.Size = new System.Drawing.Size(221, 29);
             this.comboBoxThongKeTien.TabIndex = 4;
             this.comboBoxThongKeTien.SelectedIndexChanged += new System.EventHandler(this.comboBoxThongKeTien_SelectedIndexChanged);
             // 
@@ -376,7 +386,7 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label2.Location = new System.Drawing.Point(90, 108);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(70, 19);
+            this.label2.Size = new System.Drawing.Size(89, 23);
             this.label2.TabIndex = 3;
             this.label2.Text = "Tổng Tiền";
             // 
@@ -483,7 +493,7 @@
             this.lblTenSP.ForeColor = System.Drawing.Color.Black;
             this.lblTenSP.Location = new System.Drawing.Point(157, 192);
             this.lblTenSP.Name = "lblTenSP";
-            this.lblTenSP.Size = new System.Drawing.Size(2, 19);
+            this.lblTenSP.Size = new System.Drawing.Size(2, 23);
             this.lblTenSP.TabIndex = 3;
             this.lblTenSP.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -507,19 +517,9 @@
             this.paneltemp.Size = new System.Drawing.Size(43, 532);
             this.paneltemp.TabIndex = 2;
             // 
-            // btnPrint
-            // 
-            this.btnPrint.Location = new System.Drawing.Point(421, 66);
-            this.btnPrint.Name = "btnPrint";
-            this.btnPrint.Size = new System.Drawing.Size(66, 34);
-            this.btnPrint.TabIndex = 15;
-            this.btnPrint.Text = "Print";
-            this.btnPrint.UseVisualStyleBackColor = true;
-            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
-            // 
             // frmHoaDonBan
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkKhaki;
             this.ClientSize = new System.Drawing.Size(1065, 532);

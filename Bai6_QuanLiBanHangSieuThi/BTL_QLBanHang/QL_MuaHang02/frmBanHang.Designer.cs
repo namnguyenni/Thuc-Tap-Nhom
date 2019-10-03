@@ -292,7 +292,7 @@
             // 
             this.txtMaKHHDB.Location = new System.Drawing.Point(53, 22);
             this.txtMaKHHDB.Name = "txtMaKHHDB";
-            this.txtMaKHHDB.Size = new System.Drawing.Size(83, 26);
+            this.txtMaKHHDB.Size = new System.Drawing.Size(83, 30);
             this.txtMaKHHDB.TabIndex = 40;
             this.txtMaKHHDB.Visible = false;
             // 
@@ -331,7 +331,7 @@
             this.lblTenkhachhang.ForeColor = System.Drawing.Color.Red;
             this.lblTenkhachhang.Location = new System.Drawing.Point(142, 26);
             this.lblTenkhachhang.Name = "lblTenkhachhang";
-            this.lblTenkhachhang.Size = new System.Drawing.Size(64, 19);
+            this.lblTenkhachhang.Size = new System.Drawing.Size(77, 24);
             this.lblTenkhachhang.TabIndex = 6;
             this.lblTenkhachhang.Text = "Tên KH";
             // 
@@ -344,7 +344,7 @@
             this.lblNgayBan.ForeColor = System.Drawing.Color.Red;
             this.lblNgayBan.Location = new System.Drawing.Point(370, 26);
             this.lblNgayBan.Name = "lblNgayBan";
-            this.lblNgayBan.Size = new System.Drawing.Size(73, 19);
+            this.lblNgayBan.Size = new System.Drawing.Size(93, 24);
             this.lblNgayBan.TabIndex = 7;
             this.lblNgayBan.Text = "Ngày Bán";
             // 
@@ -357,7 +357,7 @@
             this.lblTongTienHDB.ForeColor = System.Drawing.Color.Red;
             this.lblTongTienHDB.Location = new System.Drawing.Point(600, 25);
             this.lblTongTienHDB.Name = "lblTongTienHDB";
-            this.lblTongTienHDB.Size = new System.Drawing.Size(78, 19);
+            this.lblTongTienHDB.Size = new System.Drawing.Size(97, 24);
             this.lblTongTienHDB.TabIndex = 8;
             this.lblTongTienHDB.Text = "Tổng Tiền";
             // 
@@ -432,7 +432,7 @@
             // 
             this.txtMaKH.Location = new System.Drawing.Point(165, 85);
             this.txtMaKH.Name = "txtMaKH";
-            this.txtMaKH.Size = new System.Drawing.Size(82, 25);
+            this.txtMaKH.Size = new System.Drawing.Size(82, 29);
             this.txtMaKH.TabIndex = 34;
             this.txtMaKH.Visible = false;
             // 
@@ -443,7 +443,7 @@
             this.label1.ForeColor = System.Drawing.Color.Maroon;
             this.label1.Location = new System.Drawing.Point(173, 8);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(143, 29);
+            this.label1.Size = new System.Drawing.Size(179, 36);
             this.label1.TabIndex = 0;
             this.label1.Text = "Khách Hàng";
             // 
@@ -540,7 +540,7 @@
             "Less"});
             this.cmbGioiTinh.Location = new System.Drawing.Point(93, 86);
             this.cmbGioiTinh.Name = "cmbGioiTinh";
-            this.cmbGioiTinh.Size = new System.Drawing.Size(66, 25);
+            this.cmbGioiTinh.Size = new System.Drawing.Size(66, 29);
             this.cmbGioiTinh.TabIndex = 33;
             this.cmbGioiTinh.SelectedIndexChanged += new System.EventHandler(this.cmbGioiTinh_SelectedIndexChanged);
             // 
@@ -550,7 +550,7 @@
             this.lblGioiTinh.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblGioiTinh.Location = new System.Drawing.Point(10, 91);
             this.lblGioiTinh.Name = "lblGioiTinh";
-            this.lblGioiTinh.Size = new System.Drawing.Size(62, 17);
+            this.lblGioiTinh.Size = new System.Drawing.Size(83, 21);
             this.lblGioiTinh.TabIndex = 32;
             this.lblGioiTinh.Text = "Giới Tính";
             // 
@@ -560,7 +560,7 @@
             this.lblGhichu.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblGhichu.Location = new System.Drawing.Point(258, 131);
             this.lblGhichu.Name = "lblGhichu";
-            this.lblGhichu.Size = new System.Drawing.Size(53, 17);
+            this.lblGhichu.Size = new System.Drawing.Size(69, 21);
             this.lblGhichu.TabIndex = 31;
             this.lblGhichu.Text = "Ghi chú";
             // 
@@ -582,7 +582,7 @@
             "Khách Lẻ"});
             this.cmbLoaiKH.Location = new System.Drawing.Point(93, 123);
             this.cmbLoaiKH.Name = "cmbLoaiKH";
-            this.cmbLoaiKH.Size = new System.Drawing.Size(108, 25);
+            this.cmbLoaiKH.Size = new System.Drawing.Size(108, 29);
             this.cmbLoaiKH.TabIndex = 29;
             // 
             // lblLoaiKH
@@ -591,7 +591,7 @@
             this.lblLoaiKH.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblLoaiKH.Location = new System.Drawing.Point(10, 126);
             this.lblLoaiKH.Name = "lblLoaiKH";
-            this.lblLoaiKH.Size = new System.Drawing.Size(60, 17);
+            this.lblLoaiKH.Size = new System.Drawing.Size(74, 21);
             this.lblLoaiKH.TabIndex = 28;
             this.lblLoaiKH.Text = "Loại KH";
             // 
@@ -599,7 +599,7 @@
             // 
             this.txtSoDT.Location = new System.Drawing.Point(381, 49);
             this.txtSoDT.Name = "txtSoDT";
-            this.txtSoDT.Size = new System.Drawing.Size(139, 25);
+            this.txtSoDT.Size = new System.Drawing.Size(139, 29);
             this.txtSoDT.TabIndex = 27;
             // 
             // txtDC
@@ -614,7 +614,7 @@
             // 
             this.txttenKH.Location = new System.Drawing.Point(93, 49);
             this.txttenKH.Name = "txttenKH";
-            this.txttenKH.Size = new System.Drawing.Size(154, 25);
+            this.txttenKH.Size = new System.Drawing.Size(154, 29);
             this.txttenKH.TabIndex = 25;
             this.txttenKH.TextChanged += new System.EventHandler(this.txttenKH_TextChanged);
             // 
@@ -624,7 +624,7 @@
             this.lblSoDT.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblSoDT.Location = new System.Drawing.Point(258, 52);
             this.lblSoDT.Name = "lblSoDT";
-            this.lblSoDT.Size = new System.Drawing.Size(92, 17);
+            this.lblSoDT.Size = new System.Drawing.Size(119, 21);
             this.lblSoDT.TabIndex = 24;
             this.lblSoDT.Text = "Số Điện Thoại";
             // 
@@ -634,7 +634,7 @@
             this.lblDiaCHi.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblDiaCHi.Location = new System.Drawing.Point(258, 93);
             this.lblDiaCHi.Name = "lblDiaCHi";
-            this.lblDiaCHi.Size = new System.Drawing.Size(53, 17);
+            this.lblDiaCHi.Size = new System.Drawing.Size(69, 21);
             this.lblDiaCHi.TabIndex = 23;
             this.lblDiaCHi.Text = "Địa Chỉ";
             // 
@@ -644,7 +644,7 @@
             this.lblTenKH.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblTenKH.Location = new System.Drawing.Point(10, 52);
             this.lblTenKH.Name = "lblTenKH";
-            this.lblTenKH.Size = new System.Drawing.Size(57, 17);
+            this.lblTenKH.Size = new System.Drawing.Size(70, 21);
             this.lblTenKH.TabIndex = 22;
             this.lblTenKH.Text = "Tên KH";
             this.lblTenKH.Click += new System.EventHandler(this.lblTenKH_Click);
@@ -656,9 +656,9 @@
             this.panelSanPham.Controls.Add(this.groupBox2);
             this.panelSanPham.Controls.Add(this.dgvSanPham);
             this.panelSanPham.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panelSanPham.Location = new System.Drawing.Point(724, 0);
+            this.panelSanPham.Location = new System.Drawing.Point(825, 0);
             this.panelSanPham.Name = "panelSanPham";
-            this.panelSanPham.Size = new System.Drawing.Size(642, 692);
+            this.panelSanPham.Size = new System.Drawing.Size(642, 691);
             this.panelSanPham.TabIndex = 2;
             // 
             // groupBox2
@@ -681,7 +681,7 @@
             this.groupBox2.ForeColor = System.Drawing.Color.DarkRed;
             this.groupBox2.Location = new System.Drawing.Point(0, 0);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(638, 247);
+            this.groupBox2.Size = new System.Drawing.Size(638, 246);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Tìm Sản Phẩm";
@@ -704,7 +704,7 @@
             // 
             this.txtGiaBan.Location = new System.Drawing.Point(594, 85);
             this.txtGiaBan.Name = "txtGiaBan";
-            this.txtGiaBan.Size = new System.Drawing.Size(41, 25);
+            this.txtGiaBan.Size = new System.Drawing.Size(41, 29);
             this.txtGiaBan.TabIndex = 11;
             this.txtGiaBan.Visible = false;
             this.txtGiaBan.TextChanged += new System.EventHandler(this.txtGiaBan_TextChanged);
@@ -716,7 +716,7 @@
             this.lblSanPham.ForeColor = System.Drawing.Color.Maroon;
             this.lblSanPham.Location = new System.Drawing.Point(233, 7);
             this.lblSanPham.Name = "lblSanPham";
-            this.lblSanPham.Size = new System.Drawing.Size(121, 29);
+            this.lblSanPham.Size = new System.Drawing.Size(149, 36);
             this.lblSanPham.TabIndex = 1;
             this.lblSanPham.Text = "Sản phẩm";
             // 
@@ -724,7 +724,7 @@
             // 
             this.txtMaSP.Location = new System.Drawing.Point(293, 52);
             this.txtMaSP.Name = "txtMaSP";
-            this.txtMaSP.Size = new System.Drawing.Size(38, 25);
+            this.txtMaSP.Size = new System.Drawing.Size(38, 29);
             this.txtMaSP.TabIndex = 10;
             this.txtMaSP.Visible = false;
             // 
@@ -732,7 +732,7 @@
             // 
             this.txtSoLgHangCon.Location = new System.Drawing.Point(594, 52);
             this.txtSoLgHangCon.Name = "txtSoLgHangCon";
-            this.txtSoLgHangCon.Size = new System.Drawing.Size(42, 25);
+            this.txtSoLgHangCon.Size = new System.Drawing.Size(42, 29);
             this.txtSoLgHangCon.TabIndex = 9;
             this.txtSoLgHangCon.Visible = false;
             // 
@@ -741,14 +741,14 @@
             this.cmbGiaBan.FormattingEnabled = true;
             this.cmbGiaBan.Location = new System.Drawing.Point(440, 86);
             this.cmbGiaBan.Name = "cmbGiaBan";
-            this.cmbGiaBan.Size = new System.Drawing.Size(148, 25);
+            this.cmbGiaBan.Size = new System.Drawing.Size(148, 29);
             this.cmbGiaBan.TabIndex = 8;
             // 
             // txtTenNSX
             // 
             this.txtTenNSX.Location = new System.Drawing.Point(117, 83);
             this.txtTenNSX.Name = "txtTenNSX";
-            this.txtTenNSX.Size = new System.Drawing.Size(170, 25);
+            this.txtTenNSX.Size = new System.Drawing.Size(170, 29);
             this.txtTenNSX.TabIndex = 7;
             this.txtTenNSX.TextChanged += new System.EventHandler(this.txtTenNSX_TextChanged);
             // 
@@ -757,7 +757,7 @@
             this.cmbTenLH.FormattingEnabled = true;
             this.cmbTenLH.Location = new System.Drawing.Point(440, 52);
             this.cmbTenLH.Name = "cmbTenLH";
-            this.cmbTenLH.Size = new System.Drawing.Size(148, 25);
+            this.cmbTenLH.Size = new System.Drawing.Size(148, 29);
             this.cmbTenLH.TabIndex = 6;
             this.cmbTenLH.SelectedIndexChanged += new System.EventHandler(this.cmbTenLH_SelectedIndexChanged);
             // 
@@ -765,7 +765,7 @@
             // 
             this.txtTenSP.Location = new System.Drawing.Point(117, 52);
             this.txtTenSP.Name = "txtTenSP";
-            this.txtTenSP.Size = new System.Drawing.Size(170, 25);
+            this.txtTenSP.Size = new System.Drawing.Size(170, 29);
             this.txtTenSP.TabIndex = 5;
             this.txtTenSP.TextChanged += new System.EventHandler(this.txtTenSP_TextChanged);
             // 
@@ -774,7 +774,7 @@
             this.lblGiaBan.AutoSize = true;
             this.lblGiaBan.Location = new System.Drawing.Point(337, 94);
             this.lblGiaBan.Name = "lblGiaBan";
-            this.lblGiaBan.Size = new System.Drawing.Size(56, 17);
+            this.lblGiaBan.Size = new System.Drawing.Size(70, 21);
             this.lblGiaBan.TabIndex = 3;
             this.lblGiaBan.Text = "Giá Bán";
             // 
@@ -783,7 +783,7 @@
             this.lblNCC.AutoSize = true;
             this.lblNCC.Location = new System.Drawing.Point(12, 86);
             this.lblNCC.Name = "lblNCC";
-            this.lblNCC.Size = new System.Drawing.Size(82, 17);
+            this.lblNCC.Size = new System.Drawing.Size(103, 21);
             this.lblNCC.TabIndex = 2;
             this.lblNCC.Text = "Tên Nhà SX";
             // 
@@ -792,7 +792,7 @@
             this.lblLH.AutoSize = true;
             this.lblLH.Location = new System.Drawing.Point(337, 55);
             this.lblLH.Name = "lblLH";
-            this.lblLH.Size = new System.Drawing.Size(70, 17);
+            this.lblLH.Size = new System.Drawing.Size(87, 21);
             this.lblLH.TabIndex = 1;
             this.lblLH.Text = "Loại Hàng";
             // 
@@ -801,7 +801,7 @@
             this.lblTenSP.AutoSize = true;
             this.lblTenSP.Location = new System.Drawing.Point(12, 57);
             this.lblTenSP.Name = "lblTenSP";
-            this.lblTenSP.Size = new System.Drawing.Size(52, 17);
+            this.lblTenSP.Size = new System.Drawing.Size(66, 21);
             this.lblTenSP.TabIndex = 0;
             this.lblTenSP.Text = "Tên SP";
             // 
@@ -819,7 +819,7 @@
             this.Column26});
             this.dgvSanPham.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.dgvSanPham.GridColor = System.Drawing.Color.Maroon;
-            this.dgvSanPham.Location = new System.Drawing.Point(0, 247);
+            this.dgvSanPham.Location = new System.Drawing.Point(0, 246);
             this.dgvSanPham.Name = "dgvSanPham";
             this.dgvSanPham.ReadOnly = true;
             this.dgvSanPham.Size = new System.Drawing.Size(638, 441);
@@ -909,7 +909,7 @@
             // 
             this.txtSoLuongMua.Location = new System.Drawing.Point(150, 194);
             this.txtSoLuongMua.Name = "txtSoLuongMua";
-            this.txtSoLuongMua.Size = new System.Drawing.Size(100, 25);
+            this.txtSoLuongMua.Size = new System.Drawing.Size(100, 29);
             this.txtSoLuongMua.TabIndex = 2;
             this.txtSoLuongMua.TextChanged += new System.EventHandler(this.txtSoLuongMua_TextChanged);
             // 
@@ -921,7 +921,7 @@
             this.lblSoLuong.ForeColor = System.Drawing.Color.Red;
             this.lblSoLuong.Location = new System.Drawing.Point(33, 197);
             this.lblSoLuong.Name = "lblSoLuong";
-            this.lblSoLuong.Size = new System.Drawing.Size(99, 19);
+            this.lblSoLuong.Size = new System.Drawing.Size(125, 23);
             this.lblSoLuong.TabIndex = 1;
             this.lblSoLuong.Text = "Số Lượng Mua";
             // 
@@ -932,16 +932,16 @@
             this.picSanPham.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.picSanPham.Location = new System.Drawing.Point(5, -1);
             this.picSanPham.Name = "picSanPham";
-            this.picSanPham.Size = new System.Drawing.Size(288, 173);
+            this.picSanPham.Size = new System.Drawing.Size(284, 173);
             this.picSanPham.TabIndex = 0;
             this.picSanPham.TabStop = false;
             // 
             // frmBanHang
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Snow;
-            this.ClientSize = new System.Drawing.Size(1366, 692);
+            this.ClientSize = new System.Drawing.Size(1467, 691);
             this.Controls.Add(this.panelTemp);
             this.Controls.Add(this.panelSanPham);
             this.Controls.Add(this.panelKhachHang);
