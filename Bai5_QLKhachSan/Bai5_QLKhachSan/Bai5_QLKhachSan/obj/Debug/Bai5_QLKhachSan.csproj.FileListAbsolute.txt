@@ -145,3 +145,24 @@ D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QL
 D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.CopyComplete
 D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.exe
 D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmPHONG.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmChoThuePhong.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmDangNhap.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmDoDungCuaKhachSan.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmDoDungTheoPhong.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmHuongDan.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmKhachThue.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmQuanLyKhachSan.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.frmTraPhong.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.Properties.Resources.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.GenerateResource.Cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.exe
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.exe.config
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.exe
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\Bai5_QLKhachSan.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\BangKhachSan.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\BangKhachSan.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.pdb
