@@ -215,7 +215,7 @@ namespace skelot
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show(ex.Message, "No Items to Update", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(ex.Message, "Không có sẩn phẩm nào để cập nhật", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
 
         }
@@ -224,7 +224,7 @@ namespace skelot
           
             if(txtID.Text == "" || txtQuantity.Text == "")
             {
-                MessageBox.Show("Please select product from the list OR input Quantity if empty", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Làm ơn chọn sản phẩm trong danh sách.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtQuantity.Focus();
                 return;
             }
@@ -234,14 +234,14 @@ namespace skelot
             CurrStock = Convert.ToDouble(listView1.FocusedItem.SubItems[6].Text);
              if (SaleQty == 0 || CurrStock == 0)
             {
-                MessageBox.Show("Quantity or Stock is unavailable!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Số lượng hoặc hàng trong kho không hợp lệ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtQuantity.Focus();
                 return;
             }else if (CurrStock < 0){
                 return;
             }else if(CurrQty > CurrStock)
             {
-                MessageBox.Show("Limited Stock Available!","Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Giới hạn hàng trong kho.","Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }else
              {
@@ -355,26 +355,26 @@ namespace skelot
         {
             if (txtBill.Text == "")
             {
-                MessageBox.Show("Enter total payment", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Nhập tổng tiền của bạn.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtBill.Focus();
                 return;
             }
             if (txtPayment.Text == "")
             {
-                MessageBox.Show("Enter your Payment.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Nhập tổng tiền của bạn.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtPayment.Focus();
                 return;
             }
 
             if (listView1.Items.Count == 0)
             {
-                MessageBox.Show("No Product to save.", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Không có SP để lưu.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
             if (Convert.ToDouble(txtBill.Text) > Convert.ToDouble(txtPayment.Text))
             {
-                MessageBox.Show("Insufficient Cash!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Số tiền nhập chưa đủ!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtPayment.SelectAll();
                 txtPayment.Focus();
                 return;
@@ -423,7 +423,7 @@ namespace skelot
           
 
             getData();
-            MessageBox.Show("Successfully saved" + "\nYour Change is: " + txtChange.Text, "Record", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Thanh toán thành công" + "\nTiền thừa của bạn là: " + txtChange.Text, "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
             listView2.Items.Clear();
            
@@ -453,7 +453,7 @@ namespace skelot
             }
             catch (Exception)
             {
-                MessageBox.Show("No items to remove", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Không có SP để xóa.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         public void RemoveStock() 
@@ -703,6 +703,61 @@ namespace skelot
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void txtID_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDesc_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPrice_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSum_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtType_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSize_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtBrand_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtStock_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTimer_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
         {
 
         }
