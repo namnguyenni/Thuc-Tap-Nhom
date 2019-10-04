@@ -136,9 +136,9 @@
             this.label5.Location = new System.Drawing.Point(12, 125);
             this.label5.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(49, 19);
+            this.label5.Size = new System.Drawing.Size(34, 19);
             this.label5.TabIndex = 46;
-            this.label5.Text = "Name";
+            this.label5.Text = "Tên";
             // 
             // frmAddManufac
             // 
