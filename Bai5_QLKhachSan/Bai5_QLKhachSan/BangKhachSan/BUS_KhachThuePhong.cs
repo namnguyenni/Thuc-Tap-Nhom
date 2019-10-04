@@ -38,10 +38,11 @@ namespace BangKhachSan
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
+            
+            cmd.Parameters.AddWithValue("@CMND", CMND);
             cmd.Parameters.AddWithValue("@TenKH", TenKH);
             cmd.Parameters.AddWithValue("@GT", GT);
             cmd.Parameters.AddWithValue("@NgaySinh", DateTime.Parse(NgaySinh));
-            cmd.Parameters.AddWithValue("@CMND", CMND);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             con.Close();
@@ -53,12 +54,12 @@ namespace BangKhachSan
             SqlConnection con = new SqlConnection(KetNoi.connect());
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
-            cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@MaKH",MaKH);
+            cmd.CommandType = CommandType.StoredProcedure;       
+            cmd.Parameters.AddWithValue("@CMND", CMND);
+            cmd.Parameters.AddWithValue("@MaKH", MaKH);
             cmd.Parameters.AddWithValue("@TenKH", TenKH);
             cmd.Parameters.AddWithValue("@GT", GT);
             cmd.Parameters.AddWithValue("@NgaySinh", DateTime.Parse(NgaySinh));
-            cmd.Parameters.AddWithValue("@CMND", CMND);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             con.Close();
