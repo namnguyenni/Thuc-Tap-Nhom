@@ -59,9 +59,9 @@
             this.lblDate.Location = new System.Drawing.Point(18, 25);
             this.lblDate.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblDate.Name = "lblDate";
-            this.lblDate.Size = new System.Drawing.Size(95, 19);
+            this.lblDate.Size = new System.Drawing.Size(72, 19);
             this.lblDate.TabIndex = 113;
-            this.lblDate.Text = "Sắp xếp theo";
+            this.lblDate.Text = "Order By";
             this.lblDate.Click += new System.EventHandler(this.lblDate_Click);
             // 
             // cboSort
@@ -76,7 +76,7 @@
             "Deletion",
             "Modification"});
             this.cboSort.Location = new System.Drawing.Point(132, 22);
-            this.cboSort.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.cboSort.Margin = new System.Windows.Forms.Padding(5);
             this.cboSort.Name = "cboSort";
             this.cboSort.Size = new System.Drawing.Size(206, 27);
             this.cboSort.TabIndex = 112;
@@ -92,7 +92,7 @@
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.Location = new System.Drawing.Point(950, 512);
-            this.button1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button1.Margin = new System.Windows.Forms.Padding(5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(117, 54);
             this.button1.TabIndex = 111;
@@ -111,7 +111,7 @@
             this.btnRemoveAll.Image = ((System.Drawing.Image)(resources.GetObject("btnRemoveAll.Image")));
             this.btnRemoveAll.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnRemoveAll.Location = new System.Drawing.Point(19, 512);
-            this.btnRemoveAll.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.btnRemoveAll.Margin = new System.Windows.Forms.Padding(5);
             this.btnRemoveAll.Name = "btnRemoveAll";
             this.btnRemoveAll.Size = new System.Drawing.Size(203, 54);
             this.btnRemoveAll.TabIndex = 110;
@@ -129,7 +129,7 @@
             this.listView1.FullRowSelect = true;
             this.listView1.GridLines = true;
             this.listView1.Location = new System.Drawing.Point(19, 73);
-            this.listView1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.listView1.Margin = new System.Windows.Forms.Padding(5);
             this.listView1.Name = "listView1";
             this.listView1.Size = new System.Drawing.Size(1047, 425);
             this.listView1.TabIndex = 109;
@@ -146,7 +146,7 @@
             this.panel1.Controls.Add(this.btnRemoveAll);
             this.panel1.Controls.Add(this.listView1);
             this.panel1.Location = new System.Drawing.Point(17, 18);
-            this.panel1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.panel1.Margin = new System.Windows.Forms.Padding(5);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1089, 584);
             this.panel1.TabIndex = 115;
@@ -161,7 +161,7 @@
             this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "AuditTrail";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AuditTrail";

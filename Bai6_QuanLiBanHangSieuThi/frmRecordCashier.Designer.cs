@@ -212,7 +212,7 @@
             this.RemoveAll.Name = "RemoveAll";
             this.RemoveAll.Size = new System.Drawing.Size(204, 51);
             this.RemoveAll.TabIndex = 52;
-            this.RemoveAll.Text = "Xóa hết";
+            this.RemoveAll.Text = "Remove All";
             this.RemoveAll.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.RemoveAll.UseVisualStyleBackColor = false;
             this.RemoveAll.Click += new System.EventHandler(this.RemoveAll_Click);
@@ -231,7 +231,7 @@
             this.btnReport.Name = "btnReport";
             this.btnReport.Size = new System.Drawing.Size(162, 51);
             this.btnReport.TabIndex = 68;
-            this.btnReport.Text = "In";
+            this.btnReport.Text = "Print";
             this.btnReport.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnReport.UseVisualStyleBackColor = false;
             this.btnReport.Visible = false;

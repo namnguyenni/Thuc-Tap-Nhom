@@ -137,7 +137,7 @@
             this.btnOrder.Name = "btnOrder";
             this.btnOrder.Size = new System.Drawing.Size(97, 32);
             this.btnOrder.TabIndex = 41;
-            this.btnOrder.Text = "Đặt hàng";
+            this.btnOrder.Text = "Order";
             this.btnOrder.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnOrder.UseVisualStyleBackColor = false;
             this.btnOrder.Click += new System.EventHandler(this.btnAddOrder);
@@ -331,7 +331,7 @@
             this.panel1.Controls.Add(this.label7);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.txtStock);
-            this.panel1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel1.Location = new System.Drawing.Point(14, 14);
             this.panel1.Margin = new System.Windows.Forms.Padding(5);
             this.panel1.Name = "panel1";
@@ -420,12 +420,12 @@
             // 
             this.lblTempID.AutoSize = true;
             this.lblTempID.BackColor = System.Drawing.Color.Transparent;
-            this.lblTempID.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTempID.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTempID.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.lblTempID.Location = new System.Drawing.Point(562, 368);
             this.lblTempID.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblTempID.Name = "lblTempID";
-            this.lblTempID.Size = new System.Drawing.Size(0, 23);
+            this.lblTempID.Size = new System.Drawing.Size(0, 25);
             this.lblTempID.TabIndex = 73;
             // 
             // button3
@@ -434,7 +434,7 @@
             this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
             this.button3.Location = new System.Drawing.Point(2, 2);
@@ -449,7 +449,7 @@
             this.button2.BackColor = System.Drawing.Color.LimeGreen;
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Century Gothic", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
             this.button2.Location = new System.Drawing.Point(284, 377);
@@ -535,7 +535,7 @@
             this.btnRemoveAll.Name = "btnRemoveAll";
             this.btnRemoveAll.Size = new System.Drawing.Size(121, 32);
             this.btnRemoveAll.TabIndex = 66;
-            this.btnRemoveAll.Text = "Xóa tất cả";
+            this.btnRemoveAll.Text = "Remove all";
             this.btnRemoveAll.UseVisualStyleBackColor = false;
             this.btnRemoveAll.Click += new System.EventHandler(this.btnRemoveAll_Click);
             // 
@@ -553,7 +553,7 @@
             this.btnRemove.Name = "btnRemove";
             this.btnRemove.Size = new System.Drawing.Size(108, 32);
             this.btnRemove.TabIndex = 65;
-            this.btnRemove.Text = "Xóa";
+            this.btnRemove.Text = "Remove";
             this.btnRemove.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnRemove.UseVisualStyleBackColor = false;
             this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
@@ -617,13 +617,13 @@
             // 
             // frmAddProduct
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gainsboro;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(961, 520);
             this.Controls.Add(this.panel1);
-            this.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(5);
             this.MaximizeBox = false;
