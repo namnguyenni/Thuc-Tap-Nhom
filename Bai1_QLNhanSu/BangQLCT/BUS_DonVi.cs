@@ -40,8 +40,9 @@ namespace BangQLCT
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@TenDV", TenDV);
             cmd.Parameters.AddWithValue("@NQL", NQL);
-            cmd.Parameters.AddWithValue("@DC", DC);
             cmd.Parameters.AddWithValue("@SoDT", SoDT);
+             cmd.Parameters.AddWithValue("@DC", DC);
+          
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             conn.Close();
@@ -54,11 +55,11 @@ namespace BangQLCT
             conn.Open();
             SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
+             cmd.Parameters.AddWithValue("@SoDT", SoDT);
+            cmd.Parameters.AddWithValue("@MaNV", MaDV);
+            cmd.Parameters.AddWithValue("@DC", DC);
             cmd.Parameters.AddWithValue("@TenDV", TenDV);
             cmd.Parameters.AddWithValue("@NQL", NQL);
-            cmd.Parameters.AddWithValue("@DC", DC);
-            cmd.Parameters.AddWithValue("@SoDT", SoDT);
-            cmd.Parameters.AddWithValue("@MaNV", MaDV);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             conn.Close();

@@ -29,16 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmNhanVien));
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
-            this.tstxtMa = new System.Windows.Forms.ToolStripTextBox();
-            this.toolStripLabel2 = new System.Windows.Forms.ToolStripLabel();
-            this.tstxtTen = new System.Windows.Forms.ToolStripTextBox();
-            this.toolStripLabel3 = new System.Windows.Forms.ToolStripLabel();
-            this.tscbGT = new System.Windows.Forms.ToolStripComboBox();
-            this.toolStripLabel4 = new System.Windows.Forms.ToolStripLabel();
-            this.tstxtDiaChi = new System.Windows.Forms.ToolStripTextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dgvNhanVien = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -52,6 +42,16 @@
             this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column10 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
+            this.tstxtMa = new System.Windows.Forms.ToolStripTextBox();
+            this.toolStripLabel2 = new System.Windows.Forms.ToolStripLabel();
+            this.tstxtTen = new System.Windows.Forms.ToolStripTextBox();
+            this.toolStripLabel3 = new System.Windows.Forms.ToolStripLabel();
+            this.tscbGT = new System.Windows.Forms.ToolStripComboBox();
+            this.toolStripLabel4 = new System.Windows.Forms.ToolStripLabel();
+            this.tstxtDiaChi = new System.Windows.Forms.ToolStripTextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnthoat = new System.Windows.Forms.Button();
             this.txtGT = new System.Windows.Forms.TextBox();
@@ -82,107 +82,12 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.groupBox3.SuspendLayout();
-            this.toolStrip1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvNhanVien)).BeginInit();
+            this.groupBox3.SuspendLayout();
+            this.toolStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // groupBox3
-            // 
-            this.groupBox3.Controls.Add(this.toolStrip1);
-            this.groupBox3.Dock = System.Windows.Forms.DockStyle.Top;
-            this.groupBox3.ForeColor = System.Drawing.Color.White;
-            this.groupBox3.Location = new System.Drawing.Point(0, 364);
-            this.groupBox3.Margin = new System.Windows.Forms.Padding(4);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox3.Size = new System.Drawing.Size(1403, 65);
-            this.groupBox3.TabIndex = 3;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Tìm kiếm";
-            // 
-            // toolStrip1
-            // 
-            this.toolStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripLabel1,
-            this.tstxtMa,
-            this.toolStripLabel2,
-            this.tstxtTen,
-            this.toolStripLabel3,
-            this.tscbGT,
-            this.toolStripLabel4,
-            this.tstxtDiaChi});
-            this.toolStrip1.Location = new System.Drawing.Point(4, 19);
-            this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(1395, 28);
-            this.toolStrip1.TabIndex = 0;
-            this.toolStrip1.Text = "toolStrip1";
-            // 
-            // toolStripLabel1
-            // 
-            this.toolStripLabel1.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.toolStripLabel1.ForeColor = System.Drawing.Color.Red;
-            this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(107, 25);
-            this.toolStripLabel1.Text = "Mã nhân viên";
-            // 
-            // tstxtMa
-            // 
-            this.tstxtMa.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tstxtMa.Name = "tstxtMa";
-            this.tstxtMa.Size = new System.Drawing.Size(224, 28);
-            this.tstxtMa.TextChanged += new System.EventHandler(this.tstxtMa_TextChanged);
-            // 
-            // toolStripLabel2
-            // 
-            this.toolStripLabel2.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.toolStripLabel2.ForeColor = System.Drawing.Color.Red;
-            this.toolStripLabel2.Name = "toolStripLabel2";
-            this.toolStripLabel2.Size = new System.Drawing.Size(58, 25);
-            this.toolStripLabel2.Text = "Họ tên";
-            // 
-            // tstxtTen
-            // 
-            this.tstxtTen.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tstxtTen.Name = "tstxtTen";
-            this.tstxtTen.Size = new System.Drawing.Size(299, 28);
-            this.tstxtTen.TextChanged += new System.EventHandler(this.tstxtTen_TextChanged);
-            // 
-            // toolStripLabel3
-            // 
-            this.toolStripLabel3.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.toolStripLabel3.ForeColor = System.Drawing.Color.Red;
-            this.toolStripLabel3.Name = "toolStripLabel3";
-            this.toolStripLabel3.Size = new System.Drawing.Size(78, 25);
-            this.toolStripLabel3.Text = "Giới tính";
-            // 
-            // tscbGT
-            // 
-            this.tscbGT.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.tscbGT.Items.AddRange(new object[] {
-            "nam",
-            "nu"});
-            this.tscbGT.Name = "tscbGT";
-            this.tscbGT.Size = new System.Drawing.Size(223, 28);
-            this.tscbGT.TextChanged += new System.EventHandler(this.tscbGT_SelectedIndexChanged);
-            // 
-            // toolStripLabel4
-            // 
-            this.toolStripLabel4.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.toolStripLabel4.ForeColor = System.Drawing.Color.Red;
-            this.toolStripLabel4.Name = "toolStripLabel4";
-            this.toolStripLabel4.Size = new System.Drawing.Size(62, 25);
-            this.toolStripLabel4.Text = "Địa chỉ";
-            // 
-            // tstxtDiaChi
-            // 
-            this.tstxtDiaChi.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.tstxtDiaChi.Name = "tstxtDiaChi";
-            this.tstxtDiaChi.Size = new System.Drawing.Size(225, 28);
-            this.tstxtDiaChi.TextChanged += new System.EventHandler(this.tstxtDiaChi_TextChanged);
             // 
             // groupBox2
             // 
@@ -296,6 +201,101 @@
             this.Column10.DataPropertyName = "DT";
             this.Column10.HeaderText = "Số điện thoại";
             this.Column10.Name = "Column10";
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.toolStrip1);
+            this.groupBox3.Dock = System.Windows.Forms.DockStyle.Top;
+            this.groupBox3.ForeColor = System.Drawing.Color.White;
+            this.groupBox3.Location = new System.Drawing.Point(0, 364);
+            this.groupBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox3.Size = new System.Drawing.Size(1403, 65);
+            this.groupBox3.TabIndex = 3;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Tìm kiếm";
+            // 
+            // toolStrip1
+            // 
+            this.toolStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripLabel1,
+            this.tstxtMa,
+            this.toolStripLabel2,
+            this.tstxtTen,
+            this.toolStripLabel3,
+            this.tscbGT,
+            this.toolStripLabel4,
+            this.tstxtDiaChi});
+            this.toolStrip1.Location = new System.Drawing.Point(4, 19);
+            this.toolStrip1.Name = "toolStrip1";
+            this.toolStrip1.Size = new System.Drawing.Size(1395, 28);
+            this.toolStrip1.TabIndex = 0;
+            this.toolStrip1.Text = "toolStrip1";
+            // 
+            // toolStripLabel1
+            // 
+            this.toolStripLabel1.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.toolStripLabel1.ForeColor = System.Drawing.Color.Red;
+            this.toolStripLabel1.Name = "toolStripLabel1";
+            this.toolStripLabel1.Size = new System.Drawing.Size(107, 25);
+            this.toolStripLabel1.Text = "Mã nhân viên";
+            // 
+            // tstxtMa
+            // 
+            this.tstxtMa.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tstxtMa.Name = "tstxtMa";
+            this.tstxtMa.Size = new System.Drawing.Size(224, 28);
+            this.tstxtMa.TextChanged += new System.EventHandler(this.tstxtMa_TextChanged);
+            // 
+            // toolStripLabel2
+            // 
+            this.toolStripLabel2.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.toolStripLabel2.ForeColor = System.Drawing.Color.Red;
+            this.toolStripLabel2.Name = "toolStripLabel2";
+            this.toolStripLabel2.Size = new System.Drawing.Size(58, 25);
+            this.toolStripLabel2.Text = "Họ tên";
+            // 
+            // tstxtTen
+            // 
+            this.tstxtTen.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tstxtTen.Name = "tstxtTen";
+            this.tstxtTen.Size = new System.Drawing.Size(299, 28);
+            this.tstxtTen.TextChanged += new System.EventHandler(this.tstxtTen_TextChanged);
+            // 
+            // toolStripLabel3
+            // 
+            this.toolStripLabel3.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.toolStripLabel3.ForeColor = System.Drawing.Color.Red;
+            this.toolStripLabel3.Name = "toolStripLabel3";
+            this.toolStripLabel3.Size = new System.Drawing.Size(78, 25);
+            this.toolStripLabel3.Text = "Giới tính";
+            // 
+            // tscbGT
+            // 
+            this.tscbGT.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.tscbGT.Items.AddRange(new object[] {
+            "nam",
+            "nu"});
+            this.tscbGT.Name = "tscbGT";
+            this.tscbGT.Size = new System.Drawing.Size(223, 28);
+            this.tscbGT.TextChanged += new System.EventHandler(this.tscbGT_SelectedIndexChanged);
+            // 
+            // toolStripLabel4
+            // 
+            this.toolStripLabel4.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.toolStripLabel4.ForeColor = System.Drawing.Color.Red;
+            this.toolStripLabel4.Name = "toolStripLabel4";
+            this.toolStripLabel4.Size = new System.Drawing.Size(62, 25);
+            this.toolStripLabel4.Text = "Địa chỉ";
+            // 
+            // tstxtDiaChi
+            // 
+            this.tstxtDiaChi.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tstxtDiaChi.Name = "tstxtDiaChi";
+            this.tstxtDiaChi.Size = new System.Drawing.Size(225, 28);
+            this.tstxtDiaChi.TextChanged += new System.EventHandler(this.tstxtDiaChi_TextChanged);
             // 
             // groupBox1
             // 
@@ -537,7 +537,7 @@
             // 
             this.dtpNgaySinh.CustomFormat = "yyyy/MM/dd";
             this.dtpNgaySinh.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpNgaySinh.Location = new System.Drawing.Point(401, 274);
+            this.dtpNgaySinh.Location = new System.Drawing.Point(401, 282);
             this.dtpNgaySinh.Margin = new System.Windows.Forms.Padding(4);
             this.dtpNgaySinh.Name = "dtpNgaySinh";
             this.dtpNgaySinh.Size = new System.Drawing.Size(244, 22);
@@ -703,12 +703,12 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QUẢN LÍ THÔNG TIN NHÂN VIÊN";
             this.Load += new System.EventHandler(this.frmNhanVien_Load);
+            this.groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvNhanVien)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvNhanVien)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
