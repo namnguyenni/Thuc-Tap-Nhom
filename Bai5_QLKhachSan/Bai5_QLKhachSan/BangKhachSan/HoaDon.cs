@@ -29,9 +29,9 @@ namespace BangKhachSan
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@TGTra", TGTra);
             cmd.Parameters.AddWithValue("@MaHD", MaHD);
             cmd.Parameters.AddWithValue("@TongTien", TongTien);
-            cmd.Parameters.AddWithValue("@TGTra", TGTra);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             con.Close();
