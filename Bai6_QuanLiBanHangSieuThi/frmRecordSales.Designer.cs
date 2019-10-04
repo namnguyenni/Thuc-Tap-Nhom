@@ -70,9 +70,9 @@
             this.label1.Location = new System.Drawing.Point(15, 425);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(99, 19);
+            this.label1.Size = new System.Drawing.Size(74, 19);
             this.label1.TabIndex = 54;
-            this.label1.Text = "Search Name";
+            this.label1.Text = "Tìm kiếm";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -84,9 +84,9 @@
             this.label2.Location = new System.Drawing.Point(845, 424);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(48, 19);
+            this.label2.Size = new System.Drawing.Size(52, 19);
             this.label2.TabIndex = 55;
-            this.label2.Text = "Total:";
+            this.label2.Text = "Tổng: ";
             // 
             // lblTotal
             // 
@@ -170,7 +170,6 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 50);
             this.button1.TabIndex = 80;
-            this.button1.Text = "Users";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click_2);
@@ -180,7 +179,7 @@
             this.RemoveAll.BackColor = System.Drawing.Color.Red;
             this.RemoveAll.FlatAppearance.BorderSize = 0;
             this.RemoveAll.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.RemoveAll.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.RemoveAll.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RemoveAll.ForeColor = System.Drawing.Color.White;
             this.RemoveAll.Image = ((System.Drawing.Image)(resources.GetObject("RemoveAll.Image")));
             this.RemoveAll.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -189,7 +188,7 @@
             this.RemoveAll.Name = "RemoveAll";
             this.RemoveAll.Size = new System.Drawing.Size(204, 51);
             this.RemoveAll.TabIndex = 52;
-            this.RemoveAll.Text = "Remove All";
+            this.RemoveAll.Text = "Xóa hết";
             this.RemoveAll.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.RemoveAll.UseVisualStyleBackColor = false;
             this.RemoveAll.Click += new System.EventHandler(this.RemoveAll_Click);
@@ -199,7 +198,7 @@
             this.btnReport.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnReport.FlatAppearance.BorderSize = 0;
             this.btnReport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnReport.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnReport.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReport.ForeColor = System.Drawing.Color.White;
             this.btnReport.Image = ((System.Drawing.Image)(resources.GetObject("btnReport.Image")));
             this.btnReport.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -208,7 +207,7 @@
             this.btnReport.Name = "btnReport";
             this.btnReport.Size = new System.Drawing.Size(162, 51);
             this.btnReport.TabIndex = 68;
-            this.btnReport.Text = "Report";
+            this.btnReport.Text = "In báo cáo";
             this.btnReport.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnReport.UseVisualStyleBackColor = false;
             this.btnReport.Visible = false;
@@ -219,7 +218,7 @@
             this.btnOkay.BackColor = System.Drawing.Color.LimeGreen;
             this.btnOkay.FlatAppearance.BorderSize = 0;
             this.btnOkay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnOkay.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOkay.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOkay.ForeColor = System.Drawing.Color.White;
             this.btnOkay.Image = ((System.Drawing.Image)(resources.GetObject("btnOkay.Image")));
             this.btnOkay.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -228,7 +227,7 @@
             this.btnOkay.Name = "btnOkay";
             this.btnOkay.Size = new System.Drawing.Size(127, 51);
             this.btnOkay.TabIndex = 50;
-            this.btnOkay.Text = "Done";
+            this.btnOkay.Text = "OK";
             this.btnOkay.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnOkay.UseVisualStyleBackColor = false;
             this.btnOkay.Click += new System.EventHandler(this.btnOkay_Click);
@@ -238,7 +237,7 @@
             this.button3.BackColor = System.Drawing.Color.SteelBlue;
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
             this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -261,9 +260,9 @@
             this.lblTimer.Location = new System.Drawing.Point(91, 32);
             this.lblTimer.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTimer.Name = "lblTimer";
-            this.lblTimer.Size = new System.Drawing.Size(41, 19);
+            this.lblTimer.Size = new System.Drawing.Size(44, 19);
             this.lblTimer.TabIndex = 79;
-            this.lblTimer.Text = "Date";
+            this.lblTimer.Text = "Ngày";
             this.lblTimer.Visible = false;
             // 
             // label3
@@ -275,9 +274,9 @@
             this.label3.Location = new System.Drawing.Point(15, 32);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(46, 19);
+            this.label3.Size = new System.Drawing.Size(49, 19);
             this.label3.TabIndex = 78;
-            this.label3.Text = "Date:";
+            this.label3.Text = "Ngày:";
             this.label3.Visible = false;
             // 
             // dateTimePicker1
