@@ -98,9 +98,9 @@
             this.label2.Location = new System.Drawing.Point(455, 60);
             this.label2.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(68, 19);
+            this.label2.Size = new System.Drawing.Size(33, 19);
             this.label2.TabIndex = 80;
-            this.label2.Text = "Product:";
+            this.label2.Text = "SP:";
             // 
             // lblName
             // 
@@ -129,7 +129,7 @@
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(136, 39);
             this.btnUpdate.TabIndex = 78;
-            this.btnUpdate.Text = "Update";
+            this.btnUpdate.Text = "Cập nhật";
             this.btnUpdate.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnUpdate.UseVisualStyleBackColor = false;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
@@ -156,9 +156,9 @@
             this.label19.Location = new System.Drawing.Point(206, 6);
             this.label19.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(46, 19);
+            this.label19.Size = new System.Drawing.Size(49, 19);
             this.label19.TabIndex = 73;
-            this.label19.Text = "Date:";
+            this.label19.Text = "Ngày:";
             // 
             // button3
             // 
@@ -187,9 +187,9 @@
             this.s.Location = new System.Drawing.Point(6, 381);
             this.s.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.s.Name = "s";
-            this.s.Size = new System.Drawing.Size(60, 19);
+            this.s.Size = new System.Drawing.Size(79, 19);
             this.s.TabIndex = 76;
-            this.s.Text = "Search:";
+            this.s.Text = "Tìm kiếm:";
             this.s.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // txtSearch
@@ -212,9 +212,9 @@
             this.label1.Location = new System.Drawing.Point(206, 60);
             this.label1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(164, 19);
+            this.label1.Size = new System.Drawing.Size(148, 19);
             this.label1.TabIndex = 75;
-            this.label1.Text = "Current Critical Limit:";
+            this.label1.Text = "SL giới hạn hiện tại: ";
             // 
             // lblLimit
             // 
@@ -254,9 +254,9 @@
             this.label23.Location = new System.Drawing.Point(6, 424);
             this.label23.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(114, 19);
+            this.label23.Size = new System.Drawing.Size(121, 19);
             this.label23.TabIndex = 60;
-            this.label23.Text = "New CritLimit:";
+            this.label23.Text = "SL giới hạn mới:";
             // 
             // listView2
             // 
