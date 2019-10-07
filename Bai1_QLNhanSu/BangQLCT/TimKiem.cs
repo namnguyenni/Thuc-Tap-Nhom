@@ -41,6 +41,7 @@ namespace BangQLCT
             da.SelectCommand = cmd;
             da.Fill(dt);
             return dt;
+
         }
         //tìm kiếm nhan vien theo mã  trên thanh tìm kiếm.
         public DataTable TKMaNhanVien(string MaNV)
@@ -55,6 +56,7 @@ namespace BangQLCT
             da.SelectCommand = cmd;
             da.Fill(dt);
             return dt;
+
         }
         // Tìm kiếm nhân viên theo Tên
         public DataTable TKTenNhanVien(string TenNV)
@@ -71,6 +73,7 @@ namespace BangQLCT
             da.SelectCommand = cmd;
             da.Fill(dt);
             return dt;
+
         }
         // Tìm kiếm nhân viên theo giới tính
         public DataTable TKGTNhanVien(string GT)
@@ -87,6 +90,7 @@ namespace BangQLCT
             da.SelectCommand = cmd;
             da.Fill(dt);
             return dt;
+
         }
 
         // Tìm nhân viên theo địa chỉ
@@ -104,6 +108,7 @@ namespace BangQLCT
             da.SelectCommand = cmd;
             da.Fill(dt);
             return dt;
+
         }
     }
 }

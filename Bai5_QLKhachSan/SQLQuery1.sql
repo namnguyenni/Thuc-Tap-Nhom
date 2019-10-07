@@ -1,6 +1,6 @@
 USE QL_KhachSan
 GO
-
+/*thu tuc them khach hang*/
 --them khach
 CREATE PROC ADDKhachThuePhong (@TenKH nvarchar(50), @GT nvarchar(3), @NgaySinh date, @CMND varchar(20))
 AS
@@ -19,25 +19,27 @@ BEGIN
 			SET @sott = CAST(right(@MaKH, 8) AS int)
 		END
 	ELSE BREAK
+	
+
 	FETCH NEXT FROM contro INTO @MaKH
-END
+	END
 
-DECLARE @cdai int
-DECLARE @i int
-SET @MaKH = CAST((@sott + 1) as nchar(8))
-SET @cdai = LEN(@MaKH)
-SET @i = 1
-while ( @i <= 8 - @cdai)
-BEGIN
-	SET @MaKH = '0' + @MaKH
-	SET @i = @i + 1
-END
-SET @MaKH = 'KH' + @MaKH
+	DECLARE @cdai int
+	DECLARE @i int
+	SET @MaKH = CAST((@sott + 1) as nchar(8))
+	SET @cdai = LEN(@MaKH)
+	SET @i = 1
+	while ( @i <= 8 - @cdai)
+	BEGIN
+		SET @MaKH = '0' + @MaKH
+		SET @i = @i + 1
+	END
+	SET @MaKH = 'KH' + @MaKH
 
-INSERT INTO tblKhachThuePhong values ( @MaKH, @TenKH, @GT, @NgaySinh, @CMND)
-SELECT @MaKH
-CLOSE contro
-DEALLOCATE contro
+	INSERT INTO tblKhachThuePhong values ( @MaKH, @TenKH, @GT, @NgaySinh, @CMND)
+	SELECT @MaKH
+	CLOSE contro
+	DEALLOCATE contro
 END
 
 -- sua khach

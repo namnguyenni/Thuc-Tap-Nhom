@@ -88,9 +88,9 @@
             this.Column2,
             this.Column3});
             this.dataGridView1.Location = new System.Drawing.Point(13, 170);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(352, 190);
+            this.dataGridView1.Size = new System.Drawing.Size(729, 190);
             this.dataGridView1.TabIndex = 3;
             // 
             // Column1
@@ -136,7 +136,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(601, 117);
+            this.label6.Location = new System.Drawing.Point(498, 105);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(77, 17);
@@ -148,7 +148,7 @@
             this.btnTim.BackColor = System.Drawing.Color.Chartreuse;
             this.btnTim.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTim.Location = new System.Drawing.Point(160, 90);
-            this.btnTim.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnTim.Margin = new System.Windows.Forms.Padding(4);
             this.btnTim.Name = "btnTim";
             this.btnTim.Size = new System.Drawing.Size(100, 43);
             this.btnTim.TabIndex = 10;
@@ -161,7 +161,7 @@
             this.dateTimePicker1.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Time;
             this.dateTimePicker1.Location = new System.Drawing.Point(553, 16);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(189, 22);
             this.dateTimePicker1.TabIndex = 11;
@@ -171,27 +171,27 @@
             this.dateTimePicker2.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Time;
             this.dateTimePicker2.Location = new System.Drawing.Point(553, 54);
-            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(4);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(189, 22);
             this.dateTimePicker2.TabIndex = 12;
             // 
             // txtTien
             // 
-            this.txtTien.Location = new System.Drawing.Point(565, 158);
-            this.txtTien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTien.Location = new System.Drawing.Point(583, 105);
+            this.txtTien.Margin = new System.Windows.Forms.Padding(4);
             this.txtTien.Name = "txtTien";
-            this.txtTien.Size = new System.Drawing.Size(177, 22);
+            this.txtTien.Size = new System.Drawing.Size(159, 22);
             this.txtTien.TabIndex = 13;
             // 
             // btnTinhTien
             // 
             this.btnTinhTien.BackColor = System.Drawing.Color.Gold;
             this.btnTinhTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTinhTien.Location = new System.Drawing.Point(409, 103);
-            this.btnTinhTien.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnTinhTien.Location = new System.Drawing.Point(289, 91);
+            this.btnTinhTien.Margin = new System.Windows.Forms.Padding(4);
             this.btnTinhTien.Name = "btnTinhTien";
-            this.btnTinhTien.Size = new System.Drawing.Size(100, 46);
+            this.btnTinhTien.Size = new System.Drawing.Size(93, 44);
             this.btnTinhTien.TabIndex = 14;
             this.btnTinhTien.Text = "Tính tiền";
             this.btnTinhTien.UseVisualStyleBackColor = false;
@@ -201,8 +201,8 @@
             // 
             this.btnLuu.BackColor = System.Drawing.Color.DodgerBlue;
             this.btnLuu.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLuu.Location = new System.Drawing.Point(409, 170);
-            this.btnLuu.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLuu.Location = new System.Drawing.Point(390, 91);
+            this.btnLuu.Margin = new System.Windows.Forms.Padding(4);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(100, 44);
             this.btnLuu.TabIndex = 15;
@@ -214,7 +214,7 @@
             // 
             this.cboMaHD.FormattingEnabled = true;
             this.cboMaHD.Location = new System.Drawing.Point(132, 23);
-            this.cboMaHD.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cboMaHD.Margin = new System.Windows.Forms.Padding(4);
             this.cboMaHD.Name = "cboMaHD";
             this.cboMaHD.Size = new System.Drawing.Size(208, 24);
             this.cboMaHD.TabIndex = 16;
@@ -223,7 +223,7 @@
             // 
             this.cboTenPhong.FormattingEnabled = true;
             this.cboTenPhong.Location = new System.Drawing.Point(132, 59);
-            this.cboTenPhong.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cboTenPhong.Margin = new System.Windows.Forms.Padding(4);
             this.cboTenPhong.Name = "cboTenPhong";
             this.cboTenPhong.Size = new System.Drawing.Size(208, 24);
             this.cboTenPhong.TabIndex = 17;
@@ -232,7 +232,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(785, 368);
+            this.ClientSize = new System.Drawing.Size(750, 368);
             this.Controls.Add(this.cboTenPhong);
             this.Controls.Add(this.cboMaHD);
             this.Controls.Add(this.btnLuu);
@@ -248,7 +248,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmTraPhong";
             this.Text = "frmTraPhong";
             this.Load += new System.EventHandler(this.frmTraPhong_Load);
