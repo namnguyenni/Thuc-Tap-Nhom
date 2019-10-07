@@ -47,11 +47,11 @@
             this.btnOkay.Image = ((System.Drawing.Image)(resources.GetObject("btnOkay.Image")));
             this.btnOkay.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnOkay.Location = new System.Drawing.Point(601, 299);
-            this.btnOkay.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnOkay.Margin = new System.Windows.Forms.Padding(4);
             this.btnOkay.Name = "btnOkay";
             this.btnOkay.Size = new System.Drawing.Size(124, 33);
             this.btnOkay.TabIndex = 49;
-            this.btnOkay.Text = "Done";
+            this.btnOkay.Text = "OK";
             this.btnOkay.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnOkay.UseVisualStyleBackColor = false;
             this.btnOkay.Click += new System.EventHandler(this.btnOkay_Click);
@@ -63,7 +63,7 @@
             this.txtSearch.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.txtSearch.Location = new System.Drawing.Point(185, 299);
-            this.txtSearch.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(4);
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(233, 30);
             this.txtSearch.TabIndex = 48;
@@ -90,7 +90,7 @@
             this.panel1.Controls.Add(this.txtSearch);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(16, 15);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(741, 347);
             this.panel1.TabIndex = 51;
@@ -120,7 +120,7 @@
             this.ClientSize = new System.Drawing.Size(773, 377);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "AdminView";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AdminSearch";

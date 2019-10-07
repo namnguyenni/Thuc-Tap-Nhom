@@ -52,7 +52,7 @@
             this.panel1.Location = new System.Drawing.Point(21, 20);
             this.panel1.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(359, 234);
+            this.panel1.Size = new System.Drawing.Size(384, 265);
             this.panel1.TabIndex = 62;
             // 
             // button1
@@ -81,7 +81,7 @@
             this.btnAdd.ForeColor = System.Drawing.Color.White;
             this.btnAdd.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd.Image")));
             this.btnAdd.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAdd.Location = new System.Drawing.Point(231, 173);
+            this.btnAdd.Location = new System.Drawing.Point(229, 195);
             this.btnAdd.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(112, 45);
@@ -145,7 +145,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gainsboro;
-            this.ClientSize = new System.Drawing.Size(402, 274);
+            this.ClientSize = new System.Drawing.Size(422, 301);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
