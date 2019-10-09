@@ -39,5 +39,40 @@ namespace BUS
             cmd.Dispose();
             conn.Close();
         }
+
+
+
+        // Sua MH
+        public void Sua_MH(string MaMH, string TenMH, string GT, string Mon)
+        {
+            string sql = "Sua_MH";
+            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Parameters.AddWithValue("@MaMH", MaMH);
+          
+            cmd.Parameters.AddWithValue("@GT", GT);
+            cmd.Parameters.AddWithValue("@MaMon", Mon);
+
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+        }
+
+        //Xoa
+        public void Xoa_MH(string MaMH)
+        {
+            string sql = "Xoa_MH";
+            SqlConnection con = new SqlConnection(ConnectDB.getconnect());
+            con.Open();
+            SqlCommand cmd = new SqlCommand(sql, con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@MaMH", MaMH);
+            cmd.ExecuteNonQuery();
+            cmd.Dispose();
+            con.Close();
+        }
     }
 }
