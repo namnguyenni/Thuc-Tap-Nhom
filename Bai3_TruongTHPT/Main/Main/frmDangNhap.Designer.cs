@@ -59,7 +59,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(236, 240);
+            this.label2.Location = new System.Drawing.Point(184, 244);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(126, 26);
@@ -114,13 +114,13 @@
             // btnThoat
             // 
             this.btnThoat.BackColor = System.Drawing.Color.Transparent;
-            this.btnThoat.BackgroundImage = global::Main.Properties.Resources.exit_button_png_download_png_image_exit_png_image_575_600;
+            this.btnThoat.BackgroundImage = global::Main.Properties.Resources.exit_png_exit_icon_image_4625_3518;
             this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnThoat.Location = new System.Drawing.Point(363, 383);
+            this.btnThoat.Location = new System.Drawing.Point(367, 383);
             this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
             this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(100, 46);
+            this.btnThoat.Size = new System.Drawing.Size(100, 34);
             this.btnThoat.TabIndex = 15;
             this.btnThoat.UseVisualStyleBackColor = false;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
@@ -128,14 +128,14 @@
             // btnDangNhap
             // 
             this.btnDangNhap.BackColor = System.Drawing.Color.Transparent;
-            this.btnDangNhap.BackgroundImage = global::Main.Properties.Resources.login_button_png_15;
+            this.btnDangNhap.BackgroundImage = global::Main.Properties.Resources._1212;
             this.btnDangNhap.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnDangNhap.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDangNhap.ForeColor = System.Drawing.SystemColors.MenuText;
-            this.btnDangNhap.Location = new System.Drawing.Point(338, 301);
+            this.btnDangNhap.Location = new System.Drawing.Point(328, 301);
             this.btnDangNhap.Margin = new System.Windows.Forms.Padding(4);
             this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(152, 74);
+            this.btnDangNhap.Size = new System.Drawing.Size(180, 52);
             this.btnDangNhap.TabIndex = 14;
             this.btnDangNhap.UseVisualStyleBackColor = false;
             this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
@@ -145,7 +145,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.BackgroundImage = global::Main.Properties.Resources._32b877ed4aa7778cc7d43ebb7d95a6f1;
+            this.BackgroundImage = global::Main.Properties.Resources._11762;
             this.ClientSize = new System.Drawing.Size(843, 530);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);

@@ -83,6 +83,26 @@ namespace Main.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _11762 {
+            get {
+                object obj = ResourceManager.GetObject("11762", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _1212 {
+            get {
+                object obj = ResourceManager.GetObject("1212", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _32b877ed4aa7778cc7d43ebb7d95a6f1 {
             get {
                 object obj = ResourceManager.GetObject("32b877ed4aa7778cc7d43ebb7d95a6f1", resourceCulture);
@@ -106,6 +126,26 @@ namespace Main.Properties {
         internal static System.Drawing.Bitmap exit_button_png_download_png_image_exit_png_image_575_600 {
             get {
                 object obj = ResourceManager.GetObject("exit-button-png-download-png-image-exit-png-image-575-600", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap exit_png_exit_icon_image_4625_3518 {
+            get {
+                object obj = ResourceManager.GetObject("exit-png-exit-icon-image-4625-3518", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap login_button_login_icon_on_white_background_flat_vector_21669941 {
+            get {
+                object obj = ResourceManager.GetObject("login-button-login-icon-on-white-background-flat-vector-21669941", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

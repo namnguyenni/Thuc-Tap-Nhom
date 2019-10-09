@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.côngCụToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.giáoViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -115,7 +114,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::Main.Properties.Resources._32b877ed4aa7778cc7d43ebb7d95a6f1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(945, 543);
             this.Controls.Add(this.menuStrip1);
