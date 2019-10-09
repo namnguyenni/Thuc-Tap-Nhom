@@ -68,5 +68,19 @@ namespace BUS
             cmd.Dispose();
             conn.Close();
         }
+
+        //lay thong tin lop
+        public DataTable LayThongTinLop()
+        {
+            string sql = "SELECT * FROM dbo.Lop";
+            SqlConnection conn = new SqlConnection(ConnectDB.getconnect());
+            DataTable dt = new DataTable();
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
+            da.Fill(dt);
+            return dt;
+        }
+
+
+
     }
 }

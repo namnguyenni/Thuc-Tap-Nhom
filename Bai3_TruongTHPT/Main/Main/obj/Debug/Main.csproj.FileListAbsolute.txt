@@ -104,3 +104,6 @@ E:\git2\Thuc-Tap-Nhom\Bai3_TruongTHPT\Main\Main\obj\Debug\Main.csproj.CoreCompil
 E:\git2\Thuc-Tap-Nhom\Bai3_TruongTHPT\Main\Main\obj\Debug\Main.csproj.CopyComplete
 E:\git2\Thuc-Tap-Nhom\Bai3_TruongTHPT\Main\Main\obj\Debug\Main.exe
 E:\git2\Thuc-Tap-Nhom\Bai3_TruongTHPT\Main\Main\obj\Debug\Main.pdb
+D:\github\Thuc-Tap-Nhom\Bai3_TruongTHPT\Main\Main\bin\Debug\Main.exe.config
+D:\github\Thuc-Tap-Nhom\Bai3_TruongTHPT\Main\Main\obj\Debug\Main.exe
+D:\github\Thuc-Tap-Nhom\Bai3_TruongTHPT\Main\Main\obj\Debug\Main.pdb
