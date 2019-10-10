@@ -130,5 +130,10 @@ namespace Bai5_QLKhachSan
             else if (cbTK.Text == "CMND")
                 dgvKhach.DataSource = tk.TKKhach_CMND(txtTK.Text);
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
