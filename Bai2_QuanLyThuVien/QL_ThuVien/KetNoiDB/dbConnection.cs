@@ -29,7 +29,7 @@ namespace KetNoiDB
     public class dbConnection
     {
         private SqlDataAdapter myAdapter;
-        private SqlConnection conn;
+        private SqlConnection con;
 
         /// <constructor>
         /// Initialise Connection
@@ -37,7 +37,7 @@ namespace KetNoiDB
         public dbConnection()
         {
             myAdapter = new SqlDataAdapter();
-            conn = new SqlConnection(AppConfig.connectionString());
+            con = new SqlConnection(AppConfig.connectionString());
         }
 
         /// <method>
@@ -45,11 +45,11 @@ namespace KetNoiDB
         /// </method>
         private SqlConnection openConnection()
         {
-            if (conn.State == ConnectionState.Closed || conn.State ==ConnectionState.Broken)
+            if (con.State == ConnectionState.Closed || con.State ==ConnectionState.Broken)
             {
-                conn.Open();
+                con.Open();
             }
-            return conn;
+            return con;
         }
 
         /// <method>
