@@ -125,40 +125,40 @@ namespace BangThuVien
         {
             bool b = true;
             string str = string.Format("UpdateSLTL");
-            SqlConnection con = new SqlConnection(AppConfig.connectionString());
-            con.Open();
+            SqlConnection conn = new SqlConnection(AppConfig.connectionString());
+            conn.Open();
 
-            SqlCommand cmd = new SqlCommand(str, con);
+            SqlCommand cmd = new SqlCommand(str, conn);
             cmd.Parameters.AddWithValue("@MaDS", _MaDauSach);
             cmd.Parameters.AddWithValue("@SoLuong", -1);
             cmd.CommandType = CommandType.StoredProcedure;
             if (cmd.ExecuteNonQuery() > 0)
                 b = true;
-            con.Close();
+            conn.Close();
             return b;
         }
         public bool UodateSoLuongTLID_TraSach(string _MaTL)
         {
             bool b = true;
             string str = string.Format("UpdateSLTL");
-            SqlConnection con = new SqlConnection(AppConfig.connectionString());
-            con.Open();
+            SqlConnection conn = new SqlConnection(AppConfig.connectionString());
+            conn.Open();
 
-            SqlCommand cmd = new SqlCommand(str, con);
+            SqlCommand cmd = new SqlCommand(str, conn);
             cmd.Parameters.AddWithValue("@MaDS", _MaTL);
             cmd.Parameters.AddWithValue("@SoLuong", 1);
             cmd.CommandType = CommandType.StoredProcedure;
             if (cmd.ExecuteNonQuery() > 0)
                 b = true;
-            con.Close();
+            conn.Close();
             return b;
         }
         public DataTable HienThiTaiLieu()
         {
             string sql = "SELECT * FROM dbo.TheLoai";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
             da.Fill(dt);
             return dt;
         }
@@ -166,9 +166,9 @@ namespace BangThuVien
         public void ThemTaiLieu(string TacGia, string NhanDe, int SoLuong,int DoMat, string NgonNgu, string MaTheLoai, string MaNXB)
         {
             string sql = "ADDTaiLieu";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@TacGia", TacGia);
             cmd.Parameters.AddWithValue("@NhanDe", NhanDe);
@@ -179,15 +179,15 @@ namespace BangThuVien
             cmd.Parameters.AddWithValue("@MaNXB", MaNXB);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public void SuaTaiLieu(string MaTL, string TacGia, string NhanDe, int SoLuong, int DoMat, string NgonNgu, string MaTheLoai, string MaNXB)
         {
             string sql = "SuaTaiLieu";
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@MaTL", MaTL);
             cmd.Parameters.AddWithValue("@TacGia", TacGia);
@@ -199,19 +199,19 @@ namespace BangThuVien
             cmd.Parameters.AddWithValue("@MaNXB", MaNXB);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
 
         public void XoaTaiLieu(string MaTL)
         {
             string sql = string.Format("Delete from DauSach where MaDauSach = '" + MaTL + "'");
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.Text;
             cmd.ExecuteNonQuery();
             cmd.Dispose();
-            con.Close();
+            conn.Close();
         }
     }
 }
