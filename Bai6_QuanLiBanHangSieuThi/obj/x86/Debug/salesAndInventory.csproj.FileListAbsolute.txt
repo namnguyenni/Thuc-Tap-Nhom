@@ -1,6 +1,5 @@
 F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.exe
 F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.pdb
-C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csprojResolveAssemblyReference.cache
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.AdminView.resources
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.AuditTrail.resources
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmUpdateLimit.resources
@@ -33,3 +32,6 @@ C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmUserLog.resources
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.ItemReport.resources
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.exe
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csprojAssemblyReference.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csproj.CoreCompileInputs.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csproj.CopyComplete

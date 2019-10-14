@@ -55,6 +55,8 @@ C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSa
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\BangKhachSan.pdb
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\KetNoiDB.dll
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\bin\Debug\KetNoiDB.pdb
-C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csprojResolveAssemblyReference.cache
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.dll
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csprojAssemblyReference.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\BangKhachSan\obj\Debug\BangKhachSan.csproj.CopyComplete
