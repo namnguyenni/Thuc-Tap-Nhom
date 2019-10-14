@@ -10,10 +10,10 @@ namespace BUS
 {
     public class ConnectDB
     {
-        SqlConnection con = new SqlConnection();
+        SqlConnection conn = new SqlConnection();
         static public String getconnect()
         {
-            return (@"");
+            return ("@");
         }
     }
 }
