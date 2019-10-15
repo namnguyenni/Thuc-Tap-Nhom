@@ -130,7 +130,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(374, 85);
+            this.label6.Location = new System.Drawing.Point(374, 92);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(61, 13);
             this.label6.TabIndex = 6;
@@ -138,7 +138,7 @@
             // 
             // btnTim
             // 
-            this.btnTim.BackColor = System.Drawing.Color.Transparent;
+            this.btnTim.BackColor = System.Drawing.Color.Orange;
             this.btnTim.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTim.Location = new System.Drawing.Point(99, 77);
             this.btnTim.Name = "btnTim";
@@ -168,14 +168,14 @@
             // 
             // txtTien
             // 
-            this.txtTien.Location = new System.Drawing.Point(437, 85);
+            this.txtTien.Location = new System.Drawing.Point(438, 89);
             this.txtTien.Name = "txtTien";
             this.txtTien.Size = new System.Drawing.Size(120, 20);
             this.txtTien.TabIndex = 13;
             // 
             // btnTinhTien
             // 
-            this.btnTinhTien.BackColor = System.Drawing.Color.Transparent;
+            this.btnTinhTien.BackColor = System.Drawing.Color.Orange;
             this.btnTinhTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTinhTien.Location = new System.Drawing.Point(203, 77);
             this.btnTinhTien.Name = "btnTinhTien";
@@ -187,7 +187,7 @@
             // 
             // btnLuu
             // 
-            this.btnLuu.BackColor = System.Drawing.Color.Transparent;
+            this.btnLuu.BackColor = System.Drawing.Color.Orange;
             this.btnLuu.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLuu.Location = new System.Drawing.Point(293, 77);
             this.btnLuu.Name = "btnLuu";
@@ -217,7 +217,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(562, 299);
+            this.ClientSize = new System.Drawing.Size(577, 404);
             this.Controls.Add(this.cboTenPhong);
             this.Controls.Add(this.cboMaHD);
             this.Controls.Add(this.btnLuu);

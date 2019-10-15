@@ -87,7 +87,7 @@
             // 
             // btnHuy
             // 
-            this.btnHuy.BackColor = System.Drawing.Color.Transparent;
+            this.btnHuy.BackColor = System.Drawing.Color.Gold;
             this.btnHuy.Location = new System.Drawing.Point(742, 67);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(75, 34);
@@ -98,7 +98,7 @@
             // 
             // btnLuu
             // 
-            this.btnLuu.BackColor = System.Drawing.Color.Transparent;
+            this.btnLuu.BackColor = System.Drawing.Color.Gold;
             this.btnLuu.Location = new System.Drawing.Point(742, 21);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 34);
@@ -109,7 +109,7 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.BackColor = System.Drawing.Color.Transparent;
+            this.btnXoa.BackColor = System.Drawing.Color.Gold;
             this.btnXoa.Location = new System.Drawing.Point(631, 111);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 34);
@@ -120,7 +120,7 @@
             // 
             // btnSua
             // 
-            this.btnSua.BackColor = System.Drawing.Color.Transparent;
+            this.btnSua.BackColor = System.Drawing.Color.Gold;
             this.btnSua.Location = new System.Drawing.Point(631, 67);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 34);
@@ -131,7 +131,7 @@
             // 
             // btnThem
             // 
-            this.btnThem.BackColor = System.Drawing.Color.Transparent;
+            this.btnThem.BackColor = System.Drawing.Color.Gold;
             this.btnThem.Location = new System.Drawing.Point(631, 23);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 34);
@@ -245,7 +245,7 @@
             // 
             // txtTK
             // 
-            this.txtTK.Location = new System.Drawing.Point(455, 21);
+            this.txtTK.Location = new System.Drawing.Point(471, 25);
             this.txtTK.Name = "txtTK";
             this.txtTK.Size = new System.Drawing.Size(175, 22);
             this.txtTK.TabIndex = 5;
@@ -258,7 +258,7 @@
             "Mã Khách",
             "Tên Khách",
             "CMND"});
-            this.cbTK.Location = new System.Drawing.Point(313, 21);
+            this.cbTK.Location = new System.Drawing.Point(313, 24);
             this.cbTK.Name = "cbTK";
             this.cbTK.Size = new System.Drawing.Size(121, 23);
             this.cbTK.TabIndex = 4;
@@ -266,11 +266,11 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label6.Location = new System.Drawing.Point(196, 24);
+            this.label6.Location = new System.Drawing.Point(163, 22);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(98, 19);
+            this.label6.Size = new System.Drawing.Size(133, 22);
             this.label6.TabIndex = 3;
             this.label6.Text = "Tìm kiếm theo:";
             this.label6.Click += new System.EventHandler(this.label6_Click);
