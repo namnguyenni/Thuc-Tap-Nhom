@@ -50,14 +50,5 @@ namespace BusinessLogic
             return dt;
         }
 
-        public DataTable HienThiTien(string DieuKien)
-        {
-            string sql = @"SELECT TongTien FROM dbo.PHIEUNHAP WHERE MaPN = '" + DieuKien + "'";
-            DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
-            da.Fill(dt);
-            return dt;
-        }
     }
 }
