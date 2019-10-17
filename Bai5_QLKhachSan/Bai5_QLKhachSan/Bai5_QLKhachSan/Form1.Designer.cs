@@ -88,7 +88,7 @@
             this.groupBox5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox5.Location = new System.Drawing.Point(3, 16);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(509, 152);
+            this.groupBox5.Size = new System.Drawing.Size(517, 152);
             this.groupBox5.TabIndex = 55;
             this.groupBox5.TabStop = false;
             // 
@@ -102,9 +102,9 @@
             this.btnDodung.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btnDodung.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDodung.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDodung.Location = new System.Drawing.Point(237, 101);
+            this.btnDodung.Location = new System.Drawing.Point(359, 38);
             this.btnDodung.Name = "btnDodung";
-            this.btnDodung.Size = new System.Drawing.Size(135, 45);
+            this.btnDodung.Size = new System.Drawing.Size(135, 57);
             this.btnDodung.TabIndex = 60;
             this.btnDodung.Text = "Đồ dùng trong phòng";
             this.btnDodung.UseVisualStyleBackColor = false;
@@ -112,14 +112,14 @@
             // 
             // txtLoaiphong
             // 
-            this.txtLoaiphong.Location = new System.Drawing.Point(237, 76);
+            this.txtLoaiphong.Location = new System.Drawing.Point(196, 97);
             this.txtLoaiphong.Name = "txtLoaiphong";
             this.txtLoaiphong.Size = new System.Drawing.Size(136, 20);
             this.txtLoaiphong.TabIndex = 59;
             // 
             // txtTenphong
             // 
-            this.txtTenphong.Location = new System.Drawing.Point(237, 43);
+            this.txtTenphong.Location = new System.Drawing.Point(196, 58);
             this.txtTenphong.Name = "txtTenphong";
             this.txtTenphong.Size = new System.Drawing.Size(136, 20);
             this.txtTenphong.TabIndex = 58;
@@ -127,7 +127,7 @@
             // txtMaphong
             // 
             this.txtMaphong.Enabled = false;
-            this.txtMaphong.Location = new System.Drawing.Point(237, 10);
+            this.txtMaphong.Location = new System.Drawing.Point(196, 19);
             this.txtMaphong.Name = "txtMaphong";
             this.txtMaphong.Size = new System.Drawing.Size(136, 20);
             this.txtMaphong.TabIndex = 57;
@@ -136,7 +136,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(149, 41);
+            this.label6.Location = new System.Drawing.Point(81, 58);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(78, 18);
             this.label6.TabIndex = 56;
@@ -146,7 +146,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(152, 75);
+            this.label5.Location = new System.Drawing.Point(81, 97);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(81, 18);
             this.label5.TabIndex = 55;
@@ -156,7 +156,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(149, 8);
+            this.label4.Location = new System.Drawing.Point(81, 16);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(74, 18);
             this.label4.TabIndex = 54;
@@ -171,9 +171,9 @@
             this.groupBox4.Controls.Add(this.btnSua);
             this.groupBox4.Controls.Add(this.btnThem);
             this.groupBox4.Dock = System.Windows.Forms.DockStyle.Right;
-            this.groupBox4.Location = new System.Drawing.Point(512, 16);
+            this.groupBox4.Location = new System.Drawing.Point(520, 16);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(393, 152);
+            this.groupBox4.Size = new System.Drawing.Size(385, 152);
             this.groupBox4.TabIndex = 54;
             this.groupBox4.TabStop = false;
             // 

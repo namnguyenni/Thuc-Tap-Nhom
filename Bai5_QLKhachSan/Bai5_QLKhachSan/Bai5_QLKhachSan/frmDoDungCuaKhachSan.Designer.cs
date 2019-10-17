@@ -129,7 +129,7 @@
             // 
             // txtGiaNhap
             // 
-            this.txtGiaNhap.Location = new System.Drawing.Point(86, 123);
+            this.txtGiaNhap.Location = new System.Drawing.Point(107, 123);
             this.txtGiaNhap.Name = "txtGiaNhap";
             this.txtGiaNhap.Size = new System.Drawing.Size(160, 20);
             this.txtGiaNhap.TabIndex = 10;
@@ -150,14 +150,14 @@
             // 
             // txtTenDD
             // 
-            this.txtTenDD.Location = new System.Drawing.Point(86, 76);
+            this.txtTenDD.Location = new System.Drawing.Point(107, 76);
             this.txtTenDD.Name = "txtTenDD";
             this.txtTenDD.Size = new System.Drawing.Size(160, 20);
             this.txtTenDD.TabIndex = 7;
             // 
             // txtMaDD
             // 
-            this.txtMaDD.Location = new System.Drawing.Point(86, 30);
+            this.txtMaDD.Location = new System.Drawing.Point(107, 31);
             this.txtMaDD.Name = "txtMaDD";
             this.txtMaDD.Size = new System.Drawing.Size(160, 20);
             this.txtMaDD.TabIndex = 6;
