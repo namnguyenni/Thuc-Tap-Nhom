@@ -10,7 +10,7 @@ namespace BusinessLogic
 {
     public class KetNoiDB
     {
-        SqlConnection cn = new SqlConnection();
+        SqlConnection con = new SqlConnection();
         static public String getconnect()
         {
             return (@"");

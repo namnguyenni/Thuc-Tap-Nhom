@@ -157,7 +157,7 @@
             // 
             this.txtTenLH.Location = new System.Drawing.Point(162, 114);
             this.txtTenLH.Name = "txtTenLH";
-            this.txtTenLH.Size = new System.Drawing.Size(173, 29);
+            this.txtTenLH.Size = new System.Drawing.Size(173, 25);
             this.txtTenLH.TabIndex = 30;
             // 
             // txtMaLH
@@ -165,26 +165,28 @@
             this.txtMaLH.Enabled = false;
             this.txtMaLH.Location = new System.Drawing.Point(162, 48);
             this.txtMaLH.Name = "txtMaLH";
-            this.txtMaLH.Size = new System.Drawing.Size(173, 29);
+            this.txtMaLH.Size = new System.Drawing.Size(173, 25);
             this.txtMaLH.TabIndex = 29;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(39, 117);
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(39, 114);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(121, 21);
+            this.label2.Size = new System.Drawing.Size(109, 19);
             this.label2.TabIndex = 28;
             this.label2.Text = "Tên Loại Hàng";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(39, 51);
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(41, 54);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(116, 21);
+            this.label1.Size = new System.Drawing.Size(107, 19);
             this.label1.TabIndex = 27;
             this.label1.Text = "Mã Loại Hàng";
             // 
@@ -228,7 +230,7 @@
             // 
             // frmLoaiHang
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(605, 460);
             this.Controls.Add(this.dataGridView1);

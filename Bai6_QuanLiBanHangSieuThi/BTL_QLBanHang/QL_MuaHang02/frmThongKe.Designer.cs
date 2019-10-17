@@ -157,11 +157,12 @@
             "Top 10 sản phẩm bán chạy nhất trong"});
             this.comboBox2.Location = new System.Drawing.Point(69, 40);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(251, 28);
+            this.comboBox2.Size = new System.Drawing.Size(251, 25);
             this.comboBox2.TabIndex = 7;
             // 
             // btnTK
             // 
+            this.btnTK.Font = new System.Drawing.Font("Times New Roman", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTK.Location = new System.Drawing.Point(590, 40);
             this.btnTK.Name = "btnTK";
             this.btnTK.Size = new System.Drawing.Size(342, 65);
@@ -175,9 +176,9 @@
             this.dateTimePicker2.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker2.Enabled = false;
             this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker2.Location = new System.Drawing.Point(412, 95);
+            this.dateTimePicker2.Location = new System.Drawing.Point(422, 99);
             this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(145, 28);
+            this.dateTimePicker2.Size = new System.Drawing.Size(145, 24);
             this.dateTimePicker2.TabIndex = 5;
             this.dateTimePicker2.Value = new System.DateTime(2015, 4, 27, 0, 0, 0, 0);
             // 
@@ -186,16 +187,17 @@
             this.dateTimePicker1.CustomFormat = "yyyy/MM/dd";
             this.dateTimePicker1.Enabled = false;
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker1.Location = new System.Drawing.Point(182, 93);
+            this.dateTimePicker1.Location = new System.Drawing.Point(162, 99);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(120, 28);
+            this.dateTimePicker1.Size = new System.Drawing.Size(120, 24);
             this.dateTimePicker1.TabIndex = 4;
             this.dateTimePicker1.Value = new System.DateTime(2015, 4, 27, 0, 0, 0, 0);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(308, 101);
+            this.label4.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(319, 99);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(87, 22);
             this.label4.TabIndex = 3;
@@ -204,7 +206,8 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(98, 95);
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(78, 99);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(78, 22);
             this.label3.TabIndex = 2;
@@ -223,13 +226,13 @@
             "Chọn ngày"});
             this.comboBox1.Location = new System.Drawing.Point(326, 40);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(199, 28);
+            this.comboBox1.Size = new System.Drawing.Size(199, 25);
             this.comboBox1.TabIndex = 1;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // frmThongKe
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1009, 517);
             this.Controls.Add(this.groupBox1);
