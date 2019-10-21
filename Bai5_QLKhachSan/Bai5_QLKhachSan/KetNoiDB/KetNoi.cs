@@ -9,7 +9,7 @@ namespace KetNoiDB
 {
     public class KetNoi
     {
-        SqlConnection cn = new SqlConnection();
+        SqlConnection con = new SqlConnection();
 
         public static String connect()
         {
