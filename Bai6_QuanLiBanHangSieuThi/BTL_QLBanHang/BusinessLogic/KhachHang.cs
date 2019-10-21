@@ -17,8 +17,8 @@ namespace BusinessLogic
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            ad.Fill(dt);
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            da.Fill(dt);
             return dt;
         }
 
