@@ -71,43 +71,5 @@ namespace BusinessLogic
             conn.Close();
         }
 
-        // commit
-
-        public void InsertNCC_1(string _TenNCC, string _DiaChi, string _SDT)
-        {
-            string sql = "ADD_NCC";
-            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
-            cmd.CommandType = CommandType.StoredProcedure;
-
-            cmd.Parameters.AddWithValue("@tenlh", _TenNCC);
-            cmd.Parameters.AddWithValue("@diachi", _DiaChi);
-            cmd.Parameters.AddWithValue("@sdt", _SDT);
-
-            cmd.ExecuteNonQuery();
-            cmd.Dispose();
-            conn.Close();
-
-        }
-        public void UpdateNCC_1(string _MaNCC, string _TenNCC, string _DiaChi, string _SDT)
-        {
-            string sql = "EDIT_NCC";
-            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
-            cmd.CommandType = CommandType.StoredProcedure;
-
-            cmd.Parameters.AddWithValue("@mancc", _MaNCC);
-            cmd.Parameters.AddWithValue("@tenncc", _TenNCC);
-            cmd.Parameters.AddWithValue("@diachi", _DiaChi);
-            cmd.Parameters.AddWithValue("@sdt", _SDT);
-
-
-            cmd.ExecuteNonQuery();
-            cmd.Dispose();
-            conn.Close();
-
-        }
     }
 }
