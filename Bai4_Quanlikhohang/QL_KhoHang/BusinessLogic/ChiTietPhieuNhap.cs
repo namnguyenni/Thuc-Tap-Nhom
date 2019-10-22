@@ -52,36 +52,6 @@ namespace BusinessLogic
         }
 
 
-        public void Insert(string mapn, string mahh, int soluong, long dongia, long thanhtien)
-        {
-            string sql = "ThemCTPN";
-            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
-            conn.Open();
-            SqlCommand cmd = new SqlCommand(sql, conn);
-            cmd.CommandType = CommandType.StoredProcedure;
-
-            cmd.Parameters.AddWithValue("@mapn", mapn);
-            cmd.Parameters.AddWithValue("@mahh", mahh);
-            cmd.Parameters.AddWithValue("@soluong", soluong);
-            cmd.Parameters.AddWithValue("@dongia", dongia);
-            cmd.Parameters.AddWithValue("@thanhtien", thanhtien);
-
-            cmd.ExecuteNonQuery();
-            cmd.Dispose();
-            conn.Close();
-
-        }
-
-
-        public DataTable HienThiTT(string DieuKien)
-        {
-            string sql = @"SELECT * FROM dbo.CHITIETPHIEUNHAP WHERE MaPN = '" + DieuKien + "'";
-            DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
-            da.Fill(dt);
-            return dt;
-        }
 
     }
 }
