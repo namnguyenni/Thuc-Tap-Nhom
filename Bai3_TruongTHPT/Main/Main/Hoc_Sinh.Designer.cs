@@ -111,7 +111,8 @@
             // 
             this.btnHuy.BackgroundImage = global::Main.Properties.Resources._1;
             this.btnHuy.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnHuy.Location = new System.Drawing.Point(136, 148);
+            this.btnHuy.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHuy.Location = new System.Drawing.Point(181, 154);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(75, 34);
             this.btnHuy.TabIndex = 70;
@@ -123,6 +124,7 @@
             // 
             this.btnLuu_HS.BackgroundImage = global::Main.Properties.Resources._1;
             this.btnLuu_HS.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnLuu_HS.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLuu_HS.Location = new System.Drawing.Point(181, 107);
             this.btnLuu_HS.Name = "btnLuu_HS";
             this.btnLuu_HS.Size = new System.Drawing.Size(75, 34);
@@ -135,6 +137,7 @@
             // 
             this.btnXoa_HS.BackgroundImage = global::Main.Properties.Resources._1;
             this.btnXoa_HS.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnXoa_HS.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXoa_HS.Location = new System.Drawing.Point(181, 59);
             this.btnXoa_HS.Name = "btnXoa_HS";
             this.btnXoa_HS.Size = new System.Drawing.Size(75, 34);
@@ -147,6 +150,7 @@
             // 
             this.btnSua_HS.BackgroundImage = global::Main.Properties.Resources._1;
             this.btnSua_HS.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnSua_HS.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSua_HS.Location = new System.Drawing.Point(87, 107);
             this.btnSua_HS.Name = "btnSua_HS";
             this.btnSua_HS.Size = new System.Drawing.Size(75, 34);
@@ -159,6 +163,7 @@
             // 
             this.btnThem_HS.BackgroundImage = global::Main.Properties.Resources._1;
             this.btnThem_HS.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnThem_HS.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThem_HS.Location = new System.Drawing.Point(87, 59);
             this.btnThem_HS.Name = "btnThem_HS";
             this.btnThem_HS.Size = new System.Drawing.Size(75, 34);
@@ -177,9 +182,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(317, 118);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(41, 13);
+            this.label1.Size = new System.Drawing.Size(49, 15);
             this.label1.TabIndex = 63;
             this.label1.Text = "Địa Chỉ";
             // 
@@ -228,45 +234,50 @@
             // label10
             // 
             this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(32, 170);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(25, 13);
+            this.label10.Size = new System.Drawing.Size(28, 15);
             this.label10.TabIndex = 49;
             this.label10.Text = "Lớp";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(317, 30);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(60, 13);
+            this.label12.Size = new System.Drawing.Size(68, 15);
             this.label12.TabIndex = 46;
             this.label12.Text = "Phụ Huynh";
             // 
             // label13
             // 
             this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.Location = new System.Drawing.Point(317, 74);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(56, 13);
+            this.label13.Size = new System.Drawing.Size(64, 15);
             this.label13.TabIndex = 48;
             this.label13.Text = "Ngày Sinh";
             // 
             // label14
             // 
             this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.Location = new System.Drawing.Point(14, 118);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(51, 13);
+            this.label14.Size = new System.Drawing.Size(60, 15);
             this.label14.TabIndex = 47;
             this.label14.Text = "Giới Tính";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.Location = new System.Drawing.Point(14, 74);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(43, 13);
+            this.label15.Size = new System.Drawing.Size(46, 15);
             this.label15.TabIndex = 45;
             this.label15.Text = "Họ Tên";
             // 
@@ -281,9 +292,10 @@
             // label16
             // 
             this.label16.AutoSize = true;
+            this.label16.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.Location = new System.Drawing.Point(14, 30);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(40, 13);
+            this.label16.Size = new System.Drawing.Size(44, 15);
             this.label16.TabIndex = 43;
             this.label16.Text = "Mã HS";
             // 
