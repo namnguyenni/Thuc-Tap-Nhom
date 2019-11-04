@@ -80,7 +80,8 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.BackColor = System.Drawing.Color.Red;
+            this.btnXoa.BackColor = System.Drawing.Color.Gray;
+            this.btnXoa.ForeColor = System.Drawing.Color.Black;
             this.btnXoa.Location = new System.Drawing.Point(96, 129);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(101, 39);
@@ -90,7 +91,8 @@
             // 
             // btnSua
             // 
-            this.btnSua.BackColor = System.Drawing.Color.Red;
+            this.btnSua.BackColor = System.Drawing.Color.Gray;
+            this.btnSua.ForeColor = System.Drawing.Color.Black;
             this.btnSua.Location = new System.Drawing.Point(96, 76);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(101, 37);
@@ -100,7 +102,8 @@
             // 
             // btnThem
             // 
-            this.btnThem.BackColor = System.Drawing.Color.Red;
+            this.btnThem.BackColor = System.Drawing.Color.Gray;
+            this.btnThem.ForeColor = System.Drawing.Color.Black;
             this.btnThem.Location = new System.Drawing.Point(96, 19);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(101, 40);
