@@ -80,7 +80,7 @@
             treeNode10.Text = "Giới thiệu phần mềm";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
             treeNode10});
-            this.treeView1.Size = new System.Drawing.Size(172, 331);
+            this.treeView1.Size = new System.Drawing.Size(172, 437);
             this.treeView1.TabIndex = 2;
             this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.trViewGioiThieu_AfterSelect);
             // 
@@ -90,7 +90,7 @@
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Top;
             this.pictureBox1.Location = new System.Drawing.Point(172, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(469, 277);
+            this.pictureBox1.Size = new System.Drawing.Size(565, 277);
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
@@ -100,7 +100,7 @@
             this.txtGioiThieu.Location = new System.Drawing.Point(172, 277);
             this.txtGioiThieu.Multiline = true;
             this.txtGioiThieu.Name = "txtGioiThieu";
-            this.txtGioiThieu.Size = new System.Drawing.Size(469, 54);
+            this.txtGioiThieu.Size = new System.Drawing.Size(565, 160);
             this.txtGioiThieu.TabIndex = 4;
             this.txtGioiThieu.TextChanged += new System.EventHandler(this.txtGioiThieu_TextChanged);
             // 
@@ -108,7 +108,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(641, 331);
+            this.ClientSize = new System.Drawing.Size(737, 437);
             this.Controls.Add(this.txtGioiThieu);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.treeView1);

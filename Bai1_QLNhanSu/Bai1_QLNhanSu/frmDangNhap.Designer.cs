@@ -75,7 +75,7 @@
             this.btnDangNhap.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDangNhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDangNhap.ForeColor = System.Drawing.Color.Blue;
-            this.btnDangNhap.Location = new System.Drawing.Point(171, 260);
+            this.btnDangNhap.Location = new System.Drawing.Point(193, 260);
             this.btnDangNhap.Name = "btnDangNhap";
             this.btnDangNhap.Size = new System.Drawing.Size(114, 52);
             this.btnDangNhap.TabIndex = 5;
@@ -88,7 +88,7 @@
             this.btnThoat.BackgroundImage = global::Bai1_QLNhanSu.Properties.Resources.exit_button_png_download_png_image_exit_png_image_575_600;
             this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnThoat.Location = new System.Drawing.Point(193, 331);
+            this.btnThoat.Location = new System.Drawing.Point(217, 330);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(68, 35);
             this.btnThoat.TabIndex = 8;
@@ -128,7 +128,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.label3.Location = new System.Drawing.Point(83, 98);
+            this.label3.Location = new System.Drawing.Point(101, 98);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(339, 25);
             this.label3.TabIndex = 10;
@@ -142,7 +142,7 @@
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImage = global::Bai1_QLNhanSu.Properties.Resources.pngtree_colorful_fluid_gradient_background_picturefluid_background_image_58023;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(488, 414);
+            this.ClientSize = new System.Drawing.Size(532, 414);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.btnThoat);

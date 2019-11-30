@@ -43,7 +43,7 @@ namespace BangThuVien
             arr[4] = new SqlParameter("@GhiChu", SqlDbType.NVarChar, 500);
             arr[4].Value = Ghichu;
 
-            b = dbcon.executeInsertQuery(sql, arr);
+             b= .executeInsertQuery(sql, arr);
             return b;
         }
     }

@@ -89,7 +89,7 @@
             this.btnMuon.ForeColor = System.Drawing.Color.Black;
             this.btnMuon.Location = new System.Drawing.Point(424, 37);
             this.btnMuon.Name = "btnMuon";
-            this.btnMuon.Size = new System.Drawing.Size(108, 54);
+            this.btnMuon.Size = new System.Drawing.Size(108, 67);
             this.btnMuon.TabIndex = 4;
             this.btnMuon.Text = "Mượn";
             this.btnMuon.UseVisualStyleBackColor = false;
@@ -310,11 +310,12 @@
             // 
             // btnHuy
             // 
-            this.btnHuy.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.btnHuy.BackColor = System.Drawing.Color.Yellow;
             this.btnHuy.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnHuy.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHuy.Location = new System.Drawing.Point(0, 184);
             this.btnHuy.Name = "btnHuy";
-            this.btnHuy.Size = new System.Drawing.Size(111, 46);
+            this.btnHuy.Size = new System.Drawing.Size(111, 63);
             this.btnHuy.TabIndex = 1;
             this.btnHuy.Text = "Hủy";
             this.btnHuy.UseVisualStyleBackColor = false;
@@ -322,11 +323,12 @@
             // 
             // btnOK
             // 
-            this.btnOK.BackColor = System.Drawing.Color.Lime;
+            this.btnOK.BackColor = System.Drawing.Color.Yellow;
             this.btnOK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnOK.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOK.Location = new System.Drawing.Point(0, 83);
             this.btnOK.Name = "btnOK";
-            this.btnOK.Size = new System.Drawing.Size(109, 50);
+            this.btnOK.Size = new System.Drawing.Size(109, 59);
             this.btnOK.TabIndex = 0;
             this.btnOK.Text = "Hoàn Tất Mượn";
             this.btnOK.UseVisualStyleBackColor = false;

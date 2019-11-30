@@ -59,7 +59,7 @@
             this.btnThoat.BackgroundImage = global::QL_KhoHang.Properties.Resources.exit_button_png_download_png_image_exit_png_image_575_600;
             this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnThoat.Location = new System.Drawing.Point(230, 343);
+            this.btnThoat.Location = new System.Drawing.Point(243, 344);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(71, 37);
             this.btnThoat.TabIndex = 14;
@@ -74,9 +74,9 @@
             this.btnDangNhap.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnDangNhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDangNhap.ForeColor = System.Drawing.Color.Transparent;
-            this.btnDangNhap.Location = new System.Drawing.Point(198, 266);
+            this.btnDangNhap.Location = new System.Drawing.Point(204, 256);
             this.btnDangNhap.Name = "btnDangNhap";
-            this.btnDangNhap.Size = new System.Drawing.Size(138, 60);
+            this.btnDangNhap.Size = new System.Drawing.Size(138, 69);
             this.btnDangNhap.TabIndex = 13;
             this.btnDangNhap.UseVisualStyleBackColor = false;
             this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
@@ -103,7 +103,7 @@
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label13.Location = new System.Drawing.Point(122, 157);
+            this.label13.Location = new System.Drawing.Point(122, 158);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(107, 24);
             this.label13.TabIndex = 10;

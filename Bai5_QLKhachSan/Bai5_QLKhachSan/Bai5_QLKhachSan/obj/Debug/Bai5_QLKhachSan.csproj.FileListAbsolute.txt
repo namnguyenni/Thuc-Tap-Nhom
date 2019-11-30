@@ -166,3 +166,6 @@ C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSa
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.dll
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\BangKhachSan.pdb
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\bin\Debug\KetNoiDB.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csprojAssemblyReference.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\Bai5_QLKhachSan\obj\Debug\Bai5_QLKhachSan.csproj.CopyComplete

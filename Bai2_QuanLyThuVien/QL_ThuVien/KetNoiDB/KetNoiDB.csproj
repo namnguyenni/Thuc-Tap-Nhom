@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BUS_TaiLieu.cs" />
     <Compile Include="dbConnection.cs" />
     <Compile Include="KetNoi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

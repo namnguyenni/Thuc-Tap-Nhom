@@ -21,7 +21,7 @@ namespace Bai1_QLNhanSu
 
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
-            if (dn.DangNhap(txtUserName.Text, txtPass.Text) == true)
+            if (dn.DangNhap(txtUserName.Text,txtPass.Text) == true)
             {
                 // bool x = false;
                 MessageBox.Show("Bạn đăng nhập thành công ^^", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);

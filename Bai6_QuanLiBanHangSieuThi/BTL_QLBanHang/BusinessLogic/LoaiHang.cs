@@ -10,14 +10,14 @@ namespace BusinessLogic
 {
     public class LoaiHang
     {
-        KetNoiDB da = new KetNoiDB();
+        KetNoiDB db = new KetNoiDB();
         public DataTable ShowLoaiHang()
         {
             string sql = @"SELECT * FROM LOAIHANG";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            ad.Fill(dt);
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            da.Fill(dt);
             return dt;
         }
         public void InsertLoaiHang(string _TenLH)

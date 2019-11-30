@@ -173,5 +173,62 @@ namespace BusinessLogic
             cmd.Dispose();
             return dt;
         }
+
+
+        // commit
+        public DataTable SearchC(string _TenKH)
+        {
+            DataTable dt = new DataTable();
+            string sql = "SearchTenKH";
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@str", _TenKH);
+
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
+
+            conn.Close();
+            cmd.Dispose();
+            return dt;
+
+        }
+        public DataTable SearchCustomerT(string _LoaiKH)
+        {
+            DataTable dt = new DataTable();
+            string sql = "SearchLoaiKH";
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Parameters.AddWithValue("@str", _LoaiKH);
+
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
+
+            conn.Close();
+            cmd.Dispose();
+            return dt;
+        }
+        public DataTable SearchCustomerAdd(string _DiaChi)
+        {
+            DataTable dt = new DataTable();
+            string sql = "SearchDCKH";
+            SqlConnection conn = new SqlConnection(KetNoiDB.getconnect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Parameters.AddWithValue("@str", _DiaChi);
+
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
+
+            conn.Close();
+            cmd.Dispose();
+            return dt;
+        }
     }
 }

@@ -37,6 +37,7 @@ D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QL
 D:\minh\Tai lieu cua Minh\Nam 4\thuctapnhom\0000_Project\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.dll
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\bin\Debug\KetNoiDB.pdb
-C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.dll
 C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csprojAssemblyReference.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai5_QLKhachSan\Bai5_QLKhachSan\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache

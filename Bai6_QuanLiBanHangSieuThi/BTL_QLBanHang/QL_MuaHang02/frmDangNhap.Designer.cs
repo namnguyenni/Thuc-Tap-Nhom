@@ -42,30 +42,32 @@
             // 
             // btnThoat
             // 
-            this.btnThoat.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnThoat.BackgroundImage")));
+            this.btnThoat.BackColor = System.Drawing.Color.Tomato;
             this.btnThoat.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnThoat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnThoat.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThoat.ForeColor = System.Drawing.Color.RoyalBlue;
             this.btnThoat.Location = new System.Drawing.Point(196, 179);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(95, 42);
             this.btnThoat.TabIndex = 20;
             this.btnThoat.Text = "Thoát";
-            this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.UseVisualStyleBackColor = false;
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
             // btnDN
             // 
-            this.btnDN.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnDN.BackgroundImage")));
+            this.btnDN.BackColor = System.Drawing.Color.Tomato;
             this.btnDN.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnDN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDN.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDN.ForeColor = System.Drawing.Color.RoyalBlue;
             this.btnDN.Location = new System.Drawing.Point(76, 179);
             this.btnDN.Name = "btnDN";
             this.btnDN.Size = new System.Drawing.Size(95, 42);
             this.btnDN.TabIndex = 19;
             this.btnDN.Text = "Đăng nhập";
-            this.btnDN.UseVisualStyleBackColor = true;
+            this.btnDN.UseVisualStyleBackColor = false;
             this.btnDN.Click += new System.EventHandler(this.btnDN_Click);
             // 
             // txtPass
@@ -89,10 +91,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(43, 129);
+            this.label3.Location = new System.Drawing.Point(31, 127);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(38, 19);
+            this.label3.Size = new System.Drawing.Size(50, 24);
             this.label3.TabIndex = 16;
             this.label3.Text = "Pass";
             // 
@@ -100,10 +103,11 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(43, 94);
+            this.label2.Location = new System.Drawing.Point(21, 92);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(46, 19);
+            this.label2.Size = new System.Drawing.Size(60, 24);
             this.label2.TabIndex = 15;
             this.label2.Text = "Name";
             // 
@@ -137,7 +141,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.RoyalBlue;
-            this.ClientSize = new System.Drawing.Size(614, 257);
+            this.ClientSize = new System.Drawing.Size(614, 347);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnDN);

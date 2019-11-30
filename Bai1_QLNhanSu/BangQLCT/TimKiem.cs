@@ -17,9 +17,9 @@ namespace BangQLCT
         {
             string sql = "SELECT * FROM dbo.NhanVien WHERE MaNV LIKE N'%' + @MaNV + '%'";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@MaNV", MaNV);
             da.SelectCommand = cmd;
@@ -33,9 +33,9 @@ namespace BangQLCT
         {
             string sql = "SELECT * FROM dbo.NhanVien WHERE TenNV LIKE N'%' + @TenNV + '%'";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@TenNV", TenNV);
             da.SelectCommand = cmd;
@@ -48,9 +48,9 @@ namespace BangQLCT
         {
             string sql = "SELECT * FROM dbo.NhanVien WHERE MaNV LIKE (N'%' + @MaNV + '%')";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@MaNV", MaNV);
             da.SelectCommand = cmd;
@@ -64,9 +64,9 @@ namespace BangQLCT
             //string sql = "SELECT * FROM tblNhanVien WHERE TenNV LIKE (N'%' + @TenNV + '%')";
             string sql = "TKTen";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@TenNV", TenNV);
@@ -81,9 +81,9 @@ namespace BangQLCT
             //string sql = "SELECT * FROM tblNhanVien WHERE GT LIKE (N'%' + @GT + '%')";
             string sql = "TKGT";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn = new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@GT", GT);
@@ -99,9 +99,9 @@ namespace BangQLCT
             //string sql = "SELECT * FROM tblNhanVien WHERE DiaChi LIKE (N'%' + @DC + '%')";
             string sql = "TKDiaChi";
             DataTable dt = new DataTable();
-            SqlConnection con = new SqlConnection(KetNoi.connect());
-            con.Open();
-            SqlCommand cmd = new SqlCommand(sql, con);
+            SqlConnection conn= new SqlConnection(KetNoi.connect());
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(sql, conn);
             cmd.CommandType = CommandType.StoredProcedure;
             SqlDataAdapter da = new SqlDataAdapter();
             cmd.Parameters.AddWithValue("@DC", DC);

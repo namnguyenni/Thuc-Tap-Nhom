@@ -11,7 +11,7 @@ namespace BusinessLogic
 {
     public class SanPham
     {
-        KetNoiDB da = new KetNoiDB();
+        KetNoiDB db = new KetNoiDB();
         public DataTable ShowSanPham(string DieuKien)
         {
             string sql = @"SELECT MaSP, TenSP, SoLuong, LoiNhuan, GiaNhap, GiaBan, MoTa, NSX, TenLH
@@ -19,8 +19,8 @@ namespace BusinessLogic
                                                     WHERE sp.MaLH = lh.MaLH " + DieuKien;
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            ad.Fill(dt);
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            da.Fill(dt);
             return dt;
         }
         public string LayAnh(string _MaSP)
@@ -28,67 +28,67 @@ namespace BusinessLogic
             string sql = @"SELECT HinhAnh FROM SANPHAM WHERE MaSP = '" + _MaSP + "'";
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            ad.Fill(dt);
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            da.Fill(dt);
             string anh = dt.Rows[0].ItemArray[0].ToString();
             if (anh != null) return anh;
             return "loi";
         }
-        public string InsertSanPham(EC_SANPHAM et)
+        public string InsertSanPham(EC_SANPHAM sp)
         {
             string sql = "ThemSP";
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@tensp", et.TenSP);
-            cmd.Parameters.AddWithValue("@malh", et.MaLH);
-            cmd.Parameters.AddWithValue("@soluong", et.SoLuong);
-            cmd.Parameters.AddWithValue("@loinhuan", et.LoiNhuan);
-            cmd.Parameters.AddWithValue("@gianhap", et.GiaNhap);
-            cmd.Parameters.AddWithValue("@mota", et.MoTa);
-            cmd.Parameters.AddWithValue("@nsx", et.NSX);
-            cmd.Parameters.AddWithValue("@hinhanh", et.HinhAnh);
+            cmd.Parameters.AddWithValue("@tensp", sp.TenSP);
+            cmd.Parameters.AddWithValue("@malh", sp.MaLH);
+            cmd.Parameters.AddWithValue("@soluong", sp.SoLuong);
+            cmd.Parameters.AddWithValue("@loinhuan", sp.LoiNhuan);
+            cmd.Parameters.AddWithValue("@gianhap", sp.GiaNhap);
+            cmd.Parameters.AddWithValue("@mota", sp.MoTa);
+            cmd.Parameters.AddWithValue("@nsx",sp.NSX);
+            cmd.Parameters.AddWithValue("@hinhanh", sp.HinhAnh);
 
             DataTable dt = new DataTable();
-            SqlDataAdapter ad = new SqlDataAdapter(cmd);
-            ad.Fill(dt);
-            string ma = dt.Rows[0].ItemArray[0].ToString();
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
+            string i = dt.Rows[0].ItemArray[0].ToString();
             cmd.Dispose();
             con.Close();
-            return ma;
+            return i;
         }
-        public void UpdateSanPham(EC_SANPHAM et)
+        public void UpdateSanPham(EC_SANPHAM sp)
         {
             string sql = "SuaSP";
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@masp", et.MaSP);
-            cmd.Parameters.AddWithValue("@tensp", et.TenSP);
-            cmd.Parameters.AddWithValue("@malh", et.MaLH);
-            cmd.Parameters.AddWithValue("@soluong", et.SoLuong);
-            cmd.Parameters.AddWithValue("@loinhuan", et.LoiNhuan);
-            cmd.Parameters.AddWithValue("@gianhap", et.GiaNhap);
-            cmd.Parameters.AddWithValue("@mota", et.MoTa);
-            cmd.Parameters.AddWithValue("@nsx", et.NSX);
-            cmd.Parameters.AddWithValue("@hinhanh", et.HinhAnh);
+            cmd.Parameters.AddWithValue("@masp", sp.MaSP);
+            cmd.Parameters.AddWithValue("@tensp", sp.TenSP);
+            cmd.Parameters.AddWithValue("@malh", sp.MaLH);
+            cmd.Parameters.AddWithValue("@soluong", sp.SoLuong);
+            cmd.Parameters.AddWithValue("@loinhuan", sp.LoiNhuan);
+            cmd.Parameters.AddWithValue("@gianhap", sp.GiaNhap);
+            cmd.Parameters.AddWithValue("@mota", sp.MoTa);
+            cmd.Parameters.AddWithValue("@nsx", sp.NSX);
+            cmd.Parameters.AddWithValue("@hinhanh", sp.HinhAnh);
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             con.Close();
 
         }
-        public void UpdateSoLuong(EC_SANPHAM  et)
+        public void UpdateSoLuong(EC_SANPHAM  sp)
         {
             string sql = "SuaSL";
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@masp", et.MaSP);
-            cmd.Parameters.AddWithValue("@sl", et.SoLuong);
+            cmd.Parameters.AddWithValue("@masp", sp.MaSP);
+            cmd.Parameters.AddWithValue("@sl", sp.SoLuong);
             cmd.ExecuteNonQuery();
             cmd.Dispose();
             con.Close();
@@ -121,14 +121,14 @@ namespace BusinessLogic
             cmd.Dispose();
             con.Close();
         }
-        public void DeleteSanPham(EC_SANPHAM et)
+        public void DeleteSanPham(EC_SANPHAM sp)
         {
             string sql = "XoaSP";
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.AddWithValue("@masp", et.MaSP);
+            cmd.Parameters.AddWithValue("@masp", sp.MaSP);
 
             cmd.ExecuteNonQuery();
             cmd.Dispose();
@@ -168,8 +168,8 @@ namespace BusinessLogic
             SqlCommand cmd = new SqlCommand(str, con);
             cmd.CommandType = CommandType.StoredProcedure;
 
-            SqlDataAdapter ad = new SqlDataAdapter(cmd);
-            ad.Fill(dt);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
             con.Close();
             return dt;
         }

@@ -11,18 +11,10 @@ namespace BangQLCT
 {
     public class BUS_DonVi
     {
-        KetNoi con = new KetNoi();
+        KetNoi cn = new KetNoi();
 
         public DataTable HienThiDonVi()
         {
-            string sql = "SELECT * FROM dbo.DonVi";
-            DataTable dt = new DataTable();
-            SqlConnection conn = new SqlConnection(KetNoi.connect());
-            SqlDataAdapter da = new SqlDataAdapter(sql, conn);
-            da.Fill(dt);
-            return dt;
-        }
-		
             string sql = "SELECT * FROM dbo.DonVi";
             DataTable dt = new DataTable();
             SqlConnection conn = new SqlConnection(KetNoi.connect());

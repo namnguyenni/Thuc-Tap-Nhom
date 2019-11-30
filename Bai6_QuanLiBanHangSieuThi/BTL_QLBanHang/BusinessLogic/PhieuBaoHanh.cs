@@ -9,14 +9,14 @@ namespace BusinessLogic
 {
     public class PhieuBaoHanh
     {
-        KetNoiDB da = new KetNoiDB();
+        KetNoiDB db = new KetNoiDB();
         public DataTable ShowPBH()
         {
             string sql = @"SELECT * FROM PHIEUBAOHANH " ;
             DataTable dt = new DataTable();
             SqlConnection con = new SqlConnection(KetNoiDB.getconnect());
-            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
-            ad.Fill(dt);
+            SqlDataAdapter da = new SqlDataAdapter(sql, con);
+            da.Fill(dt);
             return dt;
         }
         public void InsertPBH(string MaSP, string MaKH, string NgayBatDau,string NgayKetThuc,string SoLan)
