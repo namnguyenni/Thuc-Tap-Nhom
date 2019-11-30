@@ -1,0 +1,5 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAO\bin\Debug\DAO.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAO\bin\Debug\DAO.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAO\obj\Debug\DAO.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAO\obj\Debug\DAO.pdb

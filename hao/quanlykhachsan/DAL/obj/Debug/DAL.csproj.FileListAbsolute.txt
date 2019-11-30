@@ -1,0 +1,41 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\bin\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\DAL\bin\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\bin\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\obj\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\DAL\bin\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\DAL\obj\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\DAL.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\mscorlib.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\System.Net.Http.xml
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\normidna.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\normnfc.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\normnfd.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\normnfkc.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\bin\Debug\normnfkd.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\obj\Debug\DAL.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\DAL\bin\Debug\DAL.dll
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\DAL\obj\Debug\DAL.dll
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\DAL\obj\Debug\DAL.pdb

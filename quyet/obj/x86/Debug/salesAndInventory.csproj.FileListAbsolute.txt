@@ -1,0 +1,105 @@
+F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.exe
+F:\try\SalesAndInventory\Sample\salesAndInventory\obj\x86\Debug\skelot.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.AdminView.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.AuditTrail.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmUpdateLimit.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmAddManufac.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmCriticalItems.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmLogin.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmAddProduct.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmBookStore.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmNotes.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmNotes2.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmReceiveCrit.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmRecordCashier.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmRegister.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmAdminLogin.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmAdminMenu.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmStart.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmRecordSales.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmManageUser.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.LoginTrail.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.Properties.Resources.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.ReceiveOrder.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csproj.GenerateResource.Cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\bin\Debug\skelot.exe
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\bin\Debug\skelot.pdb
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmUpdate.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmUserLog.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.ItemReport.resources
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.exe
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csprojAssemblyReference.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csproj.CoreCompileInputs.cache
+C:\Users\KyThuat88\Documents\GitHub\Thuc-Tap-Nhom\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csproj.CopyComplete
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\bin\Debug\skelot.exe
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\bin\Debug\skelot.pdb
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csprojAssemblyReference.cache
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.AdminView.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.AuditTrail.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmUpdateLimit.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmAddManufac.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmCriticalItems.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmLogin.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmAddProduct.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmBookStore.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmNotes.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmNotes2.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmReceiveCrit.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmRecordCashier.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmRegister.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmAdminLogin.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmAdminMenu.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmStart.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.FrmUpdate.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmRecordSales.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmManageUser.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.frmUserLog.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.ItemReport.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.LoginTrail.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.Properties.Resources.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.ReceiveOrder.resources
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csproj.GenerateResource.cache
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\salesAndInventory.csproj.CopyComplete
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.exe
+D:\HỌC TẬP\NĂM 4\BT\thực tập nhóm\Bai6_QuanLiBanHangSieuThi\obj\x86\Debug\skelot.pdb
+F:\4th Year Projects\Group Intern\quyet\bin\Debug\skelot.exe
+F:\4th Year Projects\Group Intern\quyet\bin\Debug\skelot.pdb
+F:\4th Year Projects\Group Intern\quyet\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\salesAndInventory.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.AdminView.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.AuditTrail.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmUpdateLimit.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmAddManufac.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmCriticalItems.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmLogin.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmAddProduct.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.FrmBookStore.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmNotes.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmNotes2.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmReceiveCrit.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmRecordCashier.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.FrmRegister.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.FrmAdminLogin.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.FrmAdminMenu.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmStart.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.FrmUpdate.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmRecordSales.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmManageUser.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.frmUserLog.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.ItemReport.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.LoginTrail.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.Properties.Resources.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.ReceiveOrder.resources
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\salesAndInventory.csproj.GenerateResource.cache
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\salesAndInventory.csproj.CoreCompileInputs.cache
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\salesAndInventory.csproj.CopyComplete
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.exe
+F:\4th Year Projects\Group Intern\quyet\obj\x86\Debug\skelot.pdb

@@ -1,0 +1,42 @@
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDangNhap.resources
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.HuongDan.resources
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.MuonSach.resources
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmQLThuVien.resources
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CopyComplete
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDangNhap.resources
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.HuongDan.resources
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.MuonSach.resources
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmQLThuVien.resources
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CopyComplete
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb

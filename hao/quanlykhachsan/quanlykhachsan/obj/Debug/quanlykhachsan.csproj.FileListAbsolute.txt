@@ -1,0 +1,9 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csprojResolveAssemblyReference.cache
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Form1.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.csproj.GenerateResource.Cache
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb

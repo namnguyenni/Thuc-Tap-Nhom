@@ -1,0 +1,68 @@
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\BLL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DAL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DTO.dll
+D:\CNTT\bài tập lớn năm 3\quản lý khách sạn\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\BLL.dll
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DAL.dll
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DTO.dll
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+D:\tai lieu\New folder\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.dll
+D:\tai lieu\New folder\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\BLL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\DTO.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.dll
+C:\Users\buith\OneDrive\Desktop\TT nhóm\QL.KhachSan\4\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\bin\Debug\BLL.dll
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\bin\Debug\DAL.dll
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\bin\Debug\DTO.dll
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\obj\Debug\BLL.dll
+C:\Users\buith\OneDrive\Desktop\Project\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\BLL.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\DAL.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\DTO.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\mscorlib.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\System.Net.Http.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\System.Net.Http.xml
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\normidna.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\normnfc.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\normnfd.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\normnfkc.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\bin\Debug\normnfkd.nlp
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\obj\Debug\BLL.dll
+C:\Users\Do Hao\Desktop\Project\quanlykhachsan\BLL\obj\Debug\BLL.pdb
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\bin\Debug\BLL.dll
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\bin\Debug\BLL.pdb
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\bin\Debug\DAL.dll
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\bin\Debug\DTO.dll
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\bin\Debug\DAL.pdb
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\bin\Debug\DTO.pdb
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\obj\Debug\BLL.dll
+F:\4th Year Projects\Group Intern\hao\quanlykhachsan\BLL\obj\Debug\BLL.pdb

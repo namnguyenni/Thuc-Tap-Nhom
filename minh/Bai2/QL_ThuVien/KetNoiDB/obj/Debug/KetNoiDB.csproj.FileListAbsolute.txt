@@ -1,0 +1,11 @@
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csproj.CoreCompileInputs.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb

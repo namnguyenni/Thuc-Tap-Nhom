@@ -1,0 +1,46 @@
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.Cache
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojResolveAssemblyReference.cache
+D:\C#\Code_C#\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\C#\BTL\Nhom11\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+D:\C#\BTL\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+D:\C#\BTL\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojResolveAssemblyReference.cache
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+E:\kì 1 năm 4\Clone-Hoang Anh-Thi\Nhom11\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.Cache
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe.config
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.exe
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\bin\Debug\BTL_QLNS.pdb
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangKy.resources
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.DangNhap.resources
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.ManHinhChinh.resources
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Properties.Resources.resources
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyduan.resources
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlynhanvien.resources
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.Quanlyphongban.resources
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.GenerateResource.cache
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.csproj.CoreCompileInputs.cache
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.exe
+F:\4th Year Projects\Group Intern\nam\BTL_QLNS\BTL_QLNS\obj\x86\Debug\BTL_QLNS.pdb

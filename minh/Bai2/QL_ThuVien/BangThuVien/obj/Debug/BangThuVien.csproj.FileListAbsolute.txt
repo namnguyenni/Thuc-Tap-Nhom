@@ -1,0 +1,18 @@
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\BangThuVien.dll
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\BangThuVien.pdb
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\KetNoiDB.dll
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\bin\Debug\KetNoiDB.pdb
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csproj.CoreCompileInputs.cache
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csproj.CopyComplete
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.dll
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.pdb
+D:\minh\Bai3_QuanLyThuVien\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\bin\Debug\BangThuVien.dll
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\bin\Debug\BangThuVien.pdb
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\bin\Debug\KetNoiDB.dll
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\bin\Debug\KetNoiDB.pdb
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csprojAssemblyReference.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csproj.CoreCompileInputs.cache
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.csproj.CopyComplete
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.dll
+F:\4th Year Projects\Group Intern\minh\Bai2\QL_ThuVien\BangThuVien\obj\Debug\BangThuVien.pdb
